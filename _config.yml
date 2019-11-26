@@ -5,20 +5,20 @@
 # technické nastavení
 #
 
-title: Your awesome title # To co je napsané na tabu ve kterém je stránka.
-email: info@pirati.cz
+title: Czech Pirate Party # To co je napsané na tabu ve kterém je stránka.
+email: zo@pirati.cz
 description: >-
-  Zde potří popis webu například stránka místního sdružení. Zobrází se například ve feed/rss nebo ve výsledcích googlu.
+   Zahraniční odbor komunikuje s dalšími členy mezinárodního pirátského hnutí, zejména přináší v zahraničí osvědčené nápady do strany, vypracovává společný postup při projednávání mezinárodních problémů.
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
-keywords: piráti, česká pirátská strana, svoboda, demokracie, název města, zkratka města, místní združení,
+keywords: piráti, česká pirátská strana, czech pirate party, internation pirate party, PPI, PP-EU, Evropští Piráti,
 
 administrator:
-  email: TADY_DEJTE_VLASTNI_MAIL@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
+  email: jitka.novotna@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
 
 organization:
-  name: Jmeno skupiny používající web - př Pirástá strana
-  shortName: Název skupiny
-  email: example@pirati.cz
+  name: Czech Pirate Party
+  shortName: ZO 
+  email: zo@pirati.cz
   phone: +420 770 113 642
   address: |
     Na Moráni 3,
