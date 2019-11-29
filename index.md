@@ -21,7 +21,7 @@ Please see below for further details and program.
     style="width: 349px; margin-top: 10px; text-align: center; padding: 22px; font-size: 22px; background-color: #5cb85c;border-color: #A9A9A9; color: white;" 
     class="c-cta-button c-cta-button--primary"
     >
-           Register <i class="fa fa-thumbs-up" aria-hidden="true"></i>
+           Register <i class="fa fa-pencil-square-o" aria-hidden="true"></i>
  </a>
 
 ## Program 
