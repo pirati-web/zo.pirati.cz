@@ -5,9 +5,7 @@ titles:
   before:
 category: 
   - clenove
-  - kontaktni_osoba
 img: people/david-wagner.jpg 
-contactType: Czech & English
 description: vedoucí zahraničního odboru
 mail: 
   - david.wagner@pirati.cz
