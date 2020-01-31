@@ -10,7 +10,7 @@ we would like to invite you to a Pirate municipal workshop, which will be held i
 
 Please see below for further details and program.
 
-**Date:** 21. - 23.2. 2020
+**Date:** 22.2. 2020
 
 **Venue:** [Pirate centre, Prague](/pice)
 
@@ -26,48 +26,37 @@ Please see below for further details and program.
 
 ## Program 
 
-#### Friday (evening)
-- Keynote talk and discussion about leading the cities forward 
-
-#### Saturday
-- **9:00** – networking breakfast (provided by organisers)
-- **10:00** – joint talk prepared by Czech and German Pirate on Housing Crisis
-- **10:30** – Housing Crisis workshops led by volunteers:
-    - a) relationship between politicians and developers
-    - b) social housing
-    - c) good practice in housing construction
-- **11:30** - joint talk prepared by Czech and German Pirate on Transport
-- **12:00** - Transport workshops led by volunteers
-    - a) future of public transport
-    - b) cars and the cities
-    - c) solving transport in towns and villages
-- **13:00** - lunch in form of open buffet (provided by organisers)
-- **14:00** - joint talk prepared by Czech and German Pirate on Shared economy
-- **14:30** - Shared economy workshops led by volunteers
-    - a) Uber
-    - b) AirBnB
-    - c) Lime and others
-- **15:30** - coffe break (provided by organisers)
-- **16:00** - two rounds of good practice sharing workshops suggested by participants (suggested topics: how to prepare a campaign, how to work with a team in coalition, crisis PR...)
-- **18:00** - panel discussion and closing remarks
-- **19:00** - party at a chosen club (everyone pays for their own drinks and food)
-
-#### Sunday
-- **10:00 - 13:00**: The basic package.
-International coordinator DFW and former leader of Personal Department of the party will provide you with basic lessons learned on campaigning, building the team and technical infrastructure of the party.
+- **9:00** – arrivals & registration for workshops  
+- **9:45** – **conference opening** 
+- **10:00** – **Housing Crisis, presentation by Adam Zábranský**
+- **10:30** - workshop on Housing crisis:
+    - relationship btw politicians and developers (Romana Korosi)
+    - social housing (leader TBD)
+- **11:30** - **Transport workshops**, presentation TBC
+- **12:00** - workshop on Transport
+    - solving transport in towns and villages (Helmut Eisenkolb)
+    - cars and the cities (leader TBD)
+    - future of public transportation (leader TBD)
+- **13:00** - Presentation and discussion on Energy for cities by Mikuláš Peksa
+- **13:30 - 14:30** lunch break (vegan, provided by organisers)
+- **14:30** - **Shared economy, presentotion by Jakub Lanc**
+- **15:00** -  workshops on Shared Economy
+    - AirBnB (Gregory Engels)
+    - Lime and others (Sebastian Krone)
+- **16:00** - **presentation of conclusions from workshops**
+- **17:00** - end of the event
+- **18:00** - afterparty (TBC, not paid by organisers)
 
 
 **Will be there a follow up?**
 
-Yes, leaders of different workshops and presenters will be asked to write down the basic points of what have they learned during the activities. This will be then put together in a Pirate Handbook for Communal Politics.
+Yes, leaders of different workshops and presenters will be asked to write down the basic points of what have they learned during the activities. This will be then put together in short series of articles.
 
 
 **I just want to attend and participate, what can I do?**
-Fill out this form and we will get in touch with you.
+Fill out this [form]("https://docs.google.com/forms/d/1L-JTiZPEjO4mBJTsTOQlPVj-QIxXnVhlgZUFjircEKg/viewform?fbclid=IwAR3lguZMJkwzlPtKEp5BWZvY_YpcZDA2zLobxqMmL9j7tNJ-mqnDmmlvfH4&edit_requested=true") and we will get in touch with you.
 
 **I want to be a speaker or lead a workshop, what should I do?**
 Fill out the form below and tell us what you are interested in and what is your experience with that topic. Speakers will get a reimbursement for their travel costs.
-
-We would like to have an equal distribution of Czech and German speakers.
 
 
