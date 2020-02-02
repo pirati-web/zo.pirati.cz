@@ -3,6 +3,8 @@ layout: page
 title: Municipal conference
 ---
 
+ZO.pirati.cz
+===
 
 Dear Pirates and other liberal thinking municipal politicians,
 
@@ -12,15 +14,14 @@ Please see below for further details and program.
 
 **Date:** 22.2. 2020
 
-**Venue:** [Pirate centre, Prague](/pice)
+**Venue:** Pirate centre, Prague - Na Moráni 360/3
 
 **Participants:** anybody actively participating or interested in contemporary problems of municipal politics
 
 <a href=" https://docs.google.com/forms/d/1L-JTiZPEjO4mBJTsTOQlPVj-QIxXnVhlgZUFjircEKg/viewform?fbclid=IwAR3lguZMJkwzlPtKEp5BWZvY_YpcZDA2zLobxqMmL9j7tNJ-mqnDmmlvfH4&edit_requested=true"
     id='butt' 
-    style="width: 349px; margin-top: 10px; text-align: center; padding: 22px; font-size: 22px; background-color: #5cb85c;border-color: #A9A9A9; color: white;" 
-    class="c-cta-button c-cta-button--primary"
-    >
+    style="width: 349px; margin-top: 10px; text-align: center; padding: 22px; font-size: 22px; background-color: #5cb85c;border-color: #A9A9A9; color: white;"     class="c-cta-button c-cta-button--primary"
+    >   
            Register <i class="fa fa-pencil-square-o" aria-hidden="true"></i>
  </a>
 
@@ -58,6 +59,7 @@ Fill out this [form]("https://docs.google.com/forms/d/1L-JTiZPEjO4mBJTsTOQlPVj-Q
 
 **I want to be a speaker or lead a workshop, what should I do?**
 Fill out the form below and tell us what you are interested in and what is your experience with that topic. Speakers will get a reimbursement for their travel costs.
+
 
 <div class="row-foto">
   <div class="column-foto">
