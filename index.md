@@ -39,7 +39,7 @@ Please see below for further details and program.
     - future of public transportation (leader TBD)
 - **13:00** - Presentation and discussion on Energy for cities by Mikuláš Peksa
 - **13:30 - 14:30** lunch break (vegan, provided by organisers)
-- **14:30** - **Shared economy, presentotion by Jakub Lanc**
+- **14:30** - **Shared economy, presentation by Jakub Lanc**
 - **15:00** -  workshops on Shared Economy
     - AirBnB (Gregory Engels)
     - Lime and others (Sebastian Krone)
@@ -59,4 +59,11 @@ Fill out this [form]("https://docs.google.com/forms/d/1L-JTiZPEjO4mBJTsTOQlPVj-Q
 **I want to be a speaker or lead a workshop, what should I do?**
 Fill out the form below and tell us what you are interested in and what is your experience with that topic. Speakers will get a reimbursement for their travel costs.
 
-
+<div class="row-foto">
+  <div class="column-foto">
+    <img src="https://a.pirati.cz/common/img/brand/logo.svg" alt="Pirati" style="width:50%">
+  </div>
+  <div class="column-foto">
+    <img src="https://a.pirati.cz/common/img/logo/greensEFA.png" alt="Greens/EFA" style="width:100%">
+  </div>
+</div> 
