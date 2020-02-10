@@ -3,8 +3,6 @@ layout: page
 title: Municipal conference
 ---
 
-ZO.pirati.cz
-===
 
 Dear Pirates and other liberal thinking municipal politicians,
 
@@ -19,25 +17,25 @@ Please see below for further details and program.
 **Participants:** anybody actively participating or interested in contemporary problems of municipal politics
 
 <a href=" https://docs.google.com/forms/d/1L-JTiZPEjO4mBJTsTOQlPVj-QIxXnVhlgZUFjircEKg/viewform?fbclid=IwAR3lguZMJkwzlPtKEp5BWZvY_YpcZDA2zLobxqMmL9j7tNJ-mqnDmmlvfH4&edit_requested=true"
-    id='butt' 
+    id='butt'
     style="width: 349px; margin-top: 10px; text-align: center; padding: 22px; font-size: 22px; background-color: #5cb85c;border-color: #A9A9A9; color: white;"     class="c-cta-button c-cta-button--primary"
-    >   
+    >
            Register <i class="fa fa-pencil-square-o" aria-hidden="true"></i>
  </a>
 
-## Program 
+## Program
 
-- **9:00** – arrivals & registration for workshops  
-- **9:45** – **conference opening** 
+- **9:00** – arrivals & registration for workshops
+- **9:45** – **conference opening**
 - **10:00** – **Housing Crisis, presentation by Adam Zábranský**
 - **10:30** - workshop on Housing crisis:
     - relationship btw politicians and developers (Romana Korosi)
     - social housing (leader TBD)
-- **11:30** - **Transport workshops**, presentation TBC
+- **11:30** - **Transport workshops**, presentation Blanka Lednická
 - **12:00** - workshop on Transport
     - solving transport in towns and villages (Helmut Eisenkolb)
     - cars and the cities (leader TBD)
-    - future of public transportation (leader TBD)
+    - future of public transportation (leader Václav Vislous)
 - **13:00** - Presentation and discussion on Energy for cities by Mikuláš Peksa
 - **13:30 - 14:30** lunch break (vegan, provided by organisers)
 - **14:30** - **Shared economy, presentation by Jakub Lanc**
