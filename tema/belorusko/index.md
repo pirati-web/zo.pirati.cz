@@ -124,7 +124,7 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
 
   <div class="row">
 
-   v přípravě
+  
 
   </div>
   
