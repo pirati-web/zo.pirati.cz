@@ -5,21 +5,42 @@ description: Témata Bělorusko - společenská krize
 keywords: sucho, témata, piráti
 ---
 <div class="o-section">
-  <div class="row">
+  
+            <header class="c-page-header">
+            <h1 itemprop="headline" class="c-page-title">Bělorusko - společenská krize</h1>
+          </header>
+          
+  <div class="row"  class="o-section">
+   
+    <div class="row"  class="o-section-inner">
+    
 
 Před půl rokem proběhly v Bělorusku volby. Volby, které byly dle všech zdrojů zfalšované, provázela je široká manipulace a státní perzekuce vůči těm, kteří se režimu postavili na odpor.
 
+
+
 My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donutit Lukašenkův režim nést odpovědnost a trváme na tom, že si Bělorusové zaslouží skutečné svobodné volby.
+
+
 Co můžete udělat?
+
 V pandemii koronaviru nechceme pořádat veřejná setkání. Máme pro vás ale několik způsobů, jak se můžete dozvědět víc a jak můžete podpořit lidi v Bělorusku.
 
+
+
 Diskuze
+
 Přijďte na diskuze, které chystáme online s prostorem na vaše otázky. Chystáme dvě:
 
+
 diskuze 1 (Lipavský, ?, ?, ?) proběhne ? v ?, dostupná bude zde
+
 diskuze 2 (Gregorová, ?, ?, ?) proběhne v ? v ?, dostupná bude zde
 
+
+
 Mory
+
 Běloruský odpor proti Lukašenkovi má i svoje písně. Abychom vám je přiblížili, přeložili a nahráli jsme jednu z nich. 
 
 (vložit video)
@@ -43,6 +64,7 @@ Už v létě jsme připravovali demonstrace i na nich vystupovali.
 I kvůli diktátorovi prosazujeme sankční zákon na ochranu lidských práv.
 
 
+  </div>
   </div>
   <div class="row">
 
