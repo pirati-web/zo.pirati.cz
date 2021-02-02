@@ -12,16 +12,21 @@ keywords: sucho, témata, piráti
 
 <section  class="invert">
   <div class="container">					       
-    <div class="row">
-      <div class="col-sm">
-        
-      <div class="o-section-inner">
-       <header class="c-page-header">
+   <div class="row">
+    <div class="col-sm">
+     <div class="o-section-inner">
+         <header class="c-page-header">
             <h1 itemprop="headline" class="c-page-title">Bělorusko - společenská krize</h1>
-       </header>
-      </div>  
+         </header>
+     </div>
+    </div>
+   </div>
+  </div>     
 </section>
 <section >
+  <div class="container">					       
+   <div class="row">
+    <div class="col-sm">
 	    <div class="program-element-header">
           <h3>NESVOBODNÉ VOLBY</h3>
           
@@ -89,10 +94,13 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
           
         </div>
 		<p class="font-weight-normal">Pokud chcete pro lidi které režim odklidil do vězení udělat ještě víc, staňte se jejich kmotry, stejně jako naše europoslankyně Markéta Gregorová.</p>
-  </div>
     </div>
+   </div>
+  </div>
+ </div>
 </section>
 <section class="invert">
+  <div class="container">	  
     <div class="row">
       <div class="col-sm">
 	    <div class="program-element-header">
@@ -106,9 +114,10 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
   <li>Už v létě jsme připravovali <a href="https://www.lidovky.cz/domov/v-praze-vyjadruji-solidaritu-s-demonstranty-v-minsku-stovky-lidi-lide-se-sesli-i-v-brne.A200816_192108_ln_domov_ele">demonstrace i na nich vystupovali</a>.</li>
   <li>I kvůli diktátorovi prosazujeme <a href="https://blog.aktualne.cz/blogy/jan-lipavsky.php?itemid=37567">sankční zákon na ochranu lidských práv</a>. </li>
 </ul></p>
-      </div>
+     </div>
     </div> 
    </div>
+  </div>
 </section>
 
   <div class="row">
