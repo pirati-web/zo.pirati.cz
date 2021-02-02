@@ -17,10 +17,11 @@ a:link {    /* unvisited link */
     font-weight: bold;
 }
 a:visited {    /* visited link */
+    text-decoration: none;  
     color: #000000;
 }
 a:hover {    /* mouse over link */
-    color: #343434;
+    text-decoration: underline;  
     border-bottom: none;
 }
 a:active {    /* active link */
