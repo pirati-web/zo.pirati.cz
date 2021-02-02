@@ -8,16 +8,19 @@ keywords: sucho, témata, piráti
 <section >
   <div class="container" id="headline">
 <div class="o-section">
-    <div class="o-section-inner">
-       <header class="c-page-header">
-            <h1 itemprop="headline" class="c-page-title">Bělorusko - společenská krize</h1>
-          </header>
-  </div>
+
 
 <section  class="invert">
   <div class="container">					       
     <div class="row">
       <div class="col-sm">
+        
+      <div class="o-section-inner">
+       <header class="c-page-header">
+            <h1 itemprop="headline" class="c-page-title">Bělorusko - společenská krize</h1>
+       </header>
+      </div>  
+        
 	    <div class="program-element-header">
           <h3>NESVOBODNÉ VOLBY</h3>
           <img src="/assets/img/icons/ikony1.jpg" class="program-logo">
@@ -43,8 +46,8 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
     <div class="row">
       <div class="col-sm">
 	    <div class="program-element-header">
-          <b>Diskuze</b>
-          <img src="/assets/img/icons/ikony3.jpg" class="program-logo">
+          <img src="/assets/img/icons/ikony3.jpg" class="program-logo"><b>Diskuze</b>
+          
         </div>
 		<p class="font-weight-normal">Přijďte na diskuze, které chystáme online s prostorem na vaše otázky. Chystáme dvě:</p>
 <ul>
@@ -57,8 +60,8 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
     <div class="row">
       <div class="col-sm">
 	    <div class="program-element-header">
-          <b>Mory</b>
-          <img src="/assets/img/icons/ikony3.jpg" class="program-logo">
+          <img src="/assets/img/icons/ikony3.jpg" class="program-logo"><b>Mory</b>
+          
         </div>
 		<p class="font-weight-normal">Běloruský odpor proti Lukašenkovi má i svoje písně. Abychom vám je přiblížili, přeložili a nahráli jsme jednu z nich. 
 
@@ -73,8 +76,8 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
     <div class="row">
       <div class="col-sm">
 	    <div class="program-element-header">
-          <b>Napište vězňům</b>
-          <img src="/assets/img/icons/ikony3.jpg" class="program-logo">
+          <img src="/assets/img/icons/ikony3.jpg" class="program-logo"><b>Napište vězňům</b>
+          
         </div>
 		<p class="font-weight-normal">Zde (odkaz) si můžete rozkliknout seznam lidí, kterým můžete přímo napsat dopis nebo jenom poslat pohlednici. Každé takové gesto je pro někoho ve vězení dost zásadní povzbuzení.</p>
   </div>
@@ -84,8 +87,8 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
     <div class="row">
       <div class="col-sm">
 	    <div class="program-element-header">
-          <b>Staňte se kmotrem vězně</b>
-          <img src="/assets/img/icons/ikony3.jpg" class="program-logo">
+          <img src="/assets/img/icons/ikony3.jpg" class="program-logo"><b>Staňte se kmotrem vězně</b>
+          
         </div>
 		<p class="font-weight-normal">Pokud chcete pro lidi které režim odklidil do vězení udělat ještě víc, staňte se jejich kmotry, stejně jako naše europoslankyně Markéta Gregorová. Jak na to? Pokračujte sem (substránka, dodá tým Markéta).</p>
   </div>
