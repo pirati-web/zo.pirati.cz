@@ -97,7 +97,6 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
     </div>
    </div>
   </div>
- </div>
 </section>
 <section class="invert">
   <div class="container">	  
@@ -117,7 +116,6 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
      </div>
     </div> 
    </div>
-  </div>
 </section>
 
   <div class="row">
