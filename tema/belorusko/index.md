@@ -10,7 +10,7 @@ keywords: sucho, témata, piráti
 <div class="o-section">
 
 
-<section  class="invert">
+<section >
   <div class="container">					       
    <div class="row">
     <div class="col-sm">
@@ -23,7 +23,7 @@ keywords: sucho, témata, piráti
    </div>
   </div>     
 </section>
-<section >
+<section  class="invert" >
   <div class="container">					       
    <div class="row">
     <div class="col-sm">
@@ -39,6 +39,10 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
 </p>
       </div>
     </div>
+  </div>     
+</section>
+<section   >
+  <div class="container">					       
     <div class="row">
       <div class="col-sm">
 	    <div class="program-element-header">
