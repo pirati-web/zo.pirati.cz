@@ -20,7 +20,7 @@ keywords: sucho, témata, piráti
       <div class="col-sm">
 	    <div class="program-element-header">
           <h3>NESVOBODNÉ VOLBY</h3>
-          <img src="assets/img/icons/ikony1.jpg" class="program-logo">
+          <img src="/assets/img/icons/ikony1.jpg" class="program-logo">
         </div>
 		<p class="font-weight-normal">
 Před půl rokem proběhly v Bělorusku volby. Volby, které byly dle všech zdrojů zfalšované, provázela je široká manipulace a státní perzekuce vůči těm, kteří se režimu postavili na odpor.
@@ -34,7 +34,7 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
       <div class="col-sm">
 	    <div class="program-element-header">
           <h3>CO MŮŽETE UDĚLAT?</h3>
-          <img src="assets/img/icons/ikony2.jpg" class="program-logo">
+          <img src="/assets/img/icons/ikony2.jpg" class="program-logo">
         </div>
 		<p class="font-weight-normal">V pandemii koronaviru nechceme pořádat veřejná setkání. Máme pro vás ale několik způsobů, jak se můžete dozvědět víc a jak můžete podpořit lidi v Bělorusku. </p>
       </div>
@@ -44,7 +44,7 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
       <div class="col-sm">
 	    <div class="program-element-header">
           <b>Diskuze</b>
-          <img src="assets/img/icons/ikony3.jpg" class="program-logo">
+          <img src="/assets/img/icons/ikony3.jpg" class="program-logo">
         </div>
 		<p class="font-weight-normal">Přijďte na diskuze, které chystáme online s prostorem na vaše otázky. Chystáme dvě:</p>
 <ul>
@@ -58,7 +58,7 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
       <div class="col-sm">
 	    <div class="program-element-header">
           <b>Mory</b>
-          <img src="assets/img/icons/ikony3.jpg" class="program-logo">
+          <img src="/assets/img/icons/ikony3.jpg" class="program-logo">
         </div>
 		<p class="font-weight-normal">Běloruský odpor proti Lukašenkovi má i svoje písně. Abychom vám je přiblížili, přeložili a nahráli jsme jednu z nich. 
 
@@ -74,7 +74,7 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
       <div class="col-sm">
 	    <div class="program-element-header">
           <b>Napište vězňům</b>
-          <img src="assets/img/icons/ikony3.jpg" class="program-logo">
+          <img src="/assets/img/icons/ikony3.jpg" class="program-logo">
         </div>
 		<p class="font-weight-normal">Zde (odkaz) si můžete rozkliknout seznam lidí, kterým můžete přímo napsat dopis nebo jenom poslat pohlednici. Každé takové gesto je pro někoho ve vězení dost zásadní povzbuzení.</p>
   </div>
@@ -85,7 +85,7 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
       <div class="col-sm">
 	    <div class="program-element-header">
           <b>Staňte se kmotrem vězně</b>
-          <img src="assets/img/icons/ikony3.jpg" class="program-logo">
+          <img src="/assets/img/icons/ikony3.jpg" class="program-logo">
         </div>
 		<p class="font-weight-normal">Pokud chcete pro lidi které režim odklidil do vězení udělat ještě víc, staňte se jejich kmotry, stejně jako naše europoslankyně Markéta Gregorová. Jak na to? Pokračujte sem (substránka, dodá tým Markéta).</p>
   </div>
@@ -95,7 +95,7 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
       <div class="col-sm">
 	    <div class="program-element-header">
           <h3>CO UŽ JSME UDĚLALI?</h3>
-          <img src="assets/img/icons/ikony4.jpg" class="program-logo">
+          <img src="/assets/img/icons/ikony4.jpg" class="program-logo">
         </div>
 		<p class="font-weight-normal">S poslankyní EP Maxovou jsme vyzvali české školy, aby přijímali běloruské studenty - a všechny školy přijaly, z čehož máme velkou radost .
 <ul>
