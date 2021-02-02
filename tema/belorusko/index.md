@@ -20,7 +20,8 @@ keywords: sucho, témata, piráti
             <h1 itemprop="headline" class="c-page-title">Bělorusko - společenská krize</h1>
        </header>
       </div>  
-        
+</section>
+<section >
 	    <div class="program-element-header">
           <h3>NESVOBODNÉ VOLBY</h3>
           
@@ -90,7 +91,8 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
 		<p class="font-weight-normal">Pokud chcete pro lidi které režim odklidil do vězení udělat ještě víc, staňte se jejich kmotry, stejně jako naše europoslankyně Markéta Gregorová.</p>
   </div>
     </div>
-
+</section>
+<section class="invert">
     <div class="row">
       <div class="col-sm">
 	    <div class="program-element-header">
