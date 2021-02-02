@@ -68,6 +68,27 @@ a:active {    /* active link */
     padding-top: 20px;
 }
 
+
+invert.a:link {    /* unvisited link */
+    color: #FFFFFF;
+    text-decoration: none;
+    font-weight: bold;
+}
+invert.a:visited {    /* visited link */
+    text-decoration: none;  
+    color: #000000;
+}
+invert.a:hover {    /* mouse over link */
+    text-decoration: underline;  
+    border-bottom: none;
+    color: #000000;  
+}
+invert.a:active {    /* active link */
+    color: #777777;
+}
+
+
+
 .program-items li {
     padding-bottom: 10px;
 }
