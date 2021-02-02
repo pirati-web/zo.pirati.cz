@@ -23,7 +23,7 @@ keywords: sucho, témata, piráti
         
 	    <div class="program-element-header">
           <h3>NESVOBODNÉ VOLBY</h3>
-          <img src="/assets/img/icons/ikony1.jpg" class="program-logo">
+          
         </div>
 		<p class="font-weight-normal">
 Před půl rokem proběhly v Bělorusku volby. Volby, které byly dle všech zdrojů zfalšované, provázela je široká manipulace a státní perzekuce vůči těm, kteří se režimu postavili na odpor.
@@ -37,7 +37,7 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
       <div class="col-sm">
 	    <div class="program-element-header">
           <h3>CO MŮŽETE UDĚLAT?</h3>
-          <img src="/assets/img/icons/ikony2.jpg" class="program-logo">
+          
         </div>
 		<p class="font-weight-normal">V pandemii koronaviru nechceme pořádat veřejná setkání. Máme pro vás ale několik způsobů, jak se můžete dozvědět víc a jak můžete podpořit lidi v Bělorusku. </p>
       </div>
@@ -46,7 +46,7 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
     <div class="row">
       <div class="col-sm">
 	    <div class="program-element-header">
-          <img src="/assets/img/icons/ikony3.jpg" class="program-logo"><b>Diskuze</b>
+          <b>Diskuze</b>
           
         </div>
 		<p class="font-weight-normal">Přijďte na diskuze, které chystáme online s prostorem na vaše otázky. Chystáme dvě:</p>
@@ -60,7 +60,7 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
     <div class="row">
       <div class="col-sm">
 	    <div class="program-element-header">
-          <img src="/assets/img/icons/ikony3.jpg" class="program-logo"><b>Mory</b>
+          <b>Mory</b>
           
         </div>
 		<p class="font-weight-normal">Běloruský odpor proti Lukašenkovi má i svoje <a href="https://beehy.pe/belarus-10-songs-on-the-latest-events/">písně.</a> 
@@ -73,7 +73,7 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
     <div class="row">
       <div class="col-sm">
 	    <div class="program-element-header">
-          <img src="/assets/img/icons/ikony3.jpg" class="program-logo"><b>Napište vězňům</b>
+          <b>Napište vězňům</b>
           
         </div>
 		<p class="font-weight-normal">Připravujeme seznam lidí, kterým můžete přímo napsat dopis nebo jenom poslat pohlednici. Každé takové gesto je pro někoho ve vězení dost zásadní povzbuzení.</p>
@@ -84,7 +84,7 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
     <div class="row">
       <div class="col-sm">
 	    <div class="program-element-header">
-          <img src="/assets/img/icons/ikony3.jpg" class="program-logo"><b>Staňte se kmotrem vězně</b>
+          <b>Staňte se kmotrem vězně</b>
           
         </div>
 		<p class="font-weight-normal">Pokud chcete pro lidi které režim odklidil do vězení udělat ještě víc, staňte se jejich kmotry, stejně jako naše europoslankyně Markéta Gregorová.</p>
@@ -95,14 +95,14 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
       <div class="col-sm">
 	    <div class="program-element-header">
           <h3>CO UŽ JSME UDĚLALI?</h3>
-          <img src="/assets/img/icons/ikony4.jpg" class="program-logo">
+
         </div>
 		<p class="font-weight-normal">S poslankyní EP Maxovou jsme vyzvali české školy, aby přijímali běloruské studenty - a všechny školy přijaly, z čehož máme velkou radost .
 <ul>
-  <li>Na náš popud Sněmovna žádá propuštění vězňů i prošetření zločinů.</li>
-  <li>V Evropském parlamentu jsme úspěšně lobbovali za Sacharovovu cenu pro běloruskou opozici.</li>
-  <li>Už v létě jsme připravovali demonstrace i na nich vystupovali.</li>
-  <li>I kvůli diktátorovi prosazujeme sankční zákon na ochranu lidských práv. </li>
+  <li>Na náš popud Sněmovna žádá <a href="https://www.pirati.cz/tiskove-zpravy/volby-v-belorusku-usneseni.html">propuštění vězňů i prošetření zločinů</a>.</li>
+  <li>V Evropském parlamentu jsme úspěšně <a href="https://www.pirati.cz/tiskove-zpravy/beloruska-opozice-sacharovova-cena.html">lobbovali za Sacharovovu cenu pro běloruskou opozici</a>.</li>
+  <li>Už v létě jsme připravovali <a href="https://www.lidovky.cz/domov/v-praze-vyjadruji-solidaritu-s-demonstranty-v-minsku-stovky-lidi-lide-se-sesli-i-v-brne.A200816_192108_ln_domov_ele">demonstrace i na nich vystupovali</a>.</li>
+  <li>I kvůli diktátorovi prosazujeme <a href="https://blog.aktualne.cz/blogy/jan-lipavsky.php?itemid=37567">sankční zákon na ochranu lidských práv</a>. </li>
 </ul></p>
       </div>
     </div> 
