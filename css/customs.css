@@ -18,11 +18,12 @@ a:link {    /* unvisited link */
 }
 a:visited {    /* visited link */
     text-decoration: none;  
-    color: #000000;
+    color: #FFFFFF;
 }
 a:hover {    /* mouse over link */
     text-decoration: underline;  
     border-bottom: none;
+    color: #FFFFFF;  
 }
 a:active {    /* active link */
     color: #777777;
