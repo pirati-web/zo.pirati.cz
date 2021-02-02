@@ -11,6 +11,22 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+a:link {    /* unvisited link */
+    color: #000000;
+    text-decoration: none;
+    border-bottom: 1px solid;
+}
+a:visited {    /* visited link */
+    color: #000000;
+}
+a:hover {    /* mouse over link */
+    color: #343434;
+    border-bottom: none;
+}
+a:active {    /* active link */
+    color: #777777;
+}
+
 .main-menu {
     background-color: #f8f9fa;
     margin-bottom: 20px
