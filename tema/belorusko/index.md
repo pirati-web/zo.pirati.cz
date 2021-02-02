@@ -4,7 +4,7 @@ title: Témata Bělorusko - společenská krize
 description: Témata Bělorusko - společenská krize
 keywords: sucho, témata, piráti
 ---
-<link href="/css/custom.css" rel="stylesheet">
+<link href="/css/customs.css" rel="stylesheet">
 <section >
   <div class="container" id="headline">
 <div class="o-section">
