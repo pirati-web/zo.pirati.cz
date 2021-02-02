@@ -51,8 +51,8 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
         </div>
 		<p class="font-weight-normal">Přijďte na diskuze, které chystáme online s prostorem na vaše otázky. Chystáme dvě:</p>
 <ul>
-  <li>diskuze 1 (Lipavský, ?, ?, ?) proběhne ? v ?, dostupná bude zde</li>
-  <li>diskuze 2 (Gregorová, ?, ?, ?) proběhne v ? v ?, dostupná bude zde</li>
+  <li>diskuze 1 (Lipavský a kolektiv) proběhne v blízké době</li>
+  <li>diskuze 2 (Gregorová a kolektiv)  proběhne v blízké době</li>
  </ul>     </div>
     </div>
 
@@ -63,12 +63,9 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
           <img src="/assets/img/icons/ikony3.jpg" class="program-logo"><b>Mory</b>
           
         </div>
-		<p class="font-weight-normal">Běloruský odpor proti Lukašenkovi má i svoje písně. Abychom vám je přiblížili, přeložili a nahráli jsme jednu z nich. 
+		<p class="font-weight-normal">Běloruský odpor proti Lukašenkovi má i svoje <a href="https://beehy.pe/belarus-10-songs-on-the-latest-events/">písně.</a> 
 
-(vložit video)
 </p>
-<p class="font-weight-normal">A připravili titulky k druhé.
-(video)</P>
    </div>
     </div>
 
@@ -79,7 +76,7 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
           <img src="/assets/img/icons/ikony3.jpg" class="program-logo"><b>Napište vězňům</b>
           
         </div>
-		<p class="font-weight-normal">Zde (odkaz) si můžete rozkliknout seznam lidí, kterým můžete přímo napsat dopis nebo jenom poslat pohlednici. Každé takové gesto je pro někoho ve vězení dost zásadní povzbuzení.</p>
+		<p class="font-weight-normal">Připravujeme seznam lidí, kterým můžete přímo napsat dopis nebo jenom poslat pohlednici. Každé takové gesto je pro někoho ve vězení dost zásadní povzbuzení.</p>
   </div>
     </div>
 
@@ -90,7 +87,7 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
           <img src="/assets/img/icons/ikony3.jpg" class="program-logo"><b>Staňte se kmotrem vězně</b>
           
         </div>
-		<p class="font-weight-normal">Pokud chcete pro lidi které režim odklidil do vězení udělat ještě víc, staňte se jejich kmotry, stejně jako naše europoslankyně Markéta Gregorová. Jak na to? Pokračujte sem (substránka, dodá tým Markéta).</p>
+		<p class="font-weight-normal">Pokud chcete pro lidi které režim odklidil do vězení udělat ještě víc, staňte se jejich kmotry, stejně jako naše europoslankyně Markéta Gregorová.</p>
   </div>
     </div>
 
