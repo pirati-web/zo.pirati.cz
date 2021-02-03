@@ -40,6 +40,8 @@ keywords: sucho, témata, piráti
       <div class="col-sm">
   	    <div class="program-element-header">
 	  	    <p class="font-weight-normal">Před půl rokem proběhly v Bělorusku volby. Volby, které byly dle všech zdrojů zfalšované, provázela je široká manipulace a státní perzekuce vůči těm, kteří se režimu postavili na odpor.</p>
+        </div>
+  	    <div class="program-element-header">
 	       	<p class="font-weight-normal">My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donutit Lukašenkův režim nést odpovědnost a trváme na tom, že si Bělorusové zaslouží skutečné svobodné volby.</p>
         </div>
       </div>
@@ -67,10 +69,9 @@ keywords: sucho, témata, piráti
 	      <div class="program-element-header">
 		      <p class="font-weight-normal">V pandemii koronaviru nechceme pořádat veřejná setkání. Máme pro vás ale několik způsobů, jak se můžete dozvědět víc a jak můžete podpořit lidi v Bělorusku. </p>
        </div>
-    </div>
 
-    <div class="row">
-    <div class="col-sm">
+
+ 
 	    <div class="program-element-header">
           <b>Diskuze</b>
       </div>
@@ -97,6 +98,7 @@ keywords: sucho, témata, piráti
 
         </div>
 		<p class="font-weight-normal">Pokud chcete pro lidi které režim odklidil do vězení udělat ještě víc, staňte se jejich kmotry, stejně jako naše europoslankyně Markéta Gregorová. Jak na to? Stačí si vytisknout obrázek s nápisem <a href="https://www.lphr.org/wp-content/uploads/2020/07/WeStandBYyou.jpg">#WeStandByYou (nebo českou úpravou #StojímePřiVás)</a>, a spolu s hashtagem ho sdílet s příběhem některého z politických vězňů na svých sociálních sítích. Napište také svým poslancům - <a href="https://www.lphr.org/en/belarus-gefangene-patenschaften-prisoners-godparenthood/">z výzvy organizace Liberec</a> vůči politikům zatím Česká republika zahrnuje pouze europoslance.</p>
+     </div>
     </div>
    </div>
   </div>
