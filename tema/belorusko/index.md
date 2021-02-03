@@ -2,7 +2,7 @@
 layout: default
 title: Témata Bělorusko - společenská krize
 description: Témata Bělorusko - společenská krize
-keywords: sucho, témata, piráti
+keywords: bělorusko, témata, piráti
 ---
 <link href="/css/customs.css" rel="stylesheet">
 <section >
@@ -98,8 +98,7 @@ keywords: sucho, témata, piráti
 
         </div>
 		<p class="font-weight-normal">Pokud chcete pro lidi které režim odklidil do vězení udělat ještě víc, staňte se jejich kmotry, stejně jako naše europoslankyně Markéta Gregorová. Jak na to? Stačí si vytisknout obrázek s nápisem <a href="https://www.lphr.org/wp-content/uploads/2020/07/WeStandBYyou.jpg">#WeStandByYou (nebo českou úpravou #StojímePřiVás)</a>, a spolu s hashtagem ho sdílet s příběhem některého z politických vězňů na svých sociálních sítích. Napište také svým poslancům - <a href="https://www.lphr.org/en/belarus-gefangene-patenschaften-prisoners-godparenthood/">z výzvy organizace Liberec</a> vůči politikům zatím Česká republika zahrnuje pouze europoslance.</p>
-     </div>
-    </div>
+
    </div>
   </div>
  </div>  
@@ -121,6 +120,8 @@ keywords: sucho, témata, piráti
       <div class="col-sm">
 	      <div class="program-element-header">
 		<p class="font-weight-normal">S poslankyní EP Maxovou jsme vyzvali české školy, aby přijímali běloruské studenty - a všechny školy přijaly, z čehož máme velkou radost .
+</div>
+	      <div class="program-element-header">
 <ul>
   <li>Na náš popud Sněmovna žádá <a href="https://www.pirati.cz/tiskove-zpravy/volby-v-belorusku-usneseni.html">propuštění vězňů i prošetření zločinů</a>.</li>
   <li>V Evropském parlamentu jsme úspěšně <a href="https://www.pirati.cz/tiskove-zpravy/beloruska-opozice-sacharovova-cena.html">lobbovali za Sacharovovu cenu pro běloruskou opozici</a>.</li>
