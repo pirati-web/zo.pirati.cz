@@ -128,18 +128,19 @@ keywords: sucho, témata, piráti
      </div>
     </div>
    </div>
+  </div> 
 </section>
 
 <section class="invert">
-  <div class="container">
-    <div class="row">
-      <div class="col-sm">
-	      <div class="program-element-header">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm">
+	        <div class="program-element-header">
           <h3>ČASTO KLADENÉ OTÁZKY</h3>
+          </div>
         </div>
       </div>
     </div>
-  </div>
 </section>
 <section>
   <div class="container">
@@ -166,6 +167,7 @@ keywords: sucho, témata, piráti
      </div>
     </div>
    </div>
+  </div> 
 </section>
 
 
