@@ -29,26 +29,44 @@ keywords: sucho, témata, piráti
     <div class="col-sm">
 	    <div class="program-element-header">
           <h3>NESVOBODNÉ VOLBY</h3>
-          
-        </div>
+      </div>
+    </div>
+   </div>
+  </div>     
+</section>
+<section>
+  <div class="container">					       
+    <div class="row">
+     <div class="col-sm">
+	    <div class="program-element-header">       
 		<p class="font-weight-normal">
 Před půl rokem proběhly v Bělorusku volby. Volby, které byly dle všech zdrojů zfalšované, provázela je široká manipulace a státní perzekuce vůči těm, kteří se režimu postavili na odpor.
  </p>
 		<p class="font-weight-normal">        
 My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donutit Lukašenkův režim nést odpovědnost a trváme na tom, že si Bělorusové zaslouží skutečné svobodné volby.
 </p>
+
+        </div>
       </div>
     </div>
   </div>     
 </section>
-<section   >
+<section class="invert">
   <div class="container">					       
     <div class="row">
       <div class="col-sm">
-	    <div class="program-element-header">
+	      <div class="program-element-header">
           <h3>CO MŮŽETE UDĚLAT?</h3>
-          
         </div>
+      </div>
+    </div>
+  </div>     
+</section>
+<section>
+  <div class="container">					       
+    <div class="row">
+      <div class="col-sm">
+	      <div class="program-element-header">        
 		<p class="font-weight-normal">V pandemii koronaviru nechceme pořádat veřejná setkání. Máme pro vás ale několik způsobů, jak se můžete dozvědět víc a jak můžete podpořit lidi v Bělorusku. </p>
       </div>
     </div>
@@ -102,10 +120,18 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
   <div class="container">	  
     <div class="row">
       <div class="col-sm">
-	    <div class="program-element-header">
+	      <div class="program-element-header">
           <h3>CO UŽ JSME UDĚLALI?</h3>
-
         </div>
+      </div>
+    </div>
+  </div>     
+</section>
+<section>
+  <div class="container">					       
+    <div class="row">
+      <div class="col-sm">
+	      <div class="program-element-header">        
 		<p class="font-weight-normal">S poslankyní EP Maxovou jsme vyzvali české školy, aby přijímali běloruské studenty - a všechny školy přijaly, z čehož máme velkou radost .
 <ul>
   <li>Na náš popud Sněmovna žádá <a href="https://www.pirati.cz/tiskove-zpravy/volby-v-belorusku-usneseni.html">propuštění vězňů i prošetření zločinů</a>.</li>
@@ -118,15 +144,23 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
    </div>
 </section>
 
-<section>
+<section class="invert">
   <div class="container">	  
     <div class="row">
       <div class="col-sm">
-	    <div class="program-element-header">
+	      <div class="program-element-header">
           <h3>ČASTO KLADENÉ OTÁZKY</h3>
-
         </div>
-<ol>
+      </div>
+    </div>
+  </div>     
+</section>
+<section>
+  <div class="container">					       
+    <div class="row">
+      <div class="col-sm">
+	      <div class="program-element-header">        
+<ul>
   <li><p class="font-weight-bold">Proč neuznáváte volby v Bělorusku?</p></li>
 <p  class="font-weight-normal"> Výsledek voleb neodpovídá nezávislým exit pollům provedeným jak v Bělorusku, tak v zahraničí, ani tomu, co oznámily některé místní volební komise. Podle těchto údajů Tichanovská dosáhla mnohem lepšího výsledku než Lukašenko. Režim také neumožnil nezávislým pozorovatelům volby sledovat a neumožnil zpětnou kontrolu. S ohledem na autoritářské praktiky Alexandra Lukašenka ho stejně jako všechny země Evropské unie nepovažujeme za legitimního prezidenta země.</P>
 
@@ -142,7 +176,7 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
 <li><p class="font-weight-bold">Co se teď v Bělorusku děje?</p></li>
 <p  class="font-weight-normal">Aktuálně je ve vězení za politické vězně označeno 220 lidí a číslo stoupá. Protesty ve stovkách lidí pokračují, ale po několika měsících již slábnou. Sankce zatím neměly reálný efekt a Lukašenko odmítá odstoupit, dle svých slov “dokud ho nezabijí”. Přitvrzují také nová trestní stíhání členů Koordinační rady běloruské opozice, již se Lukašenko snaží za každou cenu potřít. </p>
 
-</ol>
+</ul> </div>
      </div>
     </div> 
    </div>
