@@ -119,7 +119,7 @@ keywords: bělorusko, témata, piráti
     <div class="row">
       <div class="col-sm">
 	      <div class="program-element-header">
-		<p class="font-weight-normal">S poslankyní EP Maxovou jsme vyzvali české školy, aby přijímali běloruské studenty - a všechny školy přijaly, z čehož máme velkou radost .
+		<p class="font-weight-normal">S poslankyní EP Maxovou jsme vyzvali české školy, aby přijímali běloruské studenty - a všechny školy přijaly, z čehož máme velkou radost .</p>
 </div>
 	      <div class="program-element-header">
 <ul>
@@ -127,7 +127,7 @@ keywords: bělorusko, témata, piráti
   <li>V Evropském parlamentu jsme úspěšně <a href="https://www.pirati.cz/tiskove-zpravy/beloruska-opozice-sacharovova-cena.html">lobbovali za Sacharovovu cenu pro běloruskou opozici</a>.</li>
   <li>Už v létě jsme připravovali <a href="https://www.lidovky.cz/domov/v-praze-vyjadruji-solidaritu-s-demonstranty-v-minsku-stovky-lidi-lide-se-sesli-i-v-brne.A200816_192108_ln_domov_ele">demonstrace i na nich vystupovali</a>.</li>
   <li>I kvůli diktátorovi prosazujeme <a href="https://blog.aktualne.cz/blogy/jan-lipavsky.php?itemid=37567">sankční zákon na ochranu lidských práv</a>. </li>
-</ul></p>
+</ul>
      </div>
     </div>
    </div>
