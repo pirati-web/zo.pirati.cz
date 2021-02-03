@@ -114,7 +114,7 @@ keywords: bělorusko, témata, piráti
     </div>
   </div>
 </section>
-<section  class="invert_a">
+<section>
   <div class="container">
     <div class="row">
       <div class="col-sm">
