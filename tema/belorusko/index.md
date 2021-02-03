@@ -11,7 +11,7 @@ keywords: sucho, témata, piráti
 
 
 <section >
-  <div class="container">					       
+  <div class="container">
    <div class="row">
     <div class="col-sm">
      <div class="o-section-inner">
@@ -21,10 +21,10 @@ keywords: sucho, témata, piráti
      </div>
     </div>
    </div>
-  </div>     
+  </div>
 </section>
 <section  class="invert" >
-  <div class="container">					       
+  <div class="container">
    <div class="row">
     <div class="col-sm">
 	    <div class="program-element-header">
@@ -32,27 +32,23 @@ keywords: sucho, témata, piráti
       </div>
     </div>
    </div>
-  </div>     
+  </div>
 </section>
 <section>
-  <div class="container">					       
+  <div class="container">
     <div class="row">
-     <div class="col-sm">
-	    <div class="program-element-header">       
-		<p class="font-weight-normal">
-Před půl rokem proběhly v Bělorusku volby. Volby, které byly dle všech zdrojů zfalšované, provázela je široká manipulace a státní perzekuce vůči těm, kteří se režimu postavili na odpor.
- </p>
-		<p class="font-weight-normal">        
-My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donutit Lukašenkův režim nést odpovědnost a trváme na tom, že si Bělorusové zaslouží skutečné svobodné volby.
-</p>
-
+      <div class="col-sm">
+  	    <div class="program-element-header">
+	  	    <p class="font-weight-normal">Před půl rokem proběhly v Bělorusku volby. Volby, které byly dle všech zdrojů zfalšované, provázela je široká manipulace a státní perzekuce vůči těm, kteří se režimu postavili na odpor.</p>
+	       	<p class="font-weight-normal">My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donutit Lukašenkův režim nést odpovědnost a trváme na tom, že si Bělorusové zaslouží skutečné svobodné volby.</p>
         </div>
       </div>
     </div>
-  </div>     
+  </div>
 </section>
+
 <section class="invert">
-  <div class="container">					       
+  <div class="container">
     <div class="row">
       <div class="col-sm">
 	      <div class="program-element-header">
@@ -60,24 +56,26 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
         </div>
       </div>
     </div>
-  </div>     
+  </div>
 </section>
+
+
 <section>
-  <div class="container">					       
+  <div class="container">
     <div class="row">
       <div class="col-sm">
-	      <div class="program-element-header">        
-		<p class="font-weight-normal">V pandemii koronaviru nechceme pořádat veřejná setkání. Máme pro vás ale několik způsobů, jak se můžete dozvědět víc a jak můžete podpořit lidi v Bělorusku. </p>
+	      <div class="program-element-header">
+		      <p class="font-weight-normal">V pandemii koronaviru nechceme pořádat veřejná setkání. Máme pro vás ale několik způsobů, jak se můžete dozvědět víc a jak můžete podpořit lidi v Bělorusku. </p>
        </div>
     </div>
 
     <div class="row">
-      <div class="col-sm">
+    <div class="col-sm">
 	    <div class="program-element-header">
           <b>Diskuze</b>
       </div>
 		  <p class="font-weight-normal">Přijďte na diskuze, které chystáme online s prostorem na vaše otázky. Chystáme jednu na 16.2. a jednu na 23.2., obojí od 18:00, hosty a detaily potvrdíme v příštím týdnu.</p>
-   </div>
+     </div>
     </div>
 
 
@@ -85,7 +83,7 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
       <div class="col-sm">
 	    <div class="program-element-header">
           <b>Napište vězňům</b>
-          
+
         </div>
 		<p class="font-weight-normal"><a href="https://prisoners.spring96.org/en">Zde je seznam lidí</a>, kterým můžete přímo napsat dopis nebo jenom poslat pohlednici. Každé takové gesto je pro někoho ve vězení dost zásadní povzbuzení. Také si můžete přečíst jejich příběhu a sdílet je - nebo se přímo stát tzv. kmotrem či kmotrou!</p>
   </div>
@@ -96,15 +94,16 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
       <div class="col-sm">
 	    <div class="program-element-header">
           <b>Staňte se kmotrem vězně</b>
-          
+
         </div>
 		<p class="font-weight-normal">Pokud chcete pro lidi které režim odklidil do vězení udělat ještě víc, staňte se jejich kmotry, stejně jako naše europoslankyně Markéta Gregorová. Jak na to? Stačí si vytisknout obrázek s nápisem <a href="https://www.lphr.org/wp-content/uploads/2020/07/WeStandBYyou.jpg">#WeStandByYou (nebo českou úpravou #StojímePřiVás)</a>, a spolu s hashtagem ho sdílet s příběhem některého z politických vězňů na svých sociálních sítích. Napište také svým poslancům - <a href="https://www.lphr.org/en/belarus-gefangene-patenschaften-prisoners-godparenthood/">z výzvy organizace Liberec</a> vůči politikům zatím Česká republika zahrnuje pouze europoslance.</p>
     </div>
    </div>
   </div>
+ </div>  
 </section>
 <section class="invert">
-  <div class="container">	  
+  <div class="container">
     <div class="row">
       <div class="col-sm">
 	      <div class="program-element-header">
@@ -112,13 +111,13 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
         </div>
       </div>
     </div>
-  </div>     
+  </div>
 </section>
 <section>
-  <div class="container">					       
+  <div class="container">
     <div class="row">
       <div class="col-sm">
-	      <div class="program-element-header">        
+	      <div class="program-element-header">
 		<p class="font-weight-normal">S poslankyní EP Maxovou jsme vyzvali české školy, aby přijímali běloruské studenty - a všechny školy přijaly, z čehož máme velkou radost .
 <ul>
   <li>Na náš popud Sněmovna žádá <a href="https://www.pirati.cz/tiskove-zpravy/volby-v-belorusku-usneseni.html">propuštění vězňů i prošetření zločinů</a>.</li>
@@ -127,12 +126,12 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
   <li>I kvůli diktátorovi prosazujeme <a href="https://blog.aktualne.cz/blogy/jan-lipavsky.php?itemid=37567">sankční zákon na ochranu lidských práv</a>. </li>
 </ul></p>
      </div>
-    </div> 
+    </div>
    </div>
 </section>
 
 <section class="invert">
-  <div class="container">	  
+  <div class="container">
     <div class="row">
       <div class="col-sm">
 	      <div class="program-element-header">
@@ -140,13 +139,13 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
         </div>
       </div>
     </div>
-  </div>     
+  </div>
 </section>
 <section>
-  <div class="container">					       
+  <div class="container">
     <div class="row">
       <div class="col-sm">
-	      <div class="program-element-header">        
+	      <div class="program-element-header">
 <ul>
   <li><p class="font-weight-bold">Proč neuznáváte volby v Bělorusku?</p></li>
 <p  class="font-weight-normal"> Výsledek voleb neodpovídá nezávislým exit pollům provedeným jak v Bělorusku, tak v zahraničí, ani tomu, co oznámily některé místní volební komise. Podle těchto údajů Tichanovská dosáhla mnohem lepšího výsledku než Lukašenko. Režim také neumožnil nezávislým pozorovatelům volby sledovat a neumožnil zpětnou kontrolu. S ohledem na autoritářské praktiky Alexandra Lukašenka ho stejně jako všechny země Evropské unie nepovažujeme za legitimního prezidenta země.</P>
@@ -165,11 +164,11 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
 
 </ul> </div>
      </div>
-    </div> 
+    </div>
    </div>
 </section>
-  
-  
+
+
 </div>
 </div>
 </section>
