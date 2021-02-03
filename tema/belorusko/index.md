@@ -68,7 +68,7 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
       <div class="col-sm">
 	      <div class="program-element-header">        
 		<p class="font-weight-normal">V pandemii koronaviru nechceme pořádat veřejná setkání. Máme pro vás ale několik způsobů, jak se můžete dozvědět víc a jak můžete podpořit lidi v Bělorusku. </p>
-      </div>
+       </div>
     </div>
 
     <div class="row">
@@ -80,19 +80,6 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
    </div>
     </div>
 
-
-<!--    <div class="row">
-      <div class="col-sm">
-	    <div class="program-element-header">
-          <b>Mory</b>
-          
-        </div>
-		<p class="font-weight-normal">Běloruský odpor proti Lukašenkovi má i svoje <a style="color:black;" href="https://beehy.pe/belarus-10-songs-on-the-latest-events/">písně.</a> 
-
-</p>
-   </div>
-    </div>
--->
 
     <div class="row">
       <div class="col-sm">
@@ -181,14 +168,6 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
     </div> 
    </div>
 </section>
-
-
-
-  <div class="row">
-
-  
-
-  </div>
   
   
 </div>
