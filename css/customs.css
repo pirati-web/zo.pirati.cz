@@ -18,7 +18,7 @@ a:link {    /* unvisited link */
 }
 a:visited {    /* visited link */
     text-decoration: none;  
-    color: #FFFFFF;
+    color: #000000;
 }
 a:hover {    /* mouse over link */
     text-decoration: underline;  
