@@ -69,21 +69,21 @@ a:active {    /* active link */
 }
 
 
-invert.a:link {    /* unvisited link */
+.invert.a:link {    /* unvisited link */
     color: #FFFFFF;
     text-decoration: none;
     font-weight: bold;
 }
-invert.a:visited {    /* visited link */
+.invert.a:visited {    /* visited link */
     text-decoration: none;  
     color: #000000;
 }
-invert.a:hover {    /* mouse over link */
+.invert.a:hover {    /* mouse over link */
     text-decoration: underline;  
     border-bottom: none;
     color: #000000;  
 }
-invert.a:active {    /* active link */
+.invert.a:active {    /* active link */
     color: #777777;
 }
 
