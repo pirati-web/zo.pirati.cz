@@ -151,7 +151,7 @@ keywords: bělorusko, témata, piráti
       <div class="col-sm">
 	      <div class="program-element-header">
 <ul>
-  <li><p class="font-weight-emphasized">Proč neuznáváte volby v Bělorusku?</p></li>
+  <li><p class="font-weight-bold">Proč neuznáváte volby v Bělorusku?</p></li>
 <p  class="font-weight-normal"> Výsledek voleb neodpovídá nezávislým exit pollům provedeným jak v Bělorusku, tak v zahraničí, ani tomu, co oznámily některé místní volební komise. Podle těchto údajů Tichanovská dosáhla mnohem lepšího výsledku než Lukašenko. Režim také neumožnil nezávislým pozorovatelům volby sledovat a neumožnil zpětnou kontrolu. S ohledem na autoritářské praktiky Alexandra Lukašenka ho stejně jako všechny země Evropské unie nepovažujeme za legitimního prezidenta země.</P>
 
 <li><p class="font-weight-bold">Proč rozporujete výsledek v Bělorusku, ale v Americe ne?</p></li>
