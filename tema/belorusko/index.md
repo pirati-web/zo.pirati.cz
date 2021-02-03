@@ -34,7 +34,7 @@ keywords: bělorusko, témata, piráti
    </div>
   </div>
 </section>
-<section>
+<section >
   <div class="container">
     <div class="row">
       <div class="col-sm">
@@ -114,7 +114,7 @@ keywords: bělorusko, témata, piráti
     </div>
   </div>
 </section>
-<section>
+<section  class="invert_a">
   <div class="container">
     <div class="row">
       <div class="col-sm">
