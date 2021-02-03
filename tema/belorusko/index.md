@@ -162,7 +162,7 @@ keywords: sucho, témata, piráti
 <li><p class="font-weight-bold">Co se teď v Bělorusku děje?</p></li>
 <p  class="font-weight-normal">Aktuálně je ve vězení za politické vězně označeno 220 lidí a číslo stoupá. Protesty ve stovkách lidí pokračují, ale po několika měsících již slábnou. Sankce zatím neměly reálný efekt a Lukašenko odmítá odstoupit, dle svých slov “dokud ho nezabijí”. Přitvrzují také nová trestní stíhání členů Koordinační rady běloruské opozice, již se Lukašenko snaží za každou cenu potřít. </p>
 
-</ul> </div>
+</ul> 
      </div>
     </div>
    </div>
