@@ -57,28 +57,24 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
       <div class="col-sm">
 	    <div class="program-element-header">
           <b>Diskuze</b>
-          
-        </div>
-		<p class="font-weight-normal">Přijďte na diskuze, které chystáme online s prostorem na vaše otázky. Chystáme dvě:</p>
-<ul>
-  <li>diskuze 1 (Lipavský a kolektiv) proběhne v blízké době</li>
-  <li>diskuze 2 (Gregorová a kolektiv)  proběhne v blízké době</li>
- </ul>     </div>
+      </div>
+		  <p class="font-weight-normal">Přijďte na diskuze, které chystáme online s prostorem na vaše otázky. Chystáme jednu na 16.2. a jednu na 23.2., obojí od 18:00, hosty a detaily potvrdíme v příštím týdnu.</p>
+   </div>
     </div>
 
 
-    <div class="row">
+<!--    <div class="row">
       <div class="col-sm">
 	    <div class="program-element-header">
           <b>Mory</b>
           
         </div>
-		<p class="font-weight-normal">Běloruský odpor proti Lukašenkovi má i svoje <a href="https://beehy.pe/belarus-10-songs-on-the-latest-events/">písně.</a> 
+		<p class="font-weight-normal">Běloruský odpor proti Lukašenkovi má i svoje <a style="color:black;" href="https://beehy.pe/belarus-10-songs-on-the-latest-events/">písně.</a> 
 
 </p>
    </div>
     </div>
-
+-->
 
     <div class="row">
       <div class="col-sm">
@@ -86,7 +82,7 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
           <b>Napište vězňům</b>
           
         </div>
-		<p class="font-weight-normal">Připravujeme seznam lidí, kterým můžete přímo napsat dopis nebo jenom poslat pohlednici. Každé takové gesto je pro někoho ve vězení dost zásadní povzbuzení.</p>
+		<p class="font-weight-normal"><a href="https://prisoners.spring96.org/en">Zde je seznam lidí</a>, kterým můžete přímo napsat dopis nebo jenom poslat pohlednici. Každé takové gesto je pro někoho ve vězení dost zásadní povzbuzení. Také si můžete přečíst jejich příběhu a sdílet je - nebo se přímo stát tzv. kmotrem či kmotrou!</p>
   </div>
     </div>
 
@@ -97,7 +93,7 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
           <b>Staňte se kmotrem vězně</b>
           
         </div>
-		<p class="font-weight-normal">Pokud chcete pro lidi které režim odklidil do vězení udělat ještě víc, staňte se jejich kmotry, stejně jako naše europoslankyně Markéta Gregorová.</p>
+		<p class="font-weight-normal">Pokud chcete pro lidi které režim odklidil do vězení udělat ještě víc, staňte se jejich kmotry, stejně jako naše europoslankyně Markéta Gregorová. Jak na to? Stačí si vytisknout obrázek s nápisem <a href="https://www.lphr.org/wp-content/uploads/2020/07/WeStandBYyou.jpg">#WeStandByYou (nebo českou úpravou #StojímePřiVás)</a>, a spolu s hashtagem ho sdílet s příběhem některého z politických vězňů na svých sociálních sítích. Napište také svým poslancům - <a href="https://www.lphr.org/en/belarus-gefangene-patenschaften-prisoners-godparenthood/">z výzvy organizace Liberec</a> vůči politikům zatím Česká republika zahrnuje pouze europoslance.</p>
     </div>
    </div>
   </div>
@@ -121,6 +117,38 @@ My jsme na Bělorusko nezapomněli. Stále se snažíme pomáhat vězňům, donu
     </div> 
    </div>
 </section>
+
+<section>
+  <div class="container">	  
+    <div class="row">
+      <div class="col-sm">
+	    <div class="program-element-header">
+          <h3>ČASTO KLADENÉ OTÁZKY</h3>
+
+        </div>
+<ol>
+<li>Proč neuznáváte volby v Bělorusku?</li>
+<p  class="font-weight-normal"> Výsledek voleb neodpovídá nezávislým exit pollům provedeným jak v Bělorusku, tak v zahraničí, ani tomu, co oznámily některé místní volební komise. Podle těchto údajů Tichanovská dosáhla mnohem lepšího výsledku než Lukašenko. Režim také neumožnil nezávislým pozorovatelům volby sledovat a neumožnil zpětnou kontrolu. S ohledem na autoritářské praktiky Alexandra Lukašenka ho stejně jako všechny země Evropské unie nepovažujeme za legitimního prezidenta země.</P>
+
+<li>Proč rozporujete výsledek v Bělorusku, ale v Americe ne?</li>
+<p  class="font-weight-normal">Všechny nezávislé přepočty i soudy uznaly Joe Bidena jako vítěze amerických voleb a nemáme tedy důvod ho jako prezidenta neuznávat. To Lukašenkův režim nepovolil a pochyby dál zůstávají na stole. </p>
+
+<li>Proč demonstranty v Bělorusku podporujete, ale u Američanů mlčíte?</li>
+<p  class="font-weight-normal">Lidé mají právo do ulic vyjít kdykoli, pokud nesouhlasí s politikou své země a budeme jejich práva na nenásilný protest vždy podporovat. V Bělorusku jsou však zatýkáni poklidní protestující, kterým nebyly umožněny svobodné a spravedlivé volby. V Americe došlo k zákroku až po projevu násilí, které je nepřípustné, i s ohledem na nezávislé posouzení legitimity volby soudy.</p>
+
+<li>Proč zatahujete politiku do sportu a rušíte v Bělorusku Mistrovství světa v hokeji?</li>
+<p  class="font-weight-normal">Sportovní událost globální rozsahu a dosahu, jakým je mistrovství světa, jen těžko může zůstat apolitická. Sport spojuje - ale také bychom měli mít možnost dát najevo, s kým není vůle se spojovat, a komu přinášet příjem z hostování takové události. To bylo běloruské vládě jasně řečeno a my přesun Mistrovství podporujeme. Politika patří do našich každodenních životů, mezinárodní soutěže nevyjímaje.</p>
+
+<li>Co se teď v Bělorusku děje?</li>
+<p  class="font-weight-normal">Aktuálně je ve vězení za politické vězně označeno 220 lidí a číslo stoupá. Protesty ve stovkách lidí pokračují, ale po několika měsících již slábnou. Sankce zatím neměly reálný efekt a Lukašenko odmítá odstoupit, dle svých slov “dokud ho nezabijí”. Přitvrzují také nová trestní stíhání členů Koordinační rady běloruské opozice, již se Lukašenko snaží za každou cenu potřít. </p>
+
+</ol>
+     </div>
+    </div> 
+   </div>
+</section>
+
+
 
   <div class="row">
 
