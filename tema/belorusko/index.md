@@ -150,6 +150,8 @@ keywords: bělorusko, témata, piráti
       <div class="col-sm">
 	      <div class="program-element-header">
 		<p class="font-weight-normal">V úterý 9.2. to bude půl roku od voleb v Bělorusku. K tomuto dni připravujeme něco speciálního. Pokud se chcete zapojit, vyvěste na svém úřadě/radnici/ klubu/ zastupitelské komůrce/ kanceláři radního historickou běloruskou vlajku (červenobílá). Klíčový je termín půlročního výročí, který připadá na 9. 2. 2021, ale vlajky můžete samozřejmě nechat vyvěšené déle.</p>
+        </div>
+        <div class="program-element-header">
 <p class="font-weight-normal">Když pak následně fotku (nebo i celý status na sociální sítě který si s ní vyvěsíte) pošlete na zo@pirati.cz, uděláme z nich kompilaci a postaráme se, aby se dostaly k vězňům v Bělorusku - aby věděli, že se na ně nezapomnělo.</p>
 </div>
     </div>
