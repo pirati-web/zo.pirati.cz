@@ -23,7 +23,7 @@ a:visited {    /* visited link */
 a:hover {    /* mouse over link */
     text-decoration: underline;  
     border-bottom: none;
-    color: #FFFFFF;  
+    color: #ADADAD;  
 }
 a:active {    /* active link */
     color: #777777;
