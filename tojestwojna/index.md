@@ -16,7 +16,13 @@ image: /assets/img/posts/example_grafika.png
 
 <h2>Solidární akce pro Polsko</h2> 
 <p>
-prosím dejte nám vědět či vyfoťte váš akt solidarity a sdílejte v naší události či na sociálních sítích s odpovídajícími hastagy, aby v Polsku o naší podpoře dále věděli.#ToJestWojna #Wypierdalać #PiekłoKobiet #InSolidarityWithPolishWomen #SolidarnieZPolkami
+prosím dejte nám vědět či vyfoťte váš akt solidarity a sdílejte v naší události či na sociálních sítích s odpovídajícími hastagy, aby v Polsku o naší podpoře dále věděli.
+  
+  #ToJestWojna 
+  #Wypierdalać 
+  #PiekłoKobiet 
+  #InSolidarityWithPolishWomen 
+  #SolidarnieZPolkami
 </p>
 <p>
 Plakaty k tisku najdete <a href="https://www.dropbox.com/sh/01okqtrpirt6tka/AADrXTcgjDeBCWOD3aBh5bF-a?dl=0&fbclid=IwAR2xoatQ43hFBkJWu2TVEFDnF7m4gomt7KVd4JOpws4jp0CoyVxNnhX5Jqg">zde</a>
