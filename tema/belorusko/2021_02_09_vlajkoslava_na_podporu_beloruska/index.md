@@ -1,11 +1,12 @@
 ---
+layout: blog
 date: 2021-02-09
 tags:
   - Bělorusko
   - podpora demokracie
   - solidarita
   - evropská politika
-layout: default
+
 title: Pirátská akce na podporu Běloruských protestů
 author:  
 image: /assets/img/posts/vlajka_belarus_kolacny.png
@@ -18,7 +19,7 @@ important: true
 
 Pirátští politici vyvěsili běloruské vlajky a připomněli tak, že na téma stále myslíme a pracujeme na něm. 
 
-<a href="https://zo.pirati.cz/assets/img/posts/vlajka_belarus_parlament_balkon.png"><img src="https://zo.pirati.cz/assets/img/posts/vlajka_belarus_parlament_balkon.png" width="500" heighth="300"></a>
+<a href="https://zo.pirati.cz/assets/img/posts/vlajka_belarus_parlament_balkon.png"><img src="https://zo.pirati.cz/assets/img/posts/vlajka_belarus_parlament_balkon.png" width="500" heigth="300"></a>
 <hr>
 
 ![Parlament České Republiky](https://zo.pirati.cz/assets/img/posts/vlajka_belarus_parlament_balkon.png)
