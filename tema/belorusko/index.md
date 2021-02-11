@@ -152,11 +152,10 @@ keywords: bělorusko, témata, piráti
 		<p class="font-weight-normal">V úterý 9.2. to bylo půl roku od voleb v Bělorusku. Pirátští politici vyvěsili běloruské vlajky a připomněli tak, že na téma stále myslíme a pracujeme na něm.
           
           </p>
-          Více fotek a textů najdete [zde](/tema/belorusko/2021_02_09_vlajkoslava_na_podporu.html) 
-          </p>
+
         </div>
         <div class="program-element-header">
-<p class="font-weight-normal">Když pak následně fotku (nebo i celý status na sociální sítě který si s ní vyvěsíte) pošlete na zo@pirati.cz, uděláme z nich kompilaci a postaráme se, aby se dostaly k vězňům v Bělorusku - aby věděli, že se na ně nezapomnělo.</p>
+<p class="font-weight-normal">Více fotek a textů najdete [zde](/tema/belorusko/2021_02_09_vlajkoslava_na_podporu.html)</p>
 </div>
     </div>
    </div>
