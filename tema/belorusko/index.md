@@ -155,7 +155,7 @@ keywords: bělorusko, témata, piráti
 
         </div>
         <div class="program-element-header">
-<p class="font-weight-normal">Více fotek a textů najdete [zde](/tema/belorusko/2021_02_09_vlajkoslava_na_podporu.html)</p>
+<p class="font-weight-normal">Více fotek a textů najdete <a href="https://zo.pirati.cz/tema/belorusko/2021_02_09_vlajkoslava_na_podporu_beloruska/">zde</a></p>
 </div>
     </div>
    </div>
