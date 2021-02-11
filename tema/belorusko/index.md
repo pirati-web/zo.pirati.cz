@@ -149,7 +149,11 @@ keywords: bělorusko, témata, piráti
     <div class="row">
       <div class="col-sm">
 	      <div class="program-element-header">
-		<p class="font-weight-normal">V úterý 9.2. to bude půl roku od voleb v Bělorusku. K tomuto dni připravujeme něco speciálního. Pokud se chcete zapojit, vyvěste na svém úřadě/radnici/ klubu/ zastupitelské komůrce/ kanceláři radního <a href="https://www.navychod.org/vysivane-belorusko/"> historickou běloruskou vlajku (červenobílá)</a>. Klíčový je termín půlročního výročí, který připadá na 9. 2. 2021, ale vlajky můžete samozřejmě nechat vyvěšené déle.</p>
+		<p class="font-weight-normal">V úterý 9.2. to bylo půl roku od voleb v Bělorusku. Pirátští politici vyvěsili běloruské vlajky a připomněli tak, že na téma stále myslíme a pracujeme na něm.
+          
+          </p>
+          Více fotek a textů najdete [zde](/tema/belorusko/2021_02_09_vlajkoslava_na_podporu.html) 
+          </p>
         </div>
         <div class="program-element-header">
 <p class="font-weight-normal">Když pak následně fotku (nebo i celý status na sociální sítě který si s ní vyvěsíte) pošlete na zo@pirati.cz, uděláme z nich kompilaci a postaráme se, aby se dostaly k vězňům v Bělorusku - aby věděli, že se na ně nezapomnělo.</p>
