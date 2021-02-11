@@ -15,7 +15,9 @@ important: true
 <div class="o-section">
   <div class="row">
 
-2. února 2021 - **V úterý 9.2. to bylo půl roku od voleb v Bělorusku.  [přehled událostí](https://cs.wikipedia.org/wiki/Protesty_v_B%C4%9Blorusku_(2020%E2%80%932021))**
+<h2>Půl roku od voleb v Bělorusku</h2> 
+
+V úterý 9.2. to bylo půl roku od voleb v Bělorusku - <a href="https://cs.wikipedia.org/wiki/Protesty_v_B%C4%9Blorusku_(2020%E2%80%932021">přehled událostí</a>
 
 Pirátští politici vyvěsili běloruské vlajky a připomněli tak, že na téma stále myslíme a pracujeme na něm. 
 
