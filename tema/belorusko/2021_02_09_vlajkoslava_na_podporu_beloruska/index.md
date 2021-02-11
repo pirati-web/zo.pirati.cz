@@ -21,6 +21,7 @@ V úterý 9.2. to bylo půl roku od voleb v Bělorusku - <a href="https://cs.wik
 
 Pirátští politici vyvěsili běloruské vlajky a připomněli tak, že na téma stále myslíme a pracujeme na něm. 
 
+<hr>
 <a href="https://zo.pirati.cz/assets/img/posts/vlajka_belarus_parlament_balkon.png"><img src="https://zo.pirati.cz/assets/img/posts/vlajka_belarus_parlament_balkon.png" width="370" heigth="200"></a>
 <hr>
 <a href="https://zo.pirati.cz/assets/img/posts/vlajka_belarus_praha12.png"><img src="https://zo.pirati.cz/assets/img/posts/vlajka_belarus_praha12.png" width="300" heigth="400"></a>
