@@ -16,7 +16,7 @@ image: /assets/img/posts/example_grafika.jpg
 
 <h2>Solidární akce pro Polsko</h2> 
 <p>
-prosím dejte nám a sdílejte v naší události či na sociálních sítích s odpovídajícími hastagy, aby v Polsku o naší podpoře dále věděli.
+Prosím pomozte nám a sdílejte vše o naší události na sociálních sítích s odpovídajícími hastagy, aby v Polsku o naší podpoře dále věděli.
   <hr>
   #ToJestWojna<br> 
   #Wypierdalać<br> 
