@@ -29,7 +29,7 @@ Plakaty k tisku najdete <a href="https://www.dropbox.com/sh/01okqtrpirt6tka/AADr
 
 </p>
 <p>
-<a href="https://zo.pirati.cz/assets/img/posts/example_grafika.jpg"><img src="https://zo.pirati.cz/assets/img/posts/example_grafika.png" width="370" heigth="200"></a>
+<a href="https://zo.pirati.cz/assets/img/posts/example_grafika.jpg"><img src="https://zo.pirati.cz/assets/img/posts/example_grafika.jpg" width="370" heigth="200"></a>
 </p>
   </div>
 </div>
