@@ -1,23 +1,21 @@
 ---
 date: 2021-02-09
-category: post
 tags:
   - Bělorusko
   - podpora demokracie
   - solidarita
   - evropská politika
-layout: post
+layout: default
 title: Pirátská akce na podporu Běloruských protestů
 author:  
-image: /assets/2021-02-02-mokrady-a-voda-aneb-svetovy-den.jpg
+image: /assets/img/posts/vlajka_belarus_kolacny.png
 important: true
 ---
 
 
-2. února 2021 - **V úterý 9.2. to bylo půl roku od voleb v Bělorusku.  [přehled událostí](https://www.mzv.cz/)**
+2. února 2021 - **V úterý 9.2. to bylo půl roku od voleb v Bělorusku.  [přehled událostí](https://cs.wikipedia.org/wiki/Protesty_v_B%C4%9Blorusku_(2020%E2%80%932021))**
 
-Pirátského program v oblasti zahraničních věcí a evropské mezinárodní politiky naplňujeme a zorganizovali jsme hromadnou vlajkoslávu k výročí zmanipulovaných voleb. Zde jsou fotky z akce. 
-
+Pirátští politici vyvěsili běloruské vlajky a připomněli tak, že na téma stále myslíme a pracujeme na něm. 
 
 ![Parlament České Republiky](https://zo.pirati.cz/assets/img/posts/vlajka_belarus_parlament_balkon.png)
 
