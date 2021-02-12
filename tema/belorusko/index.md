@@ -70,12 +70,14 @@ keywords: bělorusko, témata, piráti
 		      <p class="font-weight-normal">V pandemii koronaviru nechceme pořádat veřejná setkání. Máme pro vás ale několik způsobů, jak se můžete dozvědět víc a jak můžete podpořit lidi v Bělorusku. </p>
        </div>
 
-
- 
 	    <div class="program-element-header">
           <b>Diskuze</b>
       </div>
 		  <div class="font-weight-normal">Přijďte na diskuze, které chystáme online s prostorem na vaše otázky. </div>
+
+      <div class="program-element-header">
+          <br>
+      </div>
       <div class="font-weight-normal">První debata proběhne v <b>úterý 16.2.2021 mezi 18:00 a 19:00</b> a jejími hosty budou: </div>
       <div class="font-weight-normal">
 <ul>
@@ -87,7 +89,9 @@ keywords: bělorusko, témata, piráti
 Debata se zaměří na běloruský odboj a co pro něj může dělat a dělá Česko.
   </div>
 
-
+  <div class="program-element-header">
+      <br>
+  </div>
 		  <div class="font-weight-normal">Druhá debata proběhne v <b>úterý 23.2.2021 mezi 18:00 a 19:00</b> a jejími hosty budou:</div>
       <div class="font-weight-normal">
   <ul>
@@ -101,13 +105,12 @@ Debata se zaměří na běloruský odboj a co pro něj může dělat a dělá Č
 
       </div>
      </div>
-    </div>
 
     <div class="row">
       <div class="col-sm">
 	    <div class="program-element-header">
           <b>Napište vězňům</b>
-
+<br><br>
         </div>
 		<p class="font-weight-normal"><a href="https://prisoners.spring96.org/en">Zde je seznam lidí</a>, kterým můžete přímo napsat dopis nebo jenom poslat pohlednici. Každé takové gesto je pro někoho ve vězení dost zásadní povzbuzení. Také si můžete přečíst jejich příběhu a sdílet je - nebo se přímo stát tzv. kmotrem či kmotrou!</p>
   </div>
