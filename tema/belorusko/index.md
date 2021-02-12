@@ -75,7 +75,33 @@ keywords: bělorusko, témata, piráti
 	    <div class="program-element-header">
           <b>Diskuze</b>
       </div>
-		  <p class="font-weight-normal">Přijďte na diskuze, které chystáme online s prostorem na vaše otázky. Chystáme jednu na 16.2. a jednu na 23.2., obojí od 18:00, hosty a detaily potvrdíme v příštím týdnu.</p>
+	    <div class="program-element-header">
+		  <p class="font-weight-normal">Přijďte na diskuze, které chystáme online s prostorem na vaše otázky. </p>
+ <p class="font-weight-normal">     
+      První debata proběhne v <b>úterý 16.2.2021 mezi 18:00 a 19:00<b> a jejími hosty budou:
+<ul>
+<li><b>Alena Cichanovič Kovářová</b> - zástupkyně běloruské národnostní menšiny v Radě vlády pro národnostní menšiny v ČR</li>
+<li><b>Jan Lipavský</b> - poslanec PSP ČR</li>
+<li><b>Jefim Fištejn</b> - novinář, komentátor, bývalý ředitel RFE v Praze</li>
+<li><b>Ondřej Soukup</b> - redaktor Hospodářských novin</li>
+</ul>
+Debata se zaměří na běloruský odboj a co pro něj může dělat a dělá Česko.
+  </p>
+    </div>
+  
+  
+  	    <div class="program-element-header">
+		  <p class="font-weight-normal">
+  Druhá debata proběhne v úterý 23.2.2021 mezi 18:00 - 19:00 a jejími hosty budou:
+  <ul>
+  <li><b>Kryścina Šyjanok</b> - zástupkyně iniciativy BLRČR, pořadatelka Exit pollu, podílí se na realizaci pomoci zraněným Bělorusům a Běloruskám a běloruským zdravotníkům v rámci MEDEVAC pod záštitou MV ČR</li>
+  <li><b>Markéta Gregorová</b> - europoslankyně</li>
+  <li><b>Karel Svoboda, Ph.D.</b> - Katedra ruských a východoevropských studií IMS</li>
+</ul>
+
+Čtvrtého hosta ještě musíme potvrdit. Diskuze se zaměří na evropskou rovinu situace a postup EU.
+</p>
+
      </div>
     </div>
 
