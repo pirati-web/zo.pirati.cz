@@ -76,7 +76,7 @@ keywords: bělorusko, témata, piráti
           <b>Diskuze</b>
       </div>
 		  <div class="font-weight-normal">Přijďte na diskuze, které chystáme online s prostorem na vaše otázky. </div>
-      <div class="font-weight-normal">První debata proběhne v <b>úterý 16.2.2021 mezi 18:00 a 19:00<b> a jejími hosty budou: </div>
+      <div class="font-weight-normal">První debata proběhne v <b>úterý 16.2.2021 mezi 18:00 a 19:00</b> a jejími hosty budou: </div>
       <div class="font-weight-normal">
 <ul>
 <li><b>Alena Cichanovič Kovářová</b> - zástupkyně běloruské národnostní menšiny v Radě vlády pro národnostní menšiny v ČR</li>
@@ -88,7 +88,7 @@ Debata se zaměří na běloruský odboj a co pro něj může dělat a dělá Č
   </div>
 
 
-		  <div class="font-weight-normal">Druhá debata proběhne v úterý 23.2.2021 mezi 18:00 - 19:00 a jejími hosty budou:</div>
+		  <div class="font-weight-normal">Druhá debata proběhne v <b>úterý 23.2.2021 mezi 18:00 a 19:00</b> a jejími hosty budou:</div>
       <div class="font-weight-normal">
   <ul>
   <li><b>Kryścina Šyjanok</b> - zástupkyně iniciativy BLRČR, pořadatelka Exit pollu, podílí se na realizaci pomoci zraněným Bělorusům a Běloruskám a běloruským zdravotníkům v rámci MEDEVAC pod záštitou MV ČR</li>
