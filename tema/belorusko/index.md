@@ -102,9 +102,9 @@ Debata se zaměří na běloruský odboj a co pro něj může dělat a dělá Č
 Čtvrtého hosta ještě musíme potvrdit. Diskuze se zaměří na evropskou rovinu situace a postup EU.
 </p>
 
+      </div>
      </div>
     </div>
-
 
     <div class="row">
       <div class="col-sm">
