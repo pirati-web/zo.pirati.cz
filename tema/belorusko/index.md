@@ -75,10 +75,9 @@ keywords: bělorusko, témata, piráti
 	    <div class="program-element-header">
           <b>Diskuze</b>
       </div>
-	    <div class="program-element-header">
-		  <p class="font-weight-normal">Přijďte na diskuze, které chystáme online s prostorem na vaše otázky. </p>
- <p class="font-weight-normal">     
-      První debata proběhne v <b>úterý 16.2.2021 mezi 18:00 a 19:00<b> a jejími hosty budou:
+		  <div class="font-weight-normal">Přijďte na diskuze, které chystáme online s prostorem na vaše otázky. </div>
+      <div class="font-weight-normal">První debata proběhne v <b>úterý 16.2.2021 mezi 18:00 a 19:00<b> a jejími hosty budou: </div>
+      <div class="font-weight-normal">
 <ul>
 <li><b>Alena Cichanovič Kovářová</b> - zástupkyně běloruské národnostní menšiny v Radě vlády pro národnostní menšiny v ČR</li>
 <li><b>Jan Lipavský</b> - poslanec PSP ČR</li>
@@ -86,13 +85,11 @@ keywords: bělorusko, témata, piráti
 <li><b>Ondřej Soukup</b> - redaktor Hospodářských novin</li>
 </ul>
 Debata se zaměří na běloruský odboj a co pro něj může dělat a dělá Česko.
-  </p>
-    </div>
-  
-  
-  	    <div class="program-element-header">
-		  <p class="font-weight-normal">
-  Druhá debata proběhne v úterý 23.2.2021 mezi 18:00 - 19:00 a jejími hosty budou:
+  </div>
+
+
+		  <div class="font-weight-normal">Druhá debata proběhne v úterý 23.2.2021 mezi 18:00 - 19:00 a jejími hosty budou:</div>
+      <div class="font-weight-normal">
   <ul>
   <li><b>Kryścina Šyjanok</b> - zástupkyně iniciativy BLRČR, pořadatelka Exit pollu, podílí se na realizaci pomoci zraněným Bělorusům a Běloruskám a běloruským zdravotníkům v rámci MEDEVAC pod záštitou MV ČR</li>
   <li><b>Markéta Gregorová</b> - europoslankyně</li>
@@ -100,7 +97,7 @@ Debata se zaměří na běloruský odboj a co pro něj může dělat a dělá Č
 </ul>
 
 Čtvrtého hosta ještě musíme potvrdit. Diskuze se zaměří na evropskou rovinu situace a postup EU.
-</p>
+</div>
 
       </div>
      </div>
