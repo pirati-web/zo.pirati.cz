@@ -114,8 +114,7 @@ Debata se zaměří na běloruský odboj a co pro něj může dělat a dělá Č
     <div class="row">
       <div class="col-sm">
 	    <div class="program-element-header">
-          <b>Napište vězňům</b>
-<br><br>
+           <h2><b><b>Napište vězňům</b></h2><br><br>
         </div>
 		<p class="font-weight-normal"><a href="https://prisoners.spring96.org/en">Zde je seznam lidí</a>, kterým můžete přímo napsat dopis nebo jenom poslat pohlednici. Každé takové gesto je pro někoho ve vězení dost zásadní povzbuzení. Také si můžete přečíst jejich příběhu a sdílet je - nebo se přímo stát tzv. kmotrem či kmotrou!</p>
   </div>
@@ -125,7 +124,7 @@ Debata se zaměří na běloruský odboj a co pro něj může dělat a dělá Č
     <div class="row">
       <div class="col-sm">
 	    <div class="program-element-header">
-          <b>Staňte se kmotrem vězně</b>
+           <h2><b>Staňte se kmotrem vězně</b></h2><br><br>
 
         </div>
 		<p class="font-weight-normal">Pokud chcete pro lidi které režim odklidil do vězení udělat ještě víc, staňte se jejich kmotry, stejně jako naše europoslankyně Markéta Gregorová. Jak na to? Stačí si vytisknout obrázek s nápisem <a href="https://www.lphr.org/wp-content/uploads/2020/07/WeStandBYyou.jpg">#WeStandByYou (nebo českou úpravou #StojímePřiVás)</a>, a spolu s hashtagem ho sdílet s příběhem některého z politických vězňů na svých sociálních sítích. Napište také svým poslancům - <a href="https://www.lphr.org/en/belarus-gefangene-patenschaften-prisoners-godparenthood/">z výzvy organizace Liberec</a> vůči politikům zatím Česká republika zahrnuje pouze europoslance.</p>
