@@ -114,7 +114,7 @@ Debata se zaměří na běloruský odboj a co pro něj může dělat a dělá Č
     <div class="row">
       <div class="col-sm">
 	    <div class="program-element-header">
-           <h2><b><b>Napište vězňům</b></h2><br><br>
+           <h2><b>Napište vězňům</b></h2><br><br>
         </div>
 		<p class="font-weight-normal"><a href="https://prisoners.spring96.org/en">Zde je seznam lidí</a>, kterým můžete přímo napsat dopis nebo jenom poslat pohlednici. Každé takové gesto je pro někoho ve vězení dost zásadní povzbuzení. Také si můžete přečíst jejich příběhu a sdílet je - nebo se přímo stát tzv. kmotrem či kmotrou!</p>
   </div>
