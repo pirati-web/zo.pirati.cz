@@ -79,8 +79,8 @@ keywords: bělorusko, témata, piráti
           <br>
       </div>
       
-      <div class="font-weight-normal"><p><a href="https://www.facebook.com/events/876609523116239/,"><img src="/assets/img/icons/fbevent.png"></a></p><p><a href="https://www.facebook.com/events/876609523116239/,">PŘIDEJTE SE K UDÁLOSTI NA FACEBOOKU</a></p></div>      
-      <div class="font-weight-normal">První debata proběhne v <b>úterý 16.2.2021 mezi 18:00 a 19:00</b> a jejími hosty budou: </div>
+      <div class="font-weight-normal"  class="col-sm"><p><a href="https://www.facebook.com/events/876609523116239/"><img src="/assets/img/icons/fbevent.png"></a></p><p><a href="https://www.facebook.com/events/876609523116239/">PŘIDEJTE SE K UDÁLOSTI NA FACEBOOKU - První debata proběhne v <b>úterý 16.2.2021 mezi 18:00 a 19:00</a></p></div>      
+      <div class="font-weight-normal">Hosty panelové debaty budou: </div>
       <div class="font-weight-normal">
 <ul>
 <li><b>Alena Cichanovič Kovářová</b> - zástupkyně běloruské národnostní menšiny v Radě vlády pro národnostní menšiny v ČR</li>
@@ -94,7 +94,8 @@ Debata se zaměří na běloruský odboj a co pro něj může dělat a dělá Č
   <div class="program-element-header">
       <br>
   </div>
-		  <div class="font-weight-normal">Druhá debata proběhne v <b>úterý 23.2.2021 mezi 18:00 a 19:00</b> a jejími hosty budou:</div>
+		  <div class="font-weight-normal"  class="col-sm"><p><a href="https://www.facebook.com/events/450336716092265/"><img src="/assets/img/icons/fbevent.png"></a></p><p><a href="https://www.facebook.com/events/450336716092265/">PŘIDEJTE SE K UDÁLOSTI NA FACEBOOKU - Druhá debata proběhne v <b>úterý 23.2.2021 mezi 18:00 a 19:00</b></a></p></div>      
+      <div class="font-weight-normal">Druhé debaty se zúčastní tito hosté:</div>
       <div class="font-weight-normal">
   <ul>
   <li><b>Kryścina Šyjanok</b> - zástupkyně iniciativy BLRČR, pořadatelka Exit pollu, podílí se na realizaci pomoci zraněným Bělorusům a Běloruskám a běloruským zdravotníkům v rámci MEDEVAC pod záštitou MV ČR</li>
