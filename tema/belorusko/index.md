@@ -78,6 +78,8 @@ keywords: bělorusko, témata, piráti
       <div class="program-element-header">
           <br>
       </div>
+      
+      <div class="font-weight-normal"><p><a href="https://www.facebook.com/events/876609523116239/,"><img src="/assets/img/icons/fbevent.png"></a></p><p><a href="https://www.facebook.com/events/876609523116239/,">PŘIDEJTE SE K UDÁLOSTI NA FACEBOOKU</a></p></div>      
       <div class="font-weight-normal">První debata proběhne v <b>úterý 16.2.2021 mezi 18:00 a 19:00</b> a jejími hosty budou: </div>
       <div class="font-weight-normal">
 <ul>
