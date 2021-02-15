@@ -71,7 +71,7 @@ keywords: bělorusko, témata, piráti
        </div>
 
 	    <div class="program-element-header">
-          <h2<b>Diskuze</b></h2><br><br>
+          <h2><b>Diskuze</b></h2><br><br>
       </div>
 		  <div class="font-weight-normal">Přijďte na diskuze, které chystáme online s prostorem na vaše otázky. </div>
 
