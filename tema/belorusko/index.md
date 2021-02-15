@@ -105,7 +105,7 @@ Debata se zaměří na běloruský odboj a co pro něj může dělat a dělá Č
   <li><b>Karel Svoboda, Ph.D.</b> - Katedra ruských a východoevropských studií IMS</li>
 </ul>
 
-Čtvrtého hosta ještě musíme potvrdit. Diskuze se zaměří na evropskou rovinu situace a postup EU.
+Čtvrtého hosta ještě musíme potvrdit. Diskuze se zaměří na evropskou rovinu situace a postup EU.<br><br><br>
 </div>
 
       </div>
