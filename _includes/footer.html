@@ -2,16 +2,15 @@
   <i class="fa fa-pencil"></i>
   Propose change
 </a>
-{% if site.data.menu.contact %}
+
     <aside class="o-section o-section--bigger c-contact-bar u-inverted u-center--medium-down show-for-medium">
       <div class="o-section-inner">
         <div class="row">
           <div class="small-12 columns">
             <header class="c-contact-bar-header u-stacked--medium-down">
-              <h3 class="c-contact-bar__heading"> <a href="{{ '/kontakt/' | relative_url }}">Contact</a> </h3>
+              <h3 class="c-contact-bar__heading"> <a href="{{ '/kontakt/' | relative_url }}">Kontakt</a> </h3>
             </header>
                 <div class="c-contact-bar__section"> Zahraniční odbor ČPS </div>
-                {% endif %}
                 <div class="c-contact-bar__description"> 
                   <a href="mailto:zo@pirati.cz">zo@pirati.cz</a>, 
                 </div>
@@ -19,37 +18,6 @@
         </div>
       </div>
     </aside>
-{% else %}
-{% assign contactPerson = site.people | where_exp: "item","item.uid contains site.organization.contactUid" | first %}
-{% assign contactPersons = site.people | where_exp: "item","item.category contains 'kontaktni_osoba'" | sort:"ordpak" %}
-{% unless contactPersons == empty or contactPersons == blank or contactPersons == nil %}
-<aside class="o-section o-section--bigger c-contact-bar u-inverted u-center--medium-down show-for-medium">
-  <div class="o-section-inner">
-    <div class="row">
-      <div class="small-12 columns">
-        <header class="c-contact-bar-header u-stacked--medium-down">
-          <h3 class="c-contact-bar__heading"> <a href="{{ '/kontakt/' | relative_url }}">Contact</a> </h3>
-        </header>
 
-        {% for person in contactPersons %}
-	<ul class="c-contact-bar-items u-stacked--medium-down">
-          <li class="c-contact-bar__item u-stacked--medium-down">
- 	    {% if person.contactType %}
-        <div class="c-contact-bar__section"> {{ person.contactType }} </div>
-            {% endif %}
-            <div class="c-contact-bar__description"> 
-              <a href="{{ person.url }}">{{ person.name }}</a>, 
-              <a href="mailto:{{ person.mail }}">{{ person.mail }}</a>
-            </div>
-          </li>
-        </ul>
-        {% endfor %}
-
-      </div>
-    </div>
-  </div>
-</aside>
-{% endunless %}
-{% endif %}
 
 <div class="__vue-root" data-app="ScrollTop"></div>
