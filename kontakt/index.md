@@ -25,9 +25,6 @@ contentSize: default
   <li>Hybridní hrozby, dezinformace a hoaxy </li>
   <li>Zefekticnění a zjednodušení Evropského právního systému</li>
   <li>BREXIT a vztahy po vystoupení VB</li>
-  <li>atd</li>
-  <li>atd</li>
-  <li>atd</li>
 </ul>
   
   
