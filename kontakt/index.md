@@ -22,17 +22,11 @@ contentSize: default
   <li>Zjednodušování a zastropování systému dotací</li>
   <li>Podpora začínajících zemědělců, rodinných farem, malých družstev</li>
   <li>Komunitou podporované zemědělství</li>
-  <li>Rozvoj zemědělství s pestrými osevními postupy</li>
-  <li>Chov zvířat volně v přírodě</li>
-  <li>Ochrana půdy a její dostupnost</li>
-  <li>Změny v oblasti přimíchávání biopaliv</li>
-  <li>Kontrola Lesů ČR</li>
-  <li>Dostupnost zdravých, kvalitních a lokálních potravin</li>
-  <li>Ochrana zahrádkářských osad před tlakem developerů</li></ul>
+
   
   
 <div class="o-section-header o-section-header--indented">
   <h2 class="t-h2-alt">Jak se můžete zapojit?</h2>
 </div>
 
-Nabízíme šanci právníkům, ekonomům a odborníkům na zemědělství, lesnictví, ochranu půdy i vody, vodohospodářům a dalším specialistům, spolupracovat na zlepšení situace v České republice, a pro studenty něco se naučit a poznat zajímavé prostředí poslaneckého klubu Pirátské strany. Pokud souhlasíte s Pirátským programem v oblasti zemědělství a životního prostředí a chcete nám pomoci, ozvěte se prosím <b>Martinovi Huňadymu na <a href="mailto:martin.hunady@pirati.cz"> martin.hunady@pirati.cz</a></b>. Rádi vás pozveme na naše setkání.
+Nabízíme šanci právníkům, ekonomům a odborníkům na zahraničí a dalším specialistům, spolupracovat na zlepšení situace v světě a v Evropě, a pro studenty něco se naučit a poznat zajímavé prostředí europoslaneckého klubu Pirátské strany. Pokud souhlasíte s Pirátským programem v oblasti zemědělství a životního prostředí a chcete nám pomoci, ozvěte se prosím <b>emailem na na <a href="mailto:zo@pirati.cz">ZO@PIRATI.CZ </a></b>. 
