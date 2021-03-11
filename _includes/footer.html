@@ -10,22 +10,11 @@
             <header class="c-contact-bar-header u-stacked--medium-down">
               <h3 class="c-contact-bar__heading"> <a href="{{ '/kontakt/' | relative_url }}">Contact</a> </h3>
             </header>
-
-            {% for contact in site.data.menu.contact %}
-            {% assign person = site.people | where_exp:"item","item.uid contains contact.id" | first %}
-            <ul class="c-contact-bar-items u-stacked--medium-down">
-              <li class="c-contact-bar__item u-stacked--medium-down">
-                {% if contact.position %}
-                <div class="c-contact-bar__section"> {{ contact.position }} </div>
+                <div class="c-contact-bar__section"> Zahraniční odbor ČPS </div>
                 {% endif %}
                 <div class="c-contact-bar__description"> 
-                  <a href="{{ person.url }}">{{ person.name }}</a>, 
-                  <a href="mailto:{{ person.mail }}">{{ person.mail }}</a>
+                  <a href="mailto:zo@pirati.cz">zo@pirati.cz</a>, 
                 </div>
-              </li>
-            </ul>
-            {% endfor %}
-
           </div>
         </div>
       </div>
