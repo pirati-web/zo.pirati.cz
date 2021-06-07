@@ -58,7 +58,7 @@ main:
         name: Palestina a Israel
         match: gaza
       - link: /tema/iniciativy
-        name: Evropseké občanské iniciativy
+        name: Evropské občanské iniciativy
         match: iniciativy
 bottom:
   - class: small-12 medium-4
