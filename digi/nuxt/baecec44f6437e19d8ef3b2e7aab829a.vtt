@@ -1,0 +1,3946 @@
+WEBVTT
+
+00:00:03.160 --> 00:00:07.000
+Ladies and Gentlemen, 
+welcome to this panel discussion 
+
+00:00:07.000 --> 00:00:09.920
+dedicated to the very interesting topic
+
+00:00:09.920 --> 00:00:11.240
+To the topic of 
+
+00:00:11.320 --> 00:00:15.480
+Digital solutions and digital threats 
+in pandemic times
+
+00:00:16.760 --> 00:00:18.400
+My name is Aneta Zachová
+
+00:00:18.400 --> 00:00:21.960
+and I'm editor-in-chief of EURACTIV.cz
+
+00:00:21.960 --> 00:00:24.520
+and I'm happy that I have 
+the opportunity 
+
+00:00:24.520 --> 00:00:26.880
+to moderate this panel
+
+00:00:28.600 --> 00:00:31.040
+Just to briefly introduce the topic
+
+00:00:31.920 --> 00:00:34.480
+Modern technologies have shown us, 
+
+00:00:34.480 --> 00:00:36.240
+especially in the past months,
+
+00:00:36.400 --> 00:00:39.320
+that they can be very 
+useful and helpful
+
+00:00:39.320 --> 00:00:41.200
+in emergency situations
+
+00:00:41.600 --> 00:00:45.400
+They were used to mitigate the impacts
+ of a pandemic
+
+00:00:45.880 --> 00:00:48.080
+Among the most popular technologies, 
+
+00:00:48.400 --> 00:00:51.480
+there were tracing apps,
+for example,
+
+00:00:51.480 --> 00:00:54.600
+that were notifying their users that 
+they could
+
+00:00:54.840 --> 00:00:56.160
+for example
+
+00:00:56.720 --> 00:00:59.360
+Be in contact with an infected person
+
+00:01:00.040 --> 00:01:01.040
+Also,
+
+00:01:01.600 --> 00:01:03.920
+there were prominent technologies
+
+00:01:03.920 --> 00:01:06.200
+when it comes to 
+artificial intelligence
+
+00:01:06.200 --> 00:01:07.800
+that were used,
+for example,
+
+00:01:07.800 --> 00:01:10.280
+for the predictions of the pandemic
+
+00:01:11.520 --> 00:01:13.320
+But they were also used to
+
+00:01:13.320 --> 00:01:13.920
+let's say
+
+00:01:13.920 --> 00:01:17.680
+improve the implementation of 
+restrictive measures
+
+00:01:18.880 --> 00:01:20.520
+Therefore we have to say that
+
+00:01:20.520 --> 00:01:24.000
+deploying modern technologies means that
+
+00:01:24.000 --> 00:01:26.760
+we are skating on thin ice
+
+00:01:27.520 --> 00:01:28.760
+And to be honest with you, 
+
+00:01:28.760 --> 00:01:31.200
+I'm very curious about
+
+00:01:31.200 --> 00:01:37.520
+what experts of digitalization
+and connected fields
+
+00:01:37.520 --> 00:01:41.000
+will tell us in the next 60 minutes
+
+00:01:41.640 --> 00:01:44.920
+So, dear participants of
+Going Digital conference
+
+00:01:44.920 --> 00:01:47.920
+let me introduce you our great speakers
+
+00:01:48.200 --> 00:01:51.680
+I'm very happy that here in studio
+
+00:01:51.680 --> 00:01:52.800
+Virtual studio
+
+00:01:53.080 --> 00:01:55.040
+is Mr. Ole Jann
+
+00:01:55.840 --> 00:01:59.400
+Assistant professor at the Centre for 
+Economical Research
+
+00:01:59.400 --> 00:02:02.360
+and Graduate Education Economics Institute
+
+00:02:02.360 --> 00:02:03.360
+SERGE
+
+00:02:03.480 --> 00:02:05.520
+which is a joined workplace
+
+00:02:05.560 --> 00:02:08.480
+of Charles University and the
+Czech Academy of Science
+
+00:02:10.080 --> 00:02:11.840
+Then I am also very happy 
+
+00:02:11.840 --> 00:02:15.000
+that we have online speakers here
+
+00:02:15.000 --> 00:02:17.280
+Among them Patrick Breyer
+
+00:02:17.760 --> 00:02:19.760
+Member of the European Parliament
+
+00:02:19.760 --> 00:02:22.720
+and the German Digital Rights Activist
+
+00:02:23.640 --> 00:02:27.200
+Then I'm also very happy that I can
+welcome here Jan Kulveit
+
+00:02:27.760 --> 00:02:31.240
+Senior Researcher at the Future of 
+Humanity Institute
+
+00:02:31.240 --> 00:02:33.160
+at the University of Oxford
+
+00:02:34.120 --> 00:02:37.120
+Then it's my pleasure to welcome here
+
+00:02:37.120 --> 00:02:38.120
+Patrick Zandl
+
+00:02:38.720 --> 00:02:40.440
+Czech digital entrepeneur,
+
+00:02:40.440 --> 00:02:41.160
+Expert
+
+00:02:41.160 --> 00:02:43.600
+and also member of 
+the Czech Pirate Party
+
+00:02:44.560 --> 00:02:46.040
+Before we start our discussion,
+
+00:02:46.040 --> 00:02:48.800
+I would like to ask all our participants
+
+00:02:48.800 --> 00:02:51.240
+to interact with us through Slido
+
+00:02:51.480 --> 00:02:53.760
+You can write there your comments
+or questions
+
+00:02:53.760 --> 00:02:56.080
+and I would be happy to address them
+
+00:02:56.080 --> 00:02:58.960
+or not me, but my distinguished guests
+
+00:03:00.000 --> 00:03:02.160
+But now let's start with the discussion
+
+00:03:02.160 --> 00:03:04.040
+beacuse we have only 60 minutes
+
+00:03:04.040 --> 00:03:06.120
+We have a very interesting topic
+
+00:03:06.640 --> 00:03:08.880
+and we have great speakers here
+
+00:03:09.200 --> 00:03:13.280
+So let me start with the first kind of 
+kickoff question
+
+00:03:14.440 --> 00:03:16.760
+For Mr. Breyer
+
+00:03:18.160 --> 00:03:19.720
+As I told in the beginning,
+
+00:03:19.720 --> 00:03:21.280
+We see that
+
+00:03:22.240 --> 00:03:26.440
+tracing apps were very useful
+in the times of pandemic
+
+00:03:26.800 --> 00:03:29.320
+You could see that
+many national governments
+
+00:03:29.320 --> 00:03:31.440
+included these apps 
+
+00:03:31.440 --> 00:03:36.200
+into their national strategies in the 
+fight against COVID-19 pandemic
+
+00:03:36.840 --> 00:03:38.960
+For example, in Czech Republic we had,
+
+00:03:38.960 --> 00:03:41.120
+we still have, eRouška
+
+00:03:41.440 --> 00:03:44.880
+In Italy, it was the application Immuni
+
+00:03:44.880 --> 00:03:47.360
+and most of the countries in Europe
+
+00:03:48.640 --> 00:03:53.400
+have deployed these types of application
+
+00:03:53.720 --> 00:03:56.160
+And my question for you is
+
+00:03:57.320 --> 00:04:00.000
+Mr Breyer, can we say that these
+
+00:04:00.400 --> 00:04:02.800
+tracing apps are safe
+
+00:04:03.400 --> 00:04:08.480
+when we are considering the data 
+privacy and data protection
+
+00:04:08.480 --> 00:04:10.960
+Please, Mr Breyer,
+the floor is yours
+
+00:04:11.200 --> 00:04:13.800
+Thank you Aneta and good morning 
+everybody
+
+00:04:14.480 --> 00:04:16.760
+Yes, I'm not quite convinced
+
+00:04:16.760 --> 00:04:21.360
+that these apps are the key solution
+to the pandemic
+
+00:04:21.360 --> 00:04:22.360
+and in tracking it
+
+00:04:22.880 --> 00:04:25.240
+They are generally poorly spread
+
+00:04:25.240 --> 00:04:28.240
+So not very many people are using them
+
+00:04:28.760 --> 00:04:32.040
+And so far, the contacts
+
+00:04:32.040 --> 00:04:34.080
+Tracing the contacts of infected people
+
+00:04:34.080 --> 00:04:37.000
+and notifying them 
+has been done by humans
+
+00:04:37.400 --> 00:04:39.160
+And a study say that
+
+00:04:39.160 --> 00:04:42.240
+this protects us much better than an app
+
+00:04:42.240 --> 00:04:46.640
+And would also avoid massive numbers 
+of false alarms
+
+00:04:47.160 --> 00:04:50.000
+due to those apps not being able
+
+00:04:50.000 --> 00:04:52.520
+to detect walls,
+etcetera pp
+
+00:04:53.240 --> 00:04:57.320
+And the great risk is that
+
+00:04:57.920 --> 00:05:00.960
+once this technology is in use
+
+00:05:01.520 --> 00:05:03.920
+it could be made mandatory 
+
+00:05:05.360 --> 00:05:08.600
+to track people also for other purposes
+
+00:05:09.120 --> 00:05:11.680
+What we've seen is that,
+ at least in Poland,
+
+00:05:11.680 --> 00:05:13.160
+the home quarantining app
+
+00:05:14.560 --> 00:05:16.960
+requires regular check ins
+
+00:05:17.720 --> 00:05:20.000
+and it makes you wonder 
+if it's effective
+
+00:05:20.000 --> 00:05:22.720
+because you could still invite people
+to your home, right?
+
+00:05:22.720 --> 00:05:23.720
+and nobody would see
+
+00:05:25.960 --> 00:05:28.560
+South Korea's app is actually using GPS
+
+00:05:28.560 --> 00:05:34.880
+to track locations also in cases 
+of quarantine breaches
+
+00:05:37.520 --> 00:05:41.680
+Yes, Thailand is actually 
+making travellers
+
+00:05:42.240 --> 00:05:43.480
+use an app
+
+00:05:44.880 --> 00:05:46.600
+to enforce their quarantine
+
+00:05:46.600 --> 00:05:49.320
+and also to track their movements
+
+00:05:49.920 --> 00:05:53.920
+And I think the government 
+should provide
+
+00:05:53.920 --> 00:05:55.880
+sufficient protective equipement
+
+00:05:55.880 --> 00:05:56.880
+to healthcare
+
+00:05:57.120 --> 00:05:58.760
+At testing facilities
+
+00:05:59.560 --> 00:06:03.280
+we need to have vaccine supplies now
+
+00:06:03.680 --> 00:06:06.000
+and prepare properly 
+for future pandemics
+
+00:06:06.400 --> 00:06:08.640
+That is, I think, what is key
+
+00:06:08.640 --> 00:06:13.440
+and not collecting location data
+
+00:06:15.120 --> 00:06:16.480
+Thank you very much
+
+00:06:16.920 --> 00:06:20.040
+Just heard a bit skeptical approach
+
+00:06:20.040 --> 00:06:22.240
+towards these tracing apps
+
+00:06:22.680 --> 00:06:25.440
+And I'm wondering, Mr. Jann
+
+00:06:25.440 --> 00:06:26.480
+what do you think about it?
+
+00:06:26.480 --> 00:06:30.560
+Do you agree with what 
+has been said by Mr. Breyer or?
+
+00:06:31.000 --> 00:06:33.080
+What do you think about 
+these tracing apps?
+
+00:06:33.080 --> 00:06:36.080
+Should we really use them massively?
+
+00:06:36.080 --> 00:06:38.400
+Should they be, for example, mandatory?
+
+00:06:38.880 --> 00:06:40.720
+What do you think about that?
+
+00:06:41.160 --> 00:06:43.400
+I mean, I agree in broad strokes
+
+00:06:43.400 --> 00:06:45.240
+I think they are relatively safe
+
+00:06:45.240 --> 00:06:47.680
+At least the kind of the broad principle
+
+00:06:47.680 --> 00:06:49.280
+of bluetooth tracing
+
+00:06:49.280 --> 00:06:50.960
+I mean, it doesn't collect a lot of data
+
+00:06:50.960 --> 00:06:53.640
+So the broad principle is 
+relatively safe
+
+00:06:53.960 --> 00:06:55.560
+But I agree that 
+the main question is really
+
+00:06:55.560 --> 00:06:57.440
+are they effective at all?
+
+00:06:57.560 --> 00:06:58.960
+And do they really?
+
+00:06:58.960 --> 00:07:01.360
+I mean, to my knowledge, 
+there is no country
+
+00:07:01.360 --> 00:07:03.400
+where they really yield a measurable
+
+00:07:03.400 --> 00:07:05.600
+or large contribution to fighting 
+the pandemic, right?
+
+00:07:05.600 --> 00:07:08.720
+So even in countries where they have 
+a penetration
+
+00:07:08.720 --> 00:07:10.360
+of maybe 40% or so
+
+00:07:10.760 --> 00:07:12.120
+Then that would mean 
+
+00:07:12.120 --> 00:07:13.320
+In theory, they could maybe
+
+00:07:13.480 --> 00:07:14.640
+find 15%
+
+00:07:14.640 --> 00:07:16.840
+but then people don't have 
+their bluetooth switched on
+
+00:07:16.840 --> 00:07:17.640
+and there's walls
+
+00:07:17.640 --> 00:07:18.640
+and all kinds of stuff
+
+00:07:18.640 --> 00:07:20.760
+so maybe they could help finding
+
+00:07:20.760 --> 00:07:22.080
+I mean, with great penetration
+
+00:07:22.080 --> 00:07:24.920
+they could help finding 
+5% of infections or so, right?
+
+00:07:24.920 --> 00:07:27.760
+So that's not a huge effect
+
+00:07:27.760 --> 00:07:30.120
+and I think we should also
+not get distracted by that
+
+00:07:30.800 --> 00:07:32.360
+As Patrick Breyer has said,
+
+00:07:32.360 --> 00:07:35.320
+We really need investments into human
+contact tracers
+
+00:07:35.760 --> 00:07:37.760
+and we need investing into testing
+
+00:07:37.760 --> 00:07:40.120
+and those are the political choices
+
+00:07:40.120 --> 00:07:41.120
+that have to be made
+
+00:07:42.080 --> 00:07:42.880
+And so
+
+00:07:43.160 --> 00:07:43.880
+Just
+
+00:07:44.240 --> 00:07:45.720
+These apps I really
+
+00:07:45.840 --> 00:07:46.400
+I mean
+
+00:07:46.800 --> 00:07:47.920
+We didn't know in the beginning 
+
+00:07:47.920 --> 00:07:50.000
+It could have been that
+they played a larger role
+
+00:07:50.000 --> 00:07:51.000
+It was a new situation
+
+00:07:51.000 --> 00:07:52.760
+But in the end I think
+they're not very effective
+
+00:07:52.760 --> 00:07:54.440
+Should they be mandatory, I think
+
+00:07:54.800 --> 00:07:56.720
+That would also be counterproductive
+
+00:07:56.720 --> 00:07:58.400
+And first of all,
+I don't think they would
+
+00:07:59.080 --> 00:08:00.560
+increase the effectiveness very much
+
+00:08:00.560 --> 00:08:03.600
+But it would, of course,
+lead to a huge backlash
+
+00:08:04.240 --> 00:08:06.440
+that suddenly the government 
+wants you to have
+
+00:08:06.440 --> 00:08:09.400
+apps on your phone
+that track and trace you
+
+00:08:09.760 --> 00:08:11.080
+And it would,
+I mean,
+
+00:08:11.080 --> 00:08:14.320
+Even though the apps themselves 
+are relatively safe in data terms
+
+00:08:14.320 --> 00:08:16.640
+You would then have to build
+a surveillance infrastructure
+
+00:08:16.640 --> 00:08:18.440
+to check whether people
+actually use the apps
+
+00:08:18.960 --> 00:08:20.160
+So that would defeat the purpose of
+
+00:08:20.160 --> 00:08:23.040
+having good privacy apps
+
+00:08:23.040 --> 00:08:25.040
+So that I think 
+would be very inadvisable
+
+00:08:25.040 --> 00:08:26.400
+making any of this mandatory
+
+00:08:27.800 --> 00:08:29.840
+Thank you very much Mr. Jann
+
+00:08:30.280 --> 00:08:33.120
+I have now a question for Mr. Zandl
+
+00:08:33.120 --> 00:08:35.960
+who is connected to us virtually
+
+00:08:36.680 --> 00:08:39.280
+We were talking about the effectiveness 
+
+00:08:39.280 --> 00:08:42.520
+of the tracing application
+
+00:08:44.080 --> 00:08:45.000
+What do you think?
+
+00:08:45.000 --> 00:08:47.200
+How to make these applications
+
+00:08:47.200 --> 00:08:49.400
+As much as possible
+
+00:08:49.680 --> 00:08:53.360
+But while protecting the privacy
+
+00:08:53.360 --> 00:08:55.880
+and the data of the users?
+
+00:08:55.880 --> 00:08:57.240
+Please Mr Zandl
+
+00:08:58.520 --> 00:08:59.520
+Hello everybody
+
+00:08:59.720 --> 00:09:01.400
+Going back in the time, 
+
+00:09:01.400 --> 00:09:04.240
+in the spring
+we were worried about what the
+
+00:09:04.800 --> 00:09:06.560
+paid solution would like
+
+00:09:08.760 --> 00:09:11.600
+would like to see
+
+00:09:12.160 --> 00:09:16.480
+That is why we started to prepare
+our own eRouška application
+
+00:09:16.480 --> 00:09:21.120
+in the volunteer activity COVID19 CZ
+
+00:09:21.720 --> 00:09:24.280
+And this application
+was based on strict principles
+
+00:09:24.280 --> 00:09:26.080
+for personal data protection
+
+00:09:26.480 --> 00:09:27.600
+Above all, 
+
+00:09:27.600 --> 00:09:30.200
+it was not intended 
+to work with the location 
+
+00:09:30.200 --> 00:09:31.720
+or with the usernames
+
+00:09:32.000 --> 00:09:35.800
+And it was just based
+on the voluntarity 
+
+00:09:36.720 --> 00:09:40.440
+And this application succeed
+
+00:09:41.680 --> 00:09:43.080
+using Bluetooth,
+
+00:09:43.080 --> 00:09:44.360
+not using GPS,
+
+00:09:44.360 --> 00:09:46.400
+protecting your personal data
+
+00:09:46.840 --> 00:09:48.320
+That was our choice
+
+00:09:48.400 --> 00:09:52.640
+And i need to say
+there was a possibility
+
+00:09:52.640 --> 00:09:55.960
+that the Czech Republic
+would use Israelian application 
+
+00:09:56.280 --> 00:09:58.000
+which is quite invasive
+
+00:09:58.960 --> 00:10:01.400
+in the user data
+
+00:10:02.040 --> 00:10:05.520
+Surveilling the user
+without his permission
+
+00:10:05.520 --> 00:10:10.600
+And that was the possibility
+we would like not to accept
+
+00:10:13.280 --> 00:10:14.440
+Thank you very much
+
+00:10:15.160 --> 00:10:19.280
+I have a follow up question
+for Mr. Kulveit
+
+00:10:21.240 --> 00:10:22.600
+Literally, the same question
+
+00:10:22.600 --> 00:10:27.920
+as I already gave to our other speakers
+
+00:10:28.560 --> 00:10:32.880
+What do you think about the 
+effectiveness of these tracing apps?
+
+00:10:32.880 --> 00:10:36.160
+Do you think that
+they can really help us
+
+00:10:36.160 --> 00:10:38.520
+to tackle the pandemic?
+
+00:10:38.840 --> 00:10:43.440
+Or what are the barriers
+of their effective use?
+
+00:10:43.680 --> 00:10:44.800
+Please Mr. Kulveit
+
+00:10:47.200 --> 00:10:48.200
+Good morning
+
+00:10:48.200 --> 00:10:49.200
+So
+
+00:10:49.440 --> 00:10:51.560
+As all have said,
+they are not very effective
+
+00:10:52.720 --> 00:10:56.400
+It was not clear, like,
+from the beginning
+
+00:10:57.440 --> 00:11:01.400
+But I think now 
+they are in some sense
+
+00:11:01.840 --> 00:11:03.400
+like part of the solution
+
+00:11:03.400 --> 00:11:05.040
+but only a relatively small part
+
+00:11:05.760 --> 00:11:07.800
+It’s not the core of the strategy
+
+00:11:08.400 --> 00:11:09.400
+Maybe
+
+00:11:10.280 --> 00:11:13.000
+Connecting a bit
+to the previous speakers,
+
+00:11:13.000 --> 00:11:16.680
+I think in all anticovid measures
+typically the question,
+
+00:11:17.120 --> 00:11:18.760
+the right question isn't
+
+00:11:19.400 --> 00:11:22.120
+whether like this measure is
+better than some other measure
+
+00:11:22.120 --> 00:11:23.120
+Whether, I don’t know,
+
+00:11:23.680 --> 00:11:27.800
+better personal protective equipment
+
+00:11:27.800 --> 00:11:30.360
+is better than the tracing apps
+
+00:11:30.840 --> 00:11:34.040
+But in a sense like every person counts,
+
+00:11:34.040 --> 00:11:37.280
+every person that people traced or
+
+00:11:37.920 --> 00:11:40.640
+the spread of the disease prevented counts
+
+00:11:41.360 --> 00:11:44.360
+So tracing the correct measure is
+
+00:11:45.120 --> 00:11:46.920
+basically look at something like
+
+00:11:46.920 --> 00:11:49.640
+cost versus benefits of the measures
+
+00:11:50.120 --> 00:11:53.160
+So if it’s a measure
+reduces the reproduction
+
+00:11:53.160 --> 00:11:55.040
+but it’s just like 3 persons
+
+00:11:55.840 --> 00:11:58.120
+it can mean that like, I don’t know,
+
+00:11:58.120 --> 00:12:01.720
+one more year of school could be open and so on 
+
+00:12:02.000 --> 00:12:03.000
+So
+
+00:12:04.000 --> 00:12:06.960
+I think they are not
+the core of contact tracing
+
+00:12:06.960 --> 00:12:08.360
+in any Western country
+
+00:12:09.000 --> 00:12:10.000
+At the same time,
+
+00:12:10.000 --> 00:12:13.440
+they still seem to be
+pretty cost efficient
+
+00:12:13.440 --> 00:12:16.040
+if they're like connected
+to some broader
+
+00:12:16.560 --> 00:12:19.960
+test and trace strategy
+
+
+00:12:22.320 --> 00:12:24.080
+Thank you very much Mr. Kulveit 
+
+00:12:24.920 --> 00:12:27.840
+I have again question for Mr. Breyer 
+
+00:12:27.840 --> 00:12:30.880
+Because you have kind of
+a European perspective,
+
+00:12:30.880 --> 00:12:31.680
+let's say
+
+00:12:32.960 --> 00:12:36.520
+When there was this problem of the COVID
+
+00:12:36.520 --> 00:12:39.440
+and the national borders were closed
+
+00:12:39.760 --> 00:12:41.160
+Many people thought that
+
+00:12:41.160 --> 00:12:45.240
+with these applications
+it would be much more easier,
+
+00:12:45.240 --> 00:12:49.000
+for example,
+to travel also in the times of pandemic
+
+00:12:49.000 --> 00:12:53.720
+That the national tracing apps
+will be somehow connected
+
+00:12:53.720 --> 00:12:56.720
+so we could share the data
+
+00:12:57.040 --> 00:12:59.440
+But if i'm not mistaken,
+
+00:12:59.440 --> 00:13:02.600
+I don't think that this is
+something that really happened 
+
+00:13:02.600 --> 00:13:07.000
+that we have this kind of
+connected tracing apps in Europe
+
+00:13:08.480 --> 00:13:12.320
+I see that Mr. Kulveit
+maybe wants to add something
+
+00:13:12.320 --> 00:13:13.320
+if I'm not mistaken
+
+00:13:14.880 --> 00:13:15.880
+Please Mr. Kulveit
+
+00:13:17.280 --> 00:13:19.920
+Yeah, actually the apps
+
+00:13:19.920 --> 00:13:22.480
+which are using
+the Google and Apple protocol
+
+00:13:23.280 --> 00:13:24.800
+are like interoperable
+
+00:13:25.760 --> 00:13:28.800
+So it’s not actually true
+they are not connected
+
+00:13:28.800 --> 00:13:30.400
+They're running on the same protocol
+
+00:13:30.800 --> 00:13:34.560
+As in the governments
+running the applications are
+
+00:13:35.160 --> 00:13:38.440
+right now working on
+making them like interoperable
+
+00:13:38.800 --> 00:13:43.240
+in the sense that, if you have
+a positive result from Germany
+
+00:13:43.720 --> 00:13:48.880
+it will be messaged if you
+met people from other countries
+
+00:13:48.880 --> 00:13:55.280
+This is not a case that 
+they wouldn’t be interoperable at all
+
+00:13:56.880 --> 00:13:58.400
+Thank you very much
+
+00:13:58.640 --> 00:14:01.040
+Let’s go back to Mr. Breyer
+
+00:14:01.440 --> 00:14:04.560
+What do you think about this connectivity of
+
+00:14:04.560 --> 00:14:07.600
+the European tracing application?
+
+00:14:07.600 --> 00:14:08.920
+Is it truly working?
+
+00:14:08.920 --> 00:14:12.480
+We just heard that the applications
+are interoperable
+
+00:14:12.480 --> 00:14:15.200
+but are they really working currently?
+
+
+00:14:15.200 --> 00:14:16.200
+Please Mr. Breyer
+
+00:14:17.120 --> 00:14:18.680
+Well from the German experience
+
+00:14:18.680 --> 00:14:20.440
+I know that they had a lot of problems
+
+00:14:20.440 --> 00:14:22.360
+that these apps
+weren’t working for weeks
+
+00:14:22.360 --> 00:14:23.800
+and they only found out later 
+
+00:14:24.080 --> 00:14:25.720
+and then some users,
+
+00:14:25.720 --> 00:14:27.760
+depending on the system configuration,
+
+00:14:29.680 --> 00:14:33.360
+didn't actually receive
+warnings and alerts
+
+00:14:33.360 --> 00:14:34.960
+so there were technical problems
+
+00:14:35.240 --> 00:14:38.600
+But what you mentioned
+was the risk indeed
+
+00:14:38.600 --> 00:14:41.280
+that they would use the opening up
+
+00:14:42.000 --> 00:14:47.840
+to make this
+and allowing travels dependening
+
+00:14:48.080 --> 00:14:50.440
+on agreeing to using the app 
+
+00:14:50.440 --> 00:14:55.520
+and that would really be
+an indirect obligation to use it
+
+00:14:55.520 --> 00:14:57.520
+and that was a great risk 
+
+00:14:57.520 --> 00:15:02.000
+but it’s true that
+it hasn’t happened in Europe so far 
+
+00:15:02.240 --> 00:15:05.720
+And people can have good reasons
+not to use these apps,
+
+00:15:05.720 --> 00:15:07.720
+not only because they don't trust them
+
+00:15:07.720 --> 00:15:10.680
+but also maybe they don’t want
+to carry a mobile phone
+
+00:15:10.920 --> 00:15:12.880
+If you carry a mobile phone
+
+00:15:12.880 --> 00:15:16.760
+then the operator
+will be tracking you anyway
+
+00:15:17.080 --> 00:15:21.080
+and collecting the data
+about your location in the database
+
+00:15:21.080 --> 00:15:23.080
+which can be used to incriminate you
+
+00:15:23.080 --> 00:15:26.200
+if you have been to a protest 
+
+00:15:26.200 --> 00:15:29.560
+where, you know, 
+criminal offences occurred
+
+00:15:29.840 --> 00:15:32.920
+Or even if you’ve been
+in the wrong place at the wrong time
+
+00:15:32.920 --> 00:15:35.760
+you could be targeted by the police
+
+00:15:35.760 --> 00:15:38.200
+or some crime happened nearby
+
+00:15:38.200 --> 00:15:39.200
+etcetera pp
+
+00:15:39.440 --> 00:15:41.960
+And people can have good reasons
+for not using them
+
+00:15:42.160 --> 00:15:43.880
+Also in my case, for example,
+
+00:15:43.880 --> 00:15:48.760
+I don't use
+either Android nor Apple iPhone
+
+00:15:48.960 --> 00:15:52.840
+but I actually use
+a free open source operating system 
+
+00:15:53.480 --> 00:15:56.600
+where I could theoretically
+examine the code
+
+00:15:56.600 --> 00:15:57.840
+and make sure it is safe
+
+00:15:58.240 --> 00:16:00.960
+and these apps don’t even work
+
+00:16:02.840 --> 00:16:06.600
+on open source mobile operating systems
+
+00:16:06.880 --> 00:16:12.000
+Meaning that they are 
+actually using operating systems
+
+00:16:12.000 --> 00:16:14.600
+that are closed source partly
+
+00:16:14.600 --> 00:16:15.960
+you don’t know what’s happening
+
+00:16:15.960 --> 00:16:19.480
+and you also don’t know what's 
+happening at the receiving end
+
+00:16:19.760 --> 00:16:23.520
+So whether the server is 
+actually logging requests
+
+00:16:23.520 --> 00:16:25.680
+for example,
+it’s logging your IP address
+
+00:16:26.040 --> 00:16:27.280
+You can’t be sure
+
+00:16:27.560 --> 00:16:28.040
+So
+
+00:16:28.280 --> 00:16:32.680
+The roles of these apps is really
+a large scale social experiment
+
+00:16:33.000 --> 00:16:35.720
+that involves digital
+behaviour recording
+
+00:16:36.040 --> 00:16:37.600
+under state supervision
+
+00:16:37.600 --> 00:16:39.360
+for the first time really
+
+00:16:39.640 --> 00:16:42.880
+And that is the risk in it
+
+00:16:42.880 --> 00:16:45.360
+and that’s why I think
+that the benefit
+
+00:16:45.360 --> 00:16:47.800
+needs to be balanced
+against the risks
+
+00:16:48.440 --> 00:16:54.360
+And even if it could, you know,
+trace some percentages of infections
+
+00:16:54.600 --> 00:16:57.080
+if there are alternatives
+that don’t come with those risks 
+
+00:16:58.160 --> 00:17:03.040
+we should definitely look into
+those and prefer those
+
+00:17:04.080 --> 00:17:07.560
+And I have maybe
+a follow up question for you
+
+00:17:07.840 --> 00:17:12.080
+Do we have these types of alternatives
+without risks?
+
+
+00:17:12.080 --> 00:17:15.840
+Can you name them if we have some things
+
+00:17:15.840 --> 00:17:21.440
+we can use for this tracing
+but without these risks?
+
+00:17:22.080 --> 00:17:24.400
+Yes, what works very well is
+human tracing 
+
+00:17:24.520 --> 00:17:28.200
+so you basically ask people 
+where they have been
+
+00:17:28.200 --> 00:17:30.840
+and whom they have been in touch with
+
+00:17:31.160 --> 00:17:34.920
+and usually it works much better,
+as it has been said,
+
+00:17:35.320 --> 00:17:38.920
+because many people just won't be using 
+and carrying the app anyway
+
+00:17:39.760 --> 00:17:41.760
+The manual tracing is more effective
+
+00:17:41.760 --> 00:17:43.720
+If you reach out to people actually
+
+00:17:44.960 --> 00:17:48.160
+Of course you may not trace all contacts
+
+00:17:48.160 --> 00:17:50.600
+but the app will trace even less
+
+00:17:51.800 --> 00:17:52.600
+Thank you very much 
+
+00:17:52.600 --> 00:17:58.760
+I just now want to ask our participants
+to give us questions comments
+
+00:17:58.760 --> 00:18:00.480
+You can write in the chat
+
+00:18:00.480 --> 00:18:02.960
+and I would be happy to address it here
+
+00:18:03.320 --> 00:18:05.680
+I have now a question for Mr. Jann
+
+00:18:07.160 --> 00:18:10.000
+We are still discussing
+about the tracing apps
+
+00:18:10.000 --> 00:18:12.840
+and I would like to stick
+to this topic a bit longer 
+
+00:18:13.120 --> 00:18:15.080
+I'm interested in like
+
+00:18:15.080 --> 00:18:19.800
+are the people really willing
+to install these applications?
+
+00:18:19.800 --> 00:18:22.360
+or do you think
+they are considering these risks
+
+00:18:22.720 --> 00:18:26.440
+ that for example,
+Mr. Breyer has just told us?
+
+00:18:26.760 --> 00:18:28.720
+Are they aware of this? 
+
+00:18:28.720 --> 00:18:31.160
+And do you think it can,
+for example, distract them
+
+00:18:31.160 --> 00:18:34.480
+from the installation of
+these tracing apps?
+
+00:18:34.720 --> 00:18:35.280
+Please
+
+00:18:35.440 --> 00:18:38.320
+So first of all, a quick comment
+to Patrick Breyer
+
+00:18:38.320 --> 00:18:42.720
+I mean, the human contact tracing
+is not without risks either
+
+00:18:42.720 --> 00:18:46.840
+because also you collect
+a lot of personal data in that
+
+00:18:46.840 --> 00:18:49.840
+and I think there has also been
+a bit of cavalier attitude 
+
+00:18:49.840 --> 00:18:50.840
+at least in some countries
+
+00:18:50.840 --> 00:18:52.840
+about how to deal with this data
+
+00:18:52.840 --> 00:18:54.760
+You know, if my contact tracer
+
+00:18:54.760 --> 00:18:57.000
+well I never had that call fortunately,
+
+00:18:57.000 --> 00:18:59.440
+but if a contact tracer calls me
+and says where have you been?
+
+00:18:59.440 --> 00:19:02.680
+And I say ‘Oh you know, 
+then I went out with my wife, 
+
+00:19:02.680 --> 00:19:04.160
+and then I went out with my girlfriend
+
+00:19:04.160 --> 00:19:05.640
+and then I visited my second family
+
+00:19:05.640 --> 00:19:06.600
+and all these things, right?
+
+00:19:06.600 --> 00:19:09.920
+So how is this data being taken care of?
+
+00:19:09.920 --> 00:19:13.160
+and how do these incentives interact
+with people incentives
+
+00:19:13.160 --> 00:19:17.320
+to actually cooperate with this kind
+of contact tracing
+
+00:19:17.720 --> 00:19:21.560
+So now are people aware of
+the risks of the apps?
+
+00:19:21.560 --> 00:19:27.160
+I think we see the same there 
+as we see in general discussions
+
+00:19:27.160 --> 00:19:29.360
+of privacy in the population
+
+00:19:29.360 --> 00:19:32.920
+That some people are overly sensitive
+
+00:19:32.920 --> 00:19:36.280
+Some people say I will never allow
+anything on my phone
+
+00:19:36.280 --> 00:19:39.720
+And some people are kind of under sensitive 
+and say, you know,
+
+00:19:40.240 --> 00:19:42.480
+I have nothing to hide
+so i have nothing to fear 
+
+
+00:19:42.480 --> 00:19:46.720
+All of these quite simple but 
+too simple arguments that we know
+
+00:19:46.720 --> 00:19:49.840
+So my feeling was that
+the discussion of tracing apps is
+
+00:19:49.840 --> 00:19:53.880
+really very quickly fell into these old
+
+00:19:53.880 --> 00:19:57.680
+front warfare between these groups
+
+00:19:57.680 --> 00:20:01.160
+And I think not that much
+
+00:20:01.160 --> 00:20:03.880
+or I mean, not as much progress
+as we could have hoped
+
+00:20:03.880 --> 00:20:05.520
+was made beyond that 
+
+00:20:05.520 --> 00:20:09.560
+So that the very basic point that 
+bluetooth tracing apps
+
+00:20:10.120 --> 00:20:12.320
+doesn't need location data
+
+00:20:12.320 --> 00:20:14.120
+as Patrick Zandl pointed out,
+
+00:20:14.120 --> 00:20:16.160
+basically doesn't need any kind of data
+
+00:20:16.160 --> 00:20:18.640
+that we would consider
+sensitive personal data
+
+00:20:19.160 --> 00:20:22.080
+That very basic point I think
+was often lost in the discussion
+
+00:20:22.080 --> 00:20:24.760
+between nothing to hide,
+nothing to fear
+
+00:20:24.760 --> 00:20:27.800
+and you know, tomorrow in 1984
+
+00:20:27.800 --> 00:20:31.320
+the government will take all our data 
+and put us into slavery
+
+00:20:31.400 --> 00:20:34.720
+So those extreme discussions
+kind of drowned out
+
+00:20:34.720 --> 00:20:37.360
+a lot of the reasonable debate
+I felt on this topic
+
+
+00:20:38.480 --> 00:20:39.240
+Thank you very much
+
+
+00:20:39.240 --> 00:20:42.160
+I have a follow up question
+for Mr. Zandl
+
+
+00:20:42.160 --> 00:20:47.800
+Because Mr. Zandl is pretty much aware 
+of the situation in the Czech Republic
+
+00:20:47.800 --> 00:20:51.520
+Of our eRouška application
+
+00:20:52.440 --> 00:20:56.520
+We just heard that eRouška is
+using the Bluetooth technology
+
+00:20:56.680 --> 00:20:59.080
+it's not like ran on the data
+
+00:20:59.080 --> 00:21:03.520
+So it doesn’t need to 
+get our data from people
+
+00:21:04.920 --> 00:21:05.840
+But still
+
+00:21:06.640 --> 00:21:09.680
+for example me 
+as one of the users of the eRouška
+
+00:21:09.680 --> 00:21:12.960
+I know that everytime I switch it on 
+
+00:21:12.960 --> 00:21:14.920
+It takes battery and so on
+
+00:21:15.640 --> 00:21:20.600
+And so i'm interested in like 
+how the people in the Czech Republic
+
+00:21:20.600 --> 00:21:25.240
+really reacted to this possibility
+to have this kind of application 
+
+00:21:25.640 --> 00:21:26.880
+I don't’ know if you could, for example, 
+
+00:21:26.880 --> 00:21:31.520
+tell us how efficient was eRouška
+in the Czech Republic
+
+00:21:32.200 --> 00:21:37.360
+Given the fact that, let’s say,
+that this type of application
+
+00:21:37.360 --> 00:21:41.560
+is not connected with
+as many risky situations
+
+00:21:41.560 --> 00:21:43.640
+For example as was mentioned in Poland
+
+00:21:43.640 --> 00:21:46.800
+when the users have to
+check in regularly
+
+00:21:48.400 --> 00:21:53.240
+So please could you tell us something 
+more about this Czech eRouška?
+
+00:21:53.240 --> 00:21:54.720
+Please Mr. Zandl
+
+00:21:54.720 --> 00:21:55.720
+Hopefully
+
+00:21:55.720 --> 00:21:56.720
+Hopefully I can
+
+00:21:57.160 --> 00:22:01.280
+I need to say we have tried all three 
+approaches
+
+00:22:01.960 --> 00:22:04.480
+to this application
+
+00:22:04.680 --> 00:22:07.040
+Even GPS based location
+
+00:22:07.160 --> 00:22:09.840
+it was included in Mapy.cz 
+
+00:22:09.840 --> 00:22:15.320
+Which is the largest
+Czech geographic portal
+
+00:22:15.840 --> 00:22:19.800
+Over 1 million users follow
+this mobile application
+
+00:22:19.800 --> 00:22:24.560
+And inside this application was
+GPS tracking for the location
+
+00:22:24.560 --> 00:22:28.320
+and if you met somebody
+who was COVID positive 
+
+00:22:28.600 --> 00:22:30.960
+you received some notice
+
+00:22:31.320 --> 00:22:33.880
+But this was devastating your battery 
+
+00:22:33.880 --> 00:22:38.680
+and of course it was
+devastating your privacy
+
+00:22:38.960 --> 00:22:41.320
+even when we promised you 
+
+00:22:41.320 --> 00:22:44.040
+or Seznam, 
+the owner of the application,
+
+00:22:44.040 --> 00:22:48.960
+promised you not to give
+the data outside the company
+
+00:22:49.160 --> 00:22:50.280
+This is one approach
+
+00:22:50.280 --> 00:22:53.800
+The second approach is eRouška
+going through the Bluetooth
+
+00:22:54.000 --> 00:22:55.320
+Total privacy 
+
+00:22:55.760 --> 00:22:58.760
+And not so much devastating the battery
+
+00:22:59.640 --> 00:23:04.880
+And the third approach is localization
+through the mobile network 
+
+00:23:05.040 --> 00:23:10.440
+Because each mobile network knows
+where is your mobile phone 
+
+00:23:10.440 --> 00:23:13.800
+the accuracy is not so nice
+
+00:23:13.800 --> 00:23:19.360
+but several tenths or
+hundred meters is enough 
+
+00:23:20.160 --> 00:23:25.680
+And this is even a big invasion
+in your privacy 
+
+00:23:26.280 --> 00:23:30.240
+And even we don’t like this approach
+
+00:23:32.160 --> 00:23:38.880
+About some statistics
+or what was the experience
+
+00:23:39.360 --> 00:23:43.160
+We have almost no complaints
+about eRouška
+
+00:23:43.160 --> 00:23:47.000
+Of course many journalists ask
+‘How does it work?’
+
+00:23:47.280 --> 00:23:50.760
+We explain a lot how does it work 
+
+00:23:50.760 --> 00:23:56.680
+Everybody have on the beginning fear
+how the application will track him 
+
+00:23:57.040 --> 00:23:59.400
+But it was an open source application 
+
+00:23:59.400 --> 00:24:03.360
+Everybody can look in the source codes
+
+00:24:03.520 --> 00:24:05.280
+and go through the code
+
+00:24:05.840 --> 00:24:09.200
+And evaluate the privacy impact
+
+00:24:10.720 --> 00:24:13.160
+And what was the question?
+
+00:24:14.760 --> 00:24:15.680
+Yes 
+
+00:24:16.040 --> 00:24:18.280
+Thank you very much Mr. Zandl
+
+00:24:18.640 --> 00:24:21.920
+We were talking about the
+Czech application eRouška
+
+00:24:21.920 --> 00:24:27.480
+and I have here a question
+from one of our participants 
+
+00:24:27.760 --> 00:24:28.920
+Oh yeah I see
+
+00:24:29.160 --> 00:24:29.680
+Yes
+
+
+00:24:30.040 --> 00:24:34.240
+Maybe it’s a question for you
+Mr. Zandl or for Mr. Kulveit
+
+00:24:34.240 --> 00:24:35.320
+The question is
+
+00:24:35.320 --> 00:24:36.480
+In your opinion,
+
+00:24:36.800 --> 00:24:41.640
+which COVID tracing apps 
+were successful in insight
+
+00:24:41.960 --> 00:24:44.800
+and were they worth their price?
+
+00:24:45.320 --> 00:24:49.280
+I don’t know, maybe Mr. Zandl you would
+like to address this comment
+
+
+00:24:50.840 --> 00:24:51.440
+Yeah
+
+00:24:52.240 --> 00:24:57.680
+Quite important is not the type
+of collecting the data for the users
+
+00:24:58.040 --> 00:25:02.360
+But integration to the state processes
+
+00:25:02.760 --> 00:25:03.960
+What does it mean?
+
+00:25:03.960 --> 00:25:08.200
+If you are COVID positive in 
+some applications in some states 
+
+00:25:08.720 --> 00:25:13.160
+You get in the application 
+a confirmation for your employer
+
+00:25:13.160 --> 00:25:16.120
+that you are sick
+and you could stay home
+
+00:25:16.120 --> 00:25:19.600
+And you can send it directly
+through the application
+
+00:25:19.600 --> 00:25:26.040
+The same way you will
+become invitation for the test
+
+00:25:26.400 --> 00:25:30.480
+Or the letter from your doctor
+
+00:25:30.760 --> 00:25:34.880
+It means the communication is totally
+digital and totally integrated
+
+00:25:35.120 --> 00:25:38.040
+In the Czech Republic
+this system doesn’t work
+
+00:25:38.360 --> 00:25:43.720
+You just become the notice if you are 
+positive or negative after the test
+
+
+00:25:44.360 --> 00:25:47.400
+But integration is not tied
+
+00:25:47.400 --> 00:25:50.400
+and during the wrong situation 
+
+00:25:50.400 --> 00:25:53.800
+But it has nothing to do
+with the application
+
+00:25:53.800 --> 00:25:59.280
+but with the lack of digitalisation
+of Czech state processes 
+
+
+00:26:00.640 --> 00:26:01.480
+Thank you very much
+
+00:26:01.880 --> 00:26:09.400
+We just gave quite like a critical
+insight about the connection
+
+00:26:09.400 --> 00:26:14.440
+between the application and the,
+for example, tracing teams
+
+00:26:14.440 --> 00:26:15.960
+or something like that 
+
+00:26:16.520 --> 00:26:22.600
+Maybe Mr. Kulveit, I don't know,
+you have maybe a European perspective
+
+00:26:22.600 --> 00:26:24.880
+So maybe you know how does it,
+for example,
+
+00:26:24.880 --> 00:26:27.360
+work in other European countries
+
+00:26:27.600 --> 00:26:30.000
+Mr. Kulveit,
+could you tell us if
+
+00:26:30.000 --> 00:26:33.760
+in Europe, for example,
+or around the whole world
+
+00:26:33.920 --> 00:26:39.480
+Do we have some kind of
+really successful tracing app
+
+00:26:39.760 --> 00:26:46.400
+That is for example also addressing
+these problems mentioned by Mr. Zandl?
+
+
+00:26:50.040 --> 00:26:51.040
+Yes so
+
+00:26:51.640 --> 00:26:54.880
+I mean, I think like 
+
+00:26:55.080 --> 00:26:56.400
+Okay
+
+00:26:56.880 --> 00:27:00.120
+I think the contact tracing application
+
+00:27:00.120 --> 00:27:03.560
+I’m not an expert on contact tracing 
+applications in Europe maybe
+
+00:27:03.560 --> 00:27:07.480
+But I guess like more knowledge
+of the landscape
+
+00:27:08.000 --> 00:27:12.120
+So I know for example the UK
+contact tracing app
+
+00:27:12.120 --> 00:27:19.160
+is also used for tracing people
+visiting restaurants and so on
+
+00:27:19.800 --> 00:27:23.600
+So it's not just like Bluetooth
+but you scan QR codes
+
+00:27:24.240 --> 00:27:30.840
+and if you get the notification like
+you are invited to get tested and so on
+
+
+00:27:31.280 --> 00:27:36.680
+So I think it could be a valuable part
+of some like overall strategy
+
+00:27:37.200 --> 00:27:38.680
+Its difficult to
+
+00:27:38.680 --> 00:27:44.440
+So far it's a bit difficult to evaluate
+what's really successful 
+
+00:27:46.440 --> 00:27:52.280
+Like worldwide I would say in some sense
+in like dealing with pandemic
+
+00:27:52.280 --> 00:28:00.800
+Probably like the applications in 
+places like China are pretty effective
+
+00:28:00.800 --> 00:28:06.280
+at tracing the contacts
+and finding people who are infected
+
+00:28:06.920 --> 00:28:09.880
+So from my perspective the question
+
+00:28:09.880 --> 00:28:14.440
+the question which Europe or 
+people in Europe should ask
+
+00:28:14.840 --> 00:28:17.960
+is basically how to have 
+effective solutions
+
+00:28:17.960 --> 00:28:20.480
+at the same level 
+of efficiency as in China
+
+00:28:20.720 --> 00:28:22.760
+and have privacy at the same time
+
+00:28:23.240 --> 00:28:26.440
+So instead of this like push and pull 
+which like all have mentioned,
+
+00:28:26.840 --> 00:28:30.040
+finding about whether
+any data would be used 
+
+00:28:30.040 --> 00:28:31.960
+or any technology would be used
+
+00:28:32.360 --> 00:28:37.480
+or it would be old plain humans
+calling over the phone
+
+00:28:37.480 --> 00:28:39.400
+which also doesn’t work so great
+
+00:28:39.840 --> 00:28:42.320
+So instead of despite
+
+00:28:42.720 --> 00:28:45.720
+I think the big question
+for the future is 
+
+00:28:45.720 --> 00:28:48.240
+how to have the best of both worlds
+
+00:28:48.800 --> 00:28:53.520
+And I don't think this is a purely 
+hypothetical question
+
+00:28:53.520 --> 00:29:00.000
+where like can say ‘Okay we hate the 
+Chinese approach to privacy
+
+00:29:00.240 --> 00:29:05.360
+and we will fight 
+to our last breaths to avoid it’
+
+00:29:07.320 --> 00:29:12.040
+I mean in some broader context 
+a lot of developed countries
+
+00:29:12.040 --> 00:29:17.400
+are looking for where to develop
+or what to do
+
+00:29:17.720 --> 00:29:23.720
+Western countries have like a lot of 
+power in being role models and so on
+
+00:29:23.720 --> 00:29:27.120
+in handling things in a good way 
+
+00:29:27.880 --> 00:29:32.440
+So basically my worry
+about bureau landscape is like
+
+00:29:32.440 --> 00:29:36.680
+If EU decides
+'Okay we will basically resign
+
+00:29:36.680 --> 00:29:38.840
+at choosing data in a reasonable way'
+
+00:29:38.840 --> 00:29:42.360
+we‘ll try to protect privacy
+at all costs
+
+00:29:42.520 --> 00:29:44.920
+Even at the cost of
+like worse governments
+
+00:29:45.320 --> 00:29:48.840
+and worse ability to deal
+with stuff like pandemics
+
+00:29:49.440 --> 00:29:51.280
+Like a big part of the world
+
+00:29:52.240 --> 00:29:54.360
+Considering a few billion people
+
+00:29:54.360 --> 00:29:57.640
+will look at China and they will see
+
+00:29:57.640 --> 00:30:00.480
+'Okay but the Chinese way
+maybe works better’ 
+
+00:30:00.800 --> 00:30:02.440
+People are not dying in China 
+
+00:30:02.440 --> 00:30:03.640
+The economy is growing 
+
+00:30:03.840 --> 00:30:04.840
+So maybe
+
+00:30:05.960 --> 00:30:11.040
+Asian or East Asian or Chinese 
+or Taiwanese approach to privacy
+
+00:30:11.440 --> 00:30:14.560
+is maybe all things considered better 
+
+00:30:15.440 --> 00:30:22.000
+and maybe it's better to sacrifice
+ privacy in sake of economic growth
+
+00:30:22.000 --> 00:30:23.160
+and saving lives and so on
+
+00:30:23.960 --> 00:30:28.040
+So I think we are risking in like 
+dealing the situation badly
+
+00:30:28.040 --> 00:30:31.560
+it's basically probably privacy
+of like a few billion people
+
+00:30:31.920 --> 00:30:33.680
+Not necessarily people in Europe 
+
+00:30:34.440 --> 00:30:38.160
+So I would like to fight 
+for solutions which are
+
+00:30:38.160 --> 00:30:41.000
+at the same time privacy protecting
+
+00:30:41.000 --> 00:30:43.520
+and at the same time are efficient 
+
+
+00:30:44.400 --> 00:30:48.960
+So I think European applications are 
+typically too much on the side of 
+
+00:30:49.520 --> 00:30:52.680
+protecting privacy at like
+at the cost of not being efficient 
+
+00:30:54.640 --> 00:30:57.440
+Applications elsewhere
+are more efficient
+
+00:30:57.680 --> 00:31:00.440
+and in big part 
+it's a technological problem
+
+00:31:00.440 --> 00:31:06.960
+how to design something which works well
+and protects the privacy
+
+00:31:07.120 --> 00:31:08.480
+Which is typically more difficult 
+
+00:31:08.480 --> 00:31:10.400
+It needs cryptography and so on
+
+00:31:10.840 --> 00:31:12.960
+But I think this is a bigger question 
+for the future
+
+00:31:12.960 --> 00:31:13.960
+Not for COVID
+
+00:31:14.320 --> 00:31:18.760
+With COVID like vaccination will
+probably start pretty soon
+
+00:31:20.160 --> 00:31:21.760
+Sorry for the longer time
+
+00:31:21.880 --> 00:31:23.400
+No, it's absolutely okay 
+
+00:31:23.400 --> 00:31:25.400
+Thank you very much Mr. Kulveit
+
+00:31:26.040 --> 00:31:31.080
+Mr. Jann we just heard
+from Mr. Kulveit that 
+
+00:31:31.080 --> 00:31:34.160
+in the future we have to
+find this balance
+
+00:31:34.480 --> 00:31:40.080
+between the effective fight 
+against COVID and the data protection 
+
+00:31:40.480 --> 00:31:46.720
+And that we can for example also learn 
+some experience from Asian countries
+
+00:31:46.720 --> 00:31:53.120
+that are not so fixed on this
+data protection as we Europeans
+
+00:31:53.720 --> 00:31:59.760
+Do you think that we have 
+already some lessons learned
+
+00:32:00.120 --> 00:32:07.480
+from this tracing versus data protection
+
+00:32:07.800 --> 00:32:15.040
+for future emergency situations such as 
+pandemic or something like that?
+
+00:32:15.360 --> 00:32:20.400
+Do we already know what we should,
+ for example,
+
+00:32:20.400 --> 00:32:24.440
+do in the next emergency situation?
+
+00:32:24.920 --> 00:32:28.080
+So I think I agree with
+Honza Kulveit there
+
+00:32:28.080 --> 00:32:32.640
+I mean for COVID 
+it's kind of too late already, right?
+
+00:32:32.640 --> 00:32:33.200
+So
+
+00:32:33.440 --> 00:32:34.720
+Because the, I mean,
+
+00:32:35.080 --> 00:32:37.120
+One the one hand the basic principle is
+
+00:32:37.120 --> 00:32:40.120
+we really don't need sensitive data 
+to trace
+
+00:32:40.120 --> 00:32:43.400
+I mean, in theory we don't need sensitive data
+to trace infections
+
+00:32:43.400 --> 00:32:45.440
+We really just need proximity data
+
+00:32:45.440 --> 00:32:48.240
+and then I mean one number 
+that you can call
+
+00:32:48.240 --> 00:32:50.400
+and say ‘hey you've been in touch
+with someone’
+
+00:32:50.760 --> 00:32:51.760
+But
+
+00:32:52.320 --> 00:32:56.800
+The technological and also the kind of 
+the conceptual hurdles to that
+
+00:32:56.800 --> 00:32:58.160
+are immense, right?
+
+00:32:58.160 --> 00:32:59.720
+Because then we still
+
+00:32:59.720 --> 00:33:02.680
+I mean, how do we collect 
+the data in such a way
+
+00:33:02.680 --> 00:33:04.960
+that we have exactly the data 
+that we need
+
+00:33:05.160 --> 00:33:07.800
+And not collect a lot of personal data 
+on the way, right?
+
+00:33:07.800 --> 00:33:09.040
+And this is where,
+
+00:33:09.040 --> 00:33:11.200
+as Honza has said,
+
+00:33:11.200 --> 00:33:15.280
+Different countries are taking different 
+approaches and are on different sides
+
+00:33:15.280 --> 00:33:18.480
+And I think there is this middle
+weight that was mentioned
+
+00:33:18.640 --> 00:33:19.640
+But we need 
+
+00:33:20.440 --> 00:33:23.280
+My guess is that we need
+several more decades of 
+
+00:33:23.760 --> 00:33:26.560
+having a better understanding of
+ what data actually is 
+
+00:33:26.560 --> 00:33:27.880
+What privacy actually is
+
+00:33:27.880 --> 00:33:30.000
+How differential privacy can work
+
+00:33:30.000 --> 00:33:32.520
+How cryptography can work to protect 
+
+00:33:33.240 --> 00:33:35.000
+To on the one hand protect private data
+
+00:33:35.000 --> 00:33:37.600
+but also make it useable
+for some purposes and so on
+
+00:33:37.600 --> 00:33:38.800
+And there I think we're just
+
+00:33:38.800 --> 00:33:40.440
+I mean we will need
+
+00:33:40.440 --> 00:33:44.640
+we have the hardware technology
+to some extent
+
+00:33:44.640 --> 00:33:47.920
+But we need several more decades
+of conceptual research
+
+00:33:47.920 --> 00:33:51.360
+to be able to really understand these
+questions and solve these questions
+
+00:33:51.360 --> 00:33:54.120
+So I think even if 
+it's quicker than that
+
+00:33:54.120 --> 00:33:56.760
+I think that for COVID
+we will be too late
+
+00:33:57.080 --> 00:33:57.600
+Yeah
+
+00:33:57.880 --> 00:33:58.920
+Thank you very much
+
+00:33:58.920 --> 00:34:02.000
+I have a similar question for Mr. Breyer
+
+00:34:02.520 --> 00:34:06.600
+Do you think that we have found
+this kind of balance
+
+00:34:06.600 --> 00:34:12.840
+between the privacy protections 
+and between the effective fight
+
+00:34:12.840 --> 00:34:16.400
+against COVID and these kinds of things?
+
+00:34:16.400 --> 00:34:20.600
+Are we now more ready 
+for future challenges
+
+00:34:21.200 --> 00:34:25.520
+based on our past experience
+from COVID19 crisis?
+
+00:34:25.520 --> 00:34:26.800
+Please Mr. Breyer
+
+00:34:28.760 --> 00:34:29.760
+I have my doubts
+
+00:34:29.760 --> 00:34:34.600
+whether there are sufficient plans
+
+00:34:34.600 --> 00:34:37.280
+and contingency measures
+for the next pandemic
+
+00:34:37.280 --> 00:34:42.080
+Which is pretty much certain
+to come in the future
+
+00:34:43.680 --> 00:34:46.040
+I don’t think 
+all lessons have been learnt 
+
+00:34:46.040 --> 00:34:51.200
+What we’ve seen in Europe is a very
+desperate approach to the crisis
+
+00:34:51.200 --> 00:34:57.600
+So every national government
+went ahead and, you know,
+
+00:34:57.600 --> 00:34:59.920
+just implemented their own measures
+without coordination
+
+00:34:59.920 --> 00:35:01.560
+They closed down the borders
+
+00:35:01.560 --> 00:35:05.080
+thinking that the risk was people
+from other European countries
+
+00:35:05.080 --> 00:35:06.080
+Which wasn’t at all
+
+00:35:06.320 --> 00:35:08.040
+Not an effective measure at all
+
+00:35:08.320 --> 00:35:10.040
+And let me also stress
+
+00:35:10.040 --> 00:35:14.520
+In comparison to Asia the key to 
+containing the pandemic
+
+00:35:14.520 --> 00:35:15.760
+is not surveillance
+
+00:35:15.760 --> 00:35:18.160
+that maybe is used over there
+
+00:35:18.280 --> 00:35:21.880
+But the key is really
+precautionary measures
+
+00:35:21.880 --> 00:35:28.920
+and making sure that the number
+of contacts is decreased in time
+
+
+00:35:28.920 --> 00:35:32.240
+Before the numbers start exploding
+
+00:35:32.480 --> 00:35:34.720
+And those are political choices
+
+00:35:34.720 --> 00:35:38.880
+and we’ve seen some countries in Europe 
+that have dealt very well
+
+00:35:40.200 --> 00:35:42.480
+In line with strong privacy policies,
+
+00:35:42.640 --> 00:35:47.240
+and we’ve seen others that 
+didn’t do well with the pandemic at all
+
+00:35:47.240 --> 00:35:51.080
+But it didn't have anything to do
+with the technology or surveillance 
+
+00:35:51.360 --> 00:35:55.120
+I think that when it comes to the apps
+everybody should have the free choice
+
+00:35:55.120 --> 00:35:56.600
+whether to use them or not 
+
+00:35:56.840 --> 00:36:00.720
+and I would also like to acknowledge
+that those Bluetooth based systems
+
+00:36:01.680 --> 00:36:07.160
+you know on the open designs like EPEP
+or DP Consortium self designed
+
+00:36:07.160 --> 00:36:09.480
+They are designed
+in a privacy friendly way
+
+00:36:09.480 --> 00:36:11.240
+and therefore I would like to
+thank everybody
+
+00:36:11.240 --> 00:36:15.640
+who was involved in their development 
+and preventing worse
+
+00:36:16.080 --> 00:36:16.880
+But still
+
+00:36:17.200 --> 00:36:21.800
+even these apps with the privacy 
+friendly design come with 12 risks
+
+00:36:22.600 --> 00:36:23.760
+of abuse 
+
+00:36:23.760 --> 00:36:26.840
+As it has been counted 
+for data protection impact assessment
+
+00:36:26.840 --> 00:36:28.600
+Even the Bluetooth tracing
+
+00:36:28.600 --> 00:36:33.200
+Even though these risks may sound 
+alarmist or paranoid or over sensitive
+
+00:36:33.200 --> 00:36:37.960
+we’ve really seen too often governments
+seize something that
+
+00:36:37.960 --> 00:36:40.320
+has been introduced once for a specific
+purpose
+
+
+00:36:40.480 --> 00:36:42.160
+ in a data protection friendly way
+
+00:36:42.320 --> 00:36:43.320
+to seize this
+
+00:36:43.320 --> 00:36:45.760
+To make it permanent to use it
+for other purposes
+
+00:36:46.120 --> 00:36:47.360
+And abuse it
+
+00:36:47.520 --> 00:36:50.160
+And there has been nobody
+less than Edward Snowden 
+
+00:36:50.160 --> 00:36:52.720
+who has been warning that
+this pandemic is being used
+
+00:36:53.120 --> 00:36:56.440
+to deploy technology that 
+will become permanent 
+
+00:36:56.440 --> 00:36:58.520
+and that will be expanded later on
+
+00:36:58.720 --> 00:37:00.960
+We are already seeing outside Europe
+
+00:37:00.960 --> 00:37:04.280
+that they’ve used it
+to introduce facial recognition
+
+00:37:04.280 --> 00:37:07.360
+To bring drones policing people 
+
+00:37:07.520 --> 00:37:09.640
+And since somebody mentioned China
+
+00:37:09.800 --> 00:37:13.520
+China is really rapidly turning into 
+a digital dictatorship
+
+00:37:13.640 --> 00:37:16.480
+It may be that people
+aren't dying there but
+
+00:37:16.480 --> 00:37:18.600
+They have been arrested for
+
+00:37:18.960 --> 00:37:21.440
+I don't know, for their religion,
+for their thoughts
+
+00:37:21.560 --> 00:37:23.560
+And sometime they're even being tortured
+
+00:37:23.560 --> 00:37:25.440
+They are being detained in camps
+
+00:37:25.600 --> 00:37:30.200
+And in no way and respect 
+should we ever think
+
+00:37:30.200 --> 00:37:33.840
+you know, what China is doing
+is worth looking into
+
+
+00:37:33.840 --> 00:37:37.640
+That is a oppressive dictatorship
+
+00:37:37.640 --> 00:37:42.600
+And should not be used
+as a reference in Europe at all
+
+00:37:44.240 --> 00:37:45.240
+Thank you very much
+
+00:37:45.240 --> 00:37:48.680
+I would like to now maybe move
+ a bit to the topic
+
+00:37:48.680 --> 00:37:51.040
+you have already mentioned Mr. Breyer
+
+00:37:51.480 --> 00:37:55.280
+It means, for example,
+facial recognition softwares
+
+00:37:55.280 --> 00:37:57.600
+and other new technologies
+
+00:37:57.600 --> 00:38:02.240
+that are based, for example,
+on artificial intelligence
+
+00:38:02.240 --> 00:38:05.800
+Because we do not have
+only these tracing apps
+
+00:38:05.800 --> 00:38:09.480
+as a kind of new way how fight pandemics
+
+00:38:09.480 --> 00:38:12.440
+But we have also artificial intelligence
+
+00:38:13.760 --> 00:38:19.840
+Mr. Kulveit can you tell us how 
+the artificial intelligence helped us
+
+00:38:19.840 --> 00:38:21.960
+ to tackle the pandemic?
+
+00:38:22.480 --> 00:38:26.080
+Do we have any tangible results?
+
+00:38:26.080 --> 00:38:28.000
+Please Mr. Kulveit
+
+00:38:28.400 --> 00:38:33.160
+Yeah so I think artificial intelligence
+is now used as a buzzword
+
+00:38:33.560 --> 00:38:35.560
+for like all kinds of stuff
+
+00:38:36.200 --> 00:38:41.200
+So I would say like 
+proper artificial intelligence
+
+00:38:42.160 --> 00:38:45.120
+didn't the help us basically at all
+
+00:38:45.200 --> 00:38:46.560
+I think it's quite unrelated
+
+00:38:47.720 --> 00:38:51.000
+Like plain old mathematical modeling
+
+00:38:51.000 --> 00:38:57.960
+which is pretty boring term for 
+using some equations and number
+
+00:38:57.960 --> 00:39:00.280
+was pretty useful
+
+00:39:01.120 --> 00:39:03.560
+And some machine learning
+techniques say like
+
+00:39:05.160 --> 00:39:06.160
+It's like
+
+00:39:06.520 --> 00:39:12.480
+Normal statistical methods are pretty 
+useful for evaluating all kinds of stuff
+
+00:39:12.480 --> 00:39:14.400
+making predictions and so on
+
+00:39:15.560 --> 00:39:20.240
+I would not consider it
+as artificial intelligence topic
+
+00:39:23.120 --> 00:39:27.720
+But I can answer some things
+about statistical modeling
+
+00:39:29.560 --> 00:39:30.360
+Sorry for that 
+
+00:39:30.360 --> 00:39:35.440
+I still feel some urge to reply
+a little bit to Patrick Breyer
+
+00:39:36.640 --> 00:39:38.880
+So I think there is a dangerous policy to
+
+00:39:38.880 --> 00:39:43.680
+to say that China is doing
+some horrible things,
+
+00:39:43.680 --> 00:39:45.760
+like torturing people,
+
+00:39:46.000 --> 00:39:50.760
+And for that reason any reference
+to China is like invalid
+
+00:39:50.760 --> 00:39:53.520
+and shouldn’t be done at all
+
+00:39:55.360 --> 00:39:56.360
+I mean
+
+00:39:57.920 --> 00:40:00.960
+China is like a pretty complex place
+
+00:40:01.360 --> 00:40:06.320
+And if we just closed our eyes and say
+there's nothing to learn from China
+
+00:40:06.600 --> 00:40:09.880
+Then all the knowledge of how to do 
+things in governments
+
+00:40:09.880 --> 00:40:11.640
+and like everything about
+
+00:40:11.640 --> 00:40:14.320
+We have all the knowledge in the West
+
+00:40:14.320 --> 00:40:16.880
+And there is absolutely nothing
+to learn from China 
+
+00:40:17.240 --> 00:40:19.920
+I think this is like a pretty
+dangerous approach
+
+00:40:19.920 --> 00:40:27.400
+Which will ultimately not help us 
+and not help our values
+
+00:40:27.400 --> 00:40:32.200
+So I just want to strongly object
+to that approach 
+
+00:40:33.360 --> 00:40:34.360
+So
+
+00:40:34.800 --> 00:40:35.800
+Back to AI
+
+00:40:35.800 --> 00:40:39.160
+I think AI is like super important
+
+00:40:39.160 --> 00:40:40.360
+and a really big topic
+
+00:40:41.760 --> 00:40:46.440
+But it was not like directly relevant
+in COVID
+
+00:40:47.560 --> 00:40:48.560
+Mainly
+
+00:40:49.320 --> 00:40:53.760
+Many places in governments 
+and as a whole
+
+00:40:54.280 --> 00:40:57.680
+failed to use reasonably
+much simpler technology
+
+
+00:40:57.800 --> 00:41:00.280
+For predicting COVID you don't need
+
+00:41:00.280 --> 00:41:03.560
+you typically don't need AI
+
+00:41:05.160 --> 00:41:09.960
+You need pretty old boring 
+epidemiological modeling
+
+00:41:13.240 --> 00:41:14.000
+Thank you
+
+00:41:14.000 --> 00:41:18.360
+I don’t know Mr. Breyer 
+if you would like to react
+
+00:41:18.360 --> 00:41:22.600
+on what has been said
+when it comes to China
+
+00:41:22.600 --> 00:41:26.160
+and if we can learn something from China
+
+00:41:26.160 --> 00:41:28.200
+Mr Breyer, would you like to react?
+
+00:41:30.320 --> 00:41:31.120
+Yeah sure
+
+00:41:31.120 --> 00:41:32.360
+It’s an interesting debate
+
+00:41:32.360 --> 00:41:35.160
+and I know that
+even the Czeh Republic and Prague 
+
+00:41:35.160 --> 00:41:37.600
+ have been very critical of China
+
+00:41:37.600 --> 00:41:42.240
+and actually quite courageous
+in standing up against their policies
+
+00:41:42.520 --> 00:41:46.640
+Of course I'm not opposed to speaking
+and engaging in a scientific dialogue 
+
+00:41:46.840 --> 00:41:50.200
+But too often
+it's been forgotten the context
+
+00:41:50.480 --> 00:41:53.600
+in which this kind of research
+is being done
+
+00:41:54.000 --> 00:41:57.760
+Or in which these policies
+are being applied in China
+
+00:41:57.840 --> 00:41:59.800
+That a lot of them is only possible
+
+00:41:59.800 --> 00:42:02.920
+because they have this oppressive regime
+
+00:42:02.920 --> 00:42:04.920
+where people are not given a choice 
+
+00:42:04.920 --> 00:42:06.640
+Where there is no open debate
+
+00:42:06.880 --> 00:42:12.240
+Where there is no open dissent
+that is possible
+
+00:42:12.400 --> 00:42:14.160
+And even in the field of science,
+
+00:42:14.160 --> 00:42:16.240
+that really relies on critical debate,
+
+00:42:16.240 --> 00:42:21.720
+which is only within very tight limits
+possible in China
+
+00:42:21.960 --> 00:42:25.800
+And so there is a danger that China
+does stuff that
+
+00:42:25.800 --> 00:42:27.840
+fundamentally violates human rights
+
+00:42:28.160 --> 00:42:30.800
+And that we forget this context 
+
+00:42:30.800 --> 00:42:35.560
+And then actually find it quite
+useful or attractive
+
+00:42:35.560 --> 00:42:41.520
+and just forget the context 
+which has made it possible
+
+00:42:41.520 --> 00:42:44.640
+to develop and implement this at all
+
+00:42:44.800 --> 00:42:49.040
+But I would also like to agree
+with Jan Kulveit regarding this
+
+00:42:49.080 --> 00:42:51.800
+buzzword of artificial intelligence
+
+00:42:51.800 --> 00:42:55.320
+That is often really not intelligence 
+but rather dumb statistics
+
+00:42:56.920 --> 00:42:59.720
+And the most prominent example of all
+these called AI
+
+00:42:59.720 --> 00:43:06.280
+but often it doesn't really involve 
+a lot of intelligence
+
+00:43:06.560 --> 00:43:08.920
+is biometrics mass surveillance
+
+00:43:08.920 --> 00:43:10.760
+And in the context of the pandemic,
+
+00:43:10.760 --> 00:43:11.760
+for example in Moscow,
+
+00:43:11.760 --> 00:43:14.400
+this has been used to enforce 
+the quarantine
+
+00:43:14.400 --> 00:43:15.400
+So they have this
+
+00:43:15.600 --> 00:43:20.360
+biometrics surveillance system 
+connected to CCTV cameras
+
+00:43:20.360 --> 00:43:21.360
+all over Moscow
+
+00:43:21.720 --> 00:43:23.280
+And they are actually using it
+
+00:43:23.280 --> 00:43:27.400
+to find people
+who violate their quarantine 
+
+00:43:27.400 --> 00:43:31.960
+and would send the police
+to find or arrest you
+
+00:43:31.960 --> 00:43:33.360
+if you violated that 
+
+00:43:33.760 --> 00:43:36.000
+And the risk that comes with this is
+
+00:43:36.760 --> 00:43:37.760
+that
+
+00:43:37.960 --> 00:43:40.600
+first of all, the technology is 
+becoming mandatory
+
+00:43:40.720 --> 00:43:44.360
+because it works less well 
+on certain groups of people
+
+00:43:44.360 --> 00:43:47.160
+like people of colour or elderly
+
+00:43:48.360 --> 00:43:54.080
+But also it is, of course, used to
+target specific groups particularly
+
+00:43:54.080 --> 00:43:59.520
+Including dissenters and protesters
+
+00:43:59.800 --> 00:44:02.800
+And it creates a chilling effect
+
+00:44:02.800 --> 00:44:07.040
+where people sort of feel whenever
+they move somewhere
+
+00:44:07.240 --> 00:44:09.880
+somebody might be following 
+and tracing them
+
+00:44:09.880 --> 00:44:12.120
+And you don't actually know
+if you are in the database
+
+00:44:12.120 --> 00:44:14.880
+If somebody is interested
+in your movements 
+
+00:44:15.040 --> 00:44:17.680
+So it’s a system of offline tracking
+
+00:44:17.680 --> 00:44:19.040
+and you’d be cautious
+
+00:44:19.560 --> 00:44:24.320
+mass surveillance 
+that we need to stop from
+
+00:44:24.680 --> 00:44:27.400
+Prevent from happening in Europe
+
+00:44:27.720 --> 00:44:31.160
+And that's why we started an initiative
+in the European Parliament
+
+00:44:31.160 --> 00:44:36.120
+For a ban of these biometrics mass 
+surveillance technologies in the EU
+
+00:44:37.800 --> 00:44:38.520
+Thank you very much
+
+00:44:38.520 --> 00:44:40.840
+I have a question for Mr. Jann
+
+00:44:40.840 --> 00:44:44.360
+We are now talking about these softwares
+
+00:44:44.360 --> 00:44:47.320
+for example for facial recognition 
+
+00:44:47.320 --> 00:44:51.800
+Do you think that it is acceptable
+for the society
+
+00:44:51.800 --> 00:44:53.040
+for the people
+
+00:44:53.400 --> 00:45:01.680
+to deploy these kinds of technologies
+in order to improve the surveillance?
+
+00:45:01.800 --> 00:45:05.600
+Are people ready to be, let's say, 
+
+00:45:05.600 --> 00:45:09.520
+be overviewed by the artificial intelligence?
+
+00:45:10.360 --> 00:45:11.560
+No, this is of course
+
+00:45:11.560 --> 00:45:13.840
+This is a highly dangerous question
+
+00:45:13.840 --> 00:45:14.840
+And there are, I mean
+
+00:45:15.240 --> 00:45:19.840
+I must say I don't really see
+the danger so much in the EU
+
+00:45:19.840 --> 00:45:24.800
+but maybe there Patrick Breyer
+is closer to the source than I am 
+
+00:45:24.800 --> 00:45:28.040
+But, I mean, in oppressive regimes
+of course
+
+
+00:45:28.040 --> 00:45:30.560
+They are using COVID now
+as a justification for
+
+00:45:30.560 --> 00:45:34.000
+ ruling out all kinds of 
+additional surveillance
+
+00:45:35.480 --> 00:45:36.480
+I think 
+
+00:45:37.560 --> 00:45:40.600
+Again we have to ask,
+are these really effective, right?
+
+00:45:40.600 --> 00:45:43.040
+And I think I agree with 
+the previous speakers there
+
+00:45:43.040 --> 00:45:47.680
+ that I don't really know of
+any use case where AI
+
+00:45:47.680 --> 00:45:50.680
+has really made a big difference to
+fighting the pandemic, right?
+
+00:45:50.680 --> 00:45:51.680
+So I mean of course
+
+00:45:52.600 --> 00:45:55.680
+Additional surveillance that might
+involve AI maybe yes
+
+00:45:55.680 --> 00:45:59.720
+But in a acceptable way not 
+
+00:45:59.720 --> 00:46:01.760
+And I think also there again 
+
+00:46:02.040 --> 00:46:03.960
+we should not get distracted by that one
+
+00:46:03.960 --> 00:46:07.720
+so maybe we should use everything that
+has more benefits than cost 
+
+00:46:07.720 --> 00:46:09.880
+But we should not get distracted 
+by these discussions
+
+00:46:09.880 --> 00:46:12.280
+because what really fight the pandemic
+
+00:46:12.280 --> 00:46:15.200
+and what for example prevents the virus 
+from spreading
+
+00:46:15.200 --> 00:46:16.480
+is a simple mask, right?
+
+00:46:16.480 --> 00:46:17.800
+So that is really low tech
+
+00:46:17.800 --> 00:46:18.800
+There is no AI
+
+00:46:18.800 --> 00:46:22.760
+There is not even regressions or 
+machine learning in masks, right?
+
+00:46:22.760 --> 00:46:23.760
+Just put on a mask
+
+00:46:24.040 --> 00:46:26.640
+Just not got to events
+
+
+00:46:26.640 --> 00:46:30.640
+Just not meet people at home
+and in badly ventilated places
+
+00:46:30.800 --> 00:46:32.520
+And those are the very basic things
+
+00:46:32.520 --> 00:46:35.280
+So what we really need is
+basic human intelligence
+
+00:46:35.280 --> 00:46:38.640
+Not advance artificial intelligence
+for these problems, right?
+
+00:46:38.640 --> 00:46:41.800
+And we should really not get distracted
+with these discussions
+
+00:46:42.080 --> 00:46:43.080
+Thank you very much
+
+00:46:43.080 --> 00:46:44.240
+That's a very good point
+
+00:46:44.240 --> 00:46:47.800
+I think that we need human intelligence 
+especially
+
+00:46:47.800 --> 00:46:51.080
+more than artificial intelligence,
+let’s say 
+
+00:46:51.320 --> 00:46:54.160
+I have now a question for Mr. Zandl
+
+00:46:54.440 --> 00:46:58.760
+Who is again very aware of the situation
+in the Czech Republic
+
+00:47:00.360 --> 00:47:03.120
+We were talking about
+the artificial intelligence 
+
+00:47:03.120 --> 00:47:07.760
+and about difference 
+between artificial intelligence
+
+00:47:07.760 --> 00:47:11.760
+and just the role of
+statistics and modeling
+
+00:47:12.960 --> 00:47:16.400
+Do you think that right now our Czech
+government
+
+00:47:16.400 --> 00:47:18.880
+or other governments in Europe
+
+00:47:19.200 --> 00:47:27.440
+are efficiently using these data or 
+technologies that are here right now?
+
+00:47:27.440 --> 00:47:28.440
+Or
+
+00:47:28.640 --> 00:47:32.240
+Do you think that, for example,
+we have technologies
+
+00:47:32.240 --> 00:47:37.440
+We have data but the governments 
+are not using them effectively?
+
+00:47:37.800 --> 00:47:39.080
+Please Mr. Zandl
+
+00:47:41.200 --> 00:47:43.680
+I think it's quite a broad topic 
+
+00:47:44.960 --> 00:47:48.440
+What does it mean when we say 
+you died with COVID?
+
+00:47:49.080 --> 00:47:54.960
+Does it mean that you have been tested 
+after the death
+
+00:47:55.200 --> 00:47:56.800
+and you are positive?
+
+00:47:57.320 --> 00:48:01.000
+Or does it mean that we are not testing
+you after death 
+
+00:48:02.000 --> 00:48:05.800
+and we just keep your previous test?
+
+00:48:07.160 --> 00:48:09.720
+It means we have a lot of data
+
+00:48:09.720 --> 00:48:13.400
+ but the data are not taken
+the same way 
+
+00:48:14.520 --> 00:48:16.920
+Country by the country
+
+00:48:16.920 --> 00:48:17.920
+It varies
+
+00:48:18.480 --> 00:48:20.240
+This is the first problem
+
+00:48:20.240 --> 00:48:22.000
+The second problem in Czech Republic
+
+00:48:22.160 --> 00:48:26.440
+we have really low level of 
+digitalisation of state processes 
+
+00:48:26.800 --> 00:48:31.800
+It means we even have no sufficient data
+
+00:48:32.720 --> 00:48:35.360
+and we are not ready to work with them
+
+00:48:35.520 --> 00:48:39.240
+We are not ready to analyse them
+on the government level
+
+00:48:41.280 --> 00:48:43.400
+And that's a huge problem
+
+00:48:44.040 --> 00:48:47.320
+and you may 
+with the second wave of pandemic
+
+00:48:47.520 --> 00:48:49.920
+we were totally unprepared
+
+00:48:51.000 --> 00:48:54.280
+Like in the first wave, of course, there was
+
+00:48:54.760 --> 00:48:55.760
+not a difference
+
+00:48:58.880 --> 00:49:00.600
+That's our main problem
+
+00:49:00.600 --> 00:49:03.080
+we are not ready to use data
+
+00:49:03.080 --> 00:49:09.440
+and the government has not mentally
+shifted from the old fashion way 
+
+00:49:09.440 --> 00:49:12.080
+working with papers and pens
+
+00:49:12.440 --> 00:49:15.480
+to the new way working with data
+
+00:49:15.560 --> 00:49:16.560
+Sorry for that
+
+00:49:18.520 --> 00:49:19.520
+Thank you very much
+
+00:49:19.520 --> 00:49:22.680
+I would like to ask again
+our participants
+
+00:49:22.680 --> 00:49:27.320
+to give us their comments or questions
+to the chat
+
+00:49:28.120 --> 00:49:30.960
+And I have now also question 
+for Mr. Kulveit 
+
+00:49:30.960 --> 00:49:34.120
+which is related to 
+what has been said already  
+
+00:49:36.160 --> 00:49:42.040
+How to like kind of push the national 
+government to really use the data 
+
+00:49:42.040 --> 00:49:44.800
+and the modeling
+that are really on the table?
+
+00:49:44.800 --> 00:49:47.720
+Because you already mentioned,
+Mr. Kulveit, that
+
+00:49:48.040 --> 00:49:54.320
+when we are talking about artificial intelligence
+it's not about the real intelligence
+
+00:49:54.320 --> 00:49:58.360
+but it's mostly discussion about the
+statistics and modelling let’s say 
+
+00:49:59.400 --> 00:50:00.760
+What do you think about that?
+
+00:50:00.760 --> 00:50:06.400
+Do you think that governments are using
+these data that are provided by you,
+
+00:50:06.400 --> 00:50:07.400
+by the experts,
+
+00:50:07.880 --> 00:50:12.880
+efficiently or how should we like
+push them to really do it?
+
+00:50:12.960 --> 00:50:14.920
+Please Mr. Kulveit
+
+00:50:17.080 --> 00:50:18.080
+So I mean
+
+00:50:18.320 --> 00:50:22.320
+In practice I would say there are really
+big differences between countries
+
+00:50:22.840 --> 00:50:23.840
+Like
+
+00:50:24.600 --> 00:50:28.320
+In February
+
+00:50:28.400 --> 00:50:30.200
+I really was like
+
+00:50:30.240 --> 00:50:32.040
+As a field epidemic modelling 
+
+00:50:32.880 --> 00:50:35.840
+Will maybe
+
+00:50:36.480 --> 00:50:44.240
+will be used in just some of the bigger
+countries like US or UK 
+
+00:50:44.440 --> 00:50:46.880
+So we’ve started a project
+called epidemic forecasting
+
+00:50:46.880 --> 00:50:50.920
+ where we ended up advising
+multiple places
+
+00:50:50.920 --> 00:50:55.240
+which were like a bit underpowered
+in terms of epidemic modelling
+
+00:50:55.240 --> 00:50:58.040
+I would say there are like big 
+differences between countries
+
+00:50:58.040 --> 00:51:04.360
+so probably the best thing is 
+just to look around 
+
+00:51:04.720 --> 00:51:10.360
+How these sources reflects 
+scientific information
+
+00:51:10.360 --> 00:51:13.440
+are integrated in decision making
+in different places
+
+00:51:14.000 --> 00:51:15.120
+And like look what
+
+00:51:15.120 --> 00:51:22.040
+basically what organizational structure
+allows efficient flow of information
+
+00:51:22.520 --> 00:51:23.520
+So
+
+00:51:23.680 --> 00:51:29.480
+I mean I would just like try to learn
+from some of the better cases in Europe
+
+00:51:32.200 --> 00:51:34.760
+Also while in the US
+
+00:51:34.920 --> 00:51:36.880
+While, for example, in the US
+
+00:51:36.880 --> 00:51:39.280
+many things failed
+in the political level
+
+00:51:39.720 --> 00:51:43.640
+I think on the way 
+how to integrate some
+
+00:51:43.640 --> 00:51:45.920
+basic forecasting and epidemic modelling
+
+00:51:45.920 --> 00:51:47.800
+like US CDC is doing is doing a job
+
+00:51:47.800 --> 00:51:52.440
+like it's playing
+like a set of multimodel
+
+00:51:54.080 --> 00:51:59.080
+Like basically different academic places
+are like currently on models
+
+00:51:59.080 --> 00:52:01.400
+CDC collects the data and
+
+00:52:01.920 --> 00:52:05.240
+displays some like aggregate forecast
+
+00:52:05.240 --> 00:52:06.240
+So
+
+00:52:06.720 --> 00:52:10.000
+kind of everyone can see some 
+short time forecast and so on
+
+00:52:12.920 --> 00:52:15.680
+Yeah, that's probably the basic concept 
+
+00:52:16.040 --> 00:52:18.120
+Sorry a bit to the previous question 
+
+00:52:18.120 --> 00:52:19.720
+How AI could be used
+
+00:52:21.040 --> 00:52:22.400
+In a broader context
+
+00:52:22.400 --> 00:52:25.400
+I think actually AI could be super
+useful in the future
+
+00:52:26.120 --> 00:52:30.280
+ in like preventing, for example,
+ the next pandemic
+
+00:52:30.280 --> 00:52:34.600
+where we can imagine some
+ like biosurveying system
+
+00:52:34.600 --> 00:52:38.960
+ like for example
+collecting sample of the air
+
+00:52:39.120 --> 00:52:41.240
+in all big airports
+
+00:52:41.240 --> 00:52:47.360
+and analysing
+if some new infectious agent
+
+00:52:49.240 --> 00:52:50.800
+is in the air 
+
+00:52:50.960 --> 00:52:55.720
+So this would be like
+really machine learning
+
+00:52:55.720 --> 00:53:00.720
+Heavy project processing
+like extreme amounts of data
+
+00:53:01.240 --> 00:53:02.920
+So I think is like
+
+00:53:02.920 --> 00:53:06.280
+in terms of where AI really 
+could be important 
+
+00:53:06.560 --> 00:53:08.360
+So like preventing worse
+
+00:53:08.840 --> 00:53:11.000
+next and worse pandemic
+
+00:53:11.320 --> 00:53:13.200
+Like it could be important
+
+00:53:13.920 --> 00:53:17.680
+that this is unfortunately a topic 
+which draws
+
+00:53:18.600 --> 00:53:22.880
+a really small fraction of
+attention paid to COVID
+
+00:53:22.880 --> 00:53:25.160
+or like face recognition and so on
+
+00:53:26.000 --> 00:53:30.560
+Maybe my epilogue will be not focus
+so much on the
+
+00:53:31.640 --> 00:53:37.840
+shiny topics like facial recognition
+
+00:53:37.840 --> 00:53:40.520
+Where there's a lot of controversy
+about it and so on
+
+00:53:40.880 --> 00:53:46.080
+But maybe there's so much potential to
+use AI for the really important things
+
+00:53:46.960 --> 00:53:50.760
+So sorry for late reply
+to the last question
+
+00:53:52.320 --> 00:53:54.360
+Thank you very much Mr. Kulveit
+
+00:53:54.920 --> 00:53:58.960
+I have a question related to the future
+
+00:53:58.960 --> 00:54:05.480
+because now we are facing the pandemic
+and it seems
+
+00:54:05.480 --> 00:54:12.040
+that we will have to deal with it
+another few more weeks
+
+00:54:12.280 --> 00:54:14.000
+ or maybe also months
+
+00:54:14.000 --> 00:54:14.880
+A year
+
+00:54:14.880 --> 00:54:15.880
+A year at least
+
+00:54:15.880 --> 00:54:16.880
+A year
+
+00:54:16.880 --> 00:54:17.880
+Thank you
+
+00:54:17.880 --> 00:54:18.880
+A year
+
+00:54:20.360 --> 00:54:24.960
+And now we also deployed
+many modern technologies
+
+00:54:24.960 --> 00:54:29.600
+ like tracing apps,
+like the artificial intelligence 
+
+00:54:29.600 --> 00:54:34.680
+or the data and statistics
+and the modeling 
+
+00:54:35.520 --> 00:54:36.760
+So I’m interested
+
+00:54:36.760 --> 00:54:41.760
+what do you think will happen after
+this COVID19
+
+00:54:41.760 --> 00:54:46.840
+or COVID20 pandemic will end?
+
+00:54:47.560 --> 00:54:54.520
+Do you think that these technologies 
+will be still on the table?
+
+00:54:54.680 --> 00:54:59.440
+That they will become permanent,
+ let’s say
+
+00:54:59.440 --> 00:55:00.960
+permanent issues 
+
+00:55:01.320 --> 00:55:05.040
+permanent parts of our daily lives?
+
+00:55:06.000 --> 00:55:07.960
+And what do you think Mr. Jann?
+
+00:55:07.960 --> 00:55:16.480
+ is it just like a temporary digital 
+world we are living now?
+
+00:55:16.480 --> 00:55:22.560
+or is it for next decades?
+
+
+00:55:22.720 --> 00:55:23.720
+Well, I mean 
+
+00:55:24.240 --> 00:55:27.680
+ the oppressive regimes that are 
+rolling out video surveillance
+
+00:55:27.680 --> 00:55:29.240
+and face recognition and so on
+
+00:55:29.240 --> 00:55:31.080
+that of course will probably 
+not disappear
+
+00:55:31.080 --> 00:55:32.240
+So that's the biggest problem
+
+00:55:32.240 --> 00:55:33.240
+I think here
+
+00:55:33.520 --> 00:55:37.160
+I mean these bluetooth tracing apps
+they have no use at all, right?
+
+00:55:37.160 --> 00:55:42.360
+I mean once we have a vaccination rate
+of maybe 50% - 60%
+
+00:55:42.360 --> 00:55:44.800
+which again will take maybe a year, 
+maybe more
+
+00:55:44.800 --> 00:55:47.760
+Maybe will never be reached
+if we lose the kind of
+
+00:55:48.160 --> 00:55:51.040
+ fight about whether vaccines
+are good or not
+
+00:55:51.320 --> 00:55:53.600
+Then these Bluetooth apps
+have no more use
+
+00:55:53.600 --> 00:55:55.960
+so I think they will disappear
+
+00:55:55.960 --> 00:55:59.360
+I think I mean we will go back from
+Zoom meetings to real meetings
+
+00:55:59.360 --> 00:56:01.200
+Some meetings will stay Zoom meetings
+
+00:56:01.200 --> 00:56:03.720
+Some meetings that should have been
+Zoom meetings before the pandemic 
+
+00:56:03.720 --> 00:56:06.160
+ will stay to be Zoom meetings 
+
+00:56:06.600 --> 00:56:09.120
+I think I want to say 
+one more thing about data
+
+00:56:09.120 --> 00:56:11.080
+Because we were talking here about data
+
+00:56:11.120 --> 00:56:13.040
+and do government use the data correctly
+
+00:56:13.120 --> 00:56:15.000
+and is there enough data and so on
+
+00:56:15.000 --> 00:56:17.480
+And I think what we really need 
+to be clear here
+
+00:56:17.480 --> 00:56:19.200
+that there is not a supply problem
+
+00:56:19.560 --> 00:56:22.040
+Okay, so we don't have a problem
+that there is too little data
+
+00:56:22.040 --> 00:56:23.520
+We really have a demand problem
+
+00:56:23.920 --> 00:56:25.040
+So because politicians
+
+00:56:25.040 --> 00:56:28.720
+they have the data that they would need 
+to make the most basic decisions 
+
+00:56:28.720 --> 00:56:30.560
+They could ask for more data
+
+00:56:30.560 --> 00:56:33.440
+So we have these institutes that are
+able to produce more data
+
+00:56:33.880 --> 00:56:35.520
+But if you look at the Czech Republic
+
+00:56:35.520 --> 00:56:36.880
+the first lockdown we got 
+
+00:56:37.040 --> 00:56:38.080
+Because some guy
+
+00:56:38.080 --> 00:56:39.160
+With all due respect 
+
+00:56:39.160 --> 00:56:40.600
+Some guy made an Excel sheet
+
+00:56:40.600 --> 00:56:42.720
+and talked his way into
+the prime minister office, right?
+
+00:56:43.240 --> 00:56:46.000
+In the second wave,
+ the lockdown happened far too late
+
+00:56:46.000 --> 00:56:48.880
+even though in August everyone
+who read the data carefully
+
+00:56:48.880 --> 00:56:51.040
+could see that we were headed
+for a catastrophe right?
+
+00:56:51.320 --> 00:56:54.280
+And still in late August the most 
+basic measures were vetoed
+
+00:56:54.280 --> 00:56:55.920
+at the highest level of government,
+right?
+
+00:56:56.240 --> 00:56:57.240
+So and then of course,
+
+00:56:57.240 --> 00:56:59.560
+I mean, if we had better data
+about mobility
+
+00:56:59.560 --> 00:57:01.480
+or more high frequency data or so
+
+00:57:01.480 --> 00:57:02.840
+that might now
+
+00:57:03.040 --> 00:57:06.040
+nerds like myself or Jan Kulveit,
+
+00:57:06.200 --> 00:57:07.520
+sorry Honza,
+
+00:57:07.520 --> 00:57:10.440
+ that might allow us to be slightly
+faster in predicting
+
+00:57:10.440 --> 00:57:12.920
+or might make slightly more
+accurate predictions, right?
+
+00:57:13.440 --> 00:57:17.360
+But if at the highest level of 
+government there’s, I mean, basic
+
+00:57:18.080 --> 00:57:20.760
+What you could call almost
+statistical illiteracy, right?
+
+00:57:20.760 --> 00:57:23.400
+That kind of ignores
+these steady growths
+
+00:57:23.400 --> 00:57:24.920
+This steady exponential growth
+
+00:57:25.160 --> 00:57:27.120
+of case numbers that we saw from
+
+00:57:27.120 --> 00:57:29.480
+I mean, that we could kind of see 
+already in July
+
+00:57:29.480 --> 00:57:31.280
+but that we really saw in August
+
+00:57:31.280 --> 00:57:33.080
+And doesn't make decisions
+based on that
+
+00:57:33.080 --> 00:57:35.400
+Then we really have to say
+it is a demand problem
+
+00:57:35.640 --> 00:57:36.640
+Not a supply problem
+
+00:57:36.640 --> 00:57:38.640
+ because all the data you needed
+to predict that
+
+00:57:38.760 --> 00:57:41.440
+was freely available at dozen of places
+on the internet
+
+00:57:42.280 --> 00:57:43.160
+Thank you very much
+
+00:57:43.160 --> 00:57:46.520
+I’m interested if this kind of
+demand problem
+
+00:57:46.520 --> 00:57:48.160
+mentioned by Mr. Jann
+
+00:57:48.160 --> 00:57:50.760
+is kind of a Czech problem
+
+00:57:50.760 --> 00:57:56.840
+or if we could see or example the same problem
+in Germany 
+
+00:57:56.840 --> 00:58:02.400
+I don't know Mr. Breyer if you are aware
+of this similar let's say story
+
+00:58:02.400 --> 00:58:04.560
+As it was mentioned by Mr. Jann that
+
+00:58:05.320 --> 00:58:08.680
+ a man came into
+our prime minister office
+
+00:58:08.680 --> 00:58:11.840
+and presented him the Excel sheet
+with data
+
+00:58:11.840 --> 00:58:14.080
+and then the lockdown begin
+
+00:58:14.080 --> 00:58:15.280
+I don't know
+
+00:58:15.280 --> 00:58:19.360
+Do you think that in Germany
+this demand for the data
+
+00:58:19.360 --> 00:58:24.200
+to provide better decisions is better?
+
+00:58:24.440 --> 00:58:25.440
+Mr. Breyer
+
+00:58:28.000 --> 00:58:32.960
+Well the decision making in a democracy
+of course is a political process, right?
+
+00:58:32.960 --> 00:58:34.640
+And not a scientific one
+
+00:58:34.640 --> 00:58:38.800
+So it would always
+depend on various factors
+
+00:58:38.800 --> 00:58:41.920
+and not all of them would be
+scientifically viable
+
+00:58:42.280 --> 00:58:47.120
+I agree with Mr. Jann that
+we do have some knowledge
+
+00:58:47.120 --> 00:58:51.600
+and recommendations from scientists
+
+00:58:51.600 --> 00:58:54.400
+that could be used to make
+those political decisions
+
+00:58:54.400 --> 00:58:57.960
+about what steps to go 
+and the lockdown, etcetera
+
+00:58:58.400 --> 00:59:01.560
+And so there was not really a lack of
+
+00:59:02.400 --> 00:59:05.080
+There could always be
+a better knowledge but
+
+00:59:05.320 --> 00:59:08.200
+I think it is good enough
+to take good decisions
+
+00:59:08.200 --> 00:59:11.520
+ and we’ve seen examples of countries
+acting responsibly
+
+00:59:11.520 --> 00:59:15.160
+and dealing quite well with the pandemic
+
+00:59:15.520 --> 00:59:17.480
+But I’m concerned that
+
+00:59:18.120 --> 00:59:20.080
+whereas traditionally
+
+00:59:20.520 --> 00:59:24.000
+science has worked 
+with experiments with volunteers
+
+00:59:24.440 --> 00:59:28.840
+that there's an increasing hunger for 
+what they call real world data
+
+00:59:29.200 --> 00:59:33.360
+And real world data is, of course,
+everybody's data
+
+00:59:33.360 --> 00:59:37.160
+without asking people for their consent
+
+00:59:37.560 --> 00:59:40.000
+And one example of that we’ve seen is
+
+00:59:40.840 --> 00:59:42.600
+the mobile phone data
+
+00:59:42.920 --> 00:59:46.240
+Which they are now probably anonymizing
+
+00:59:46.240 --> 00:59:50.600
+to be able to, you know,
+ tell people's movements
+
+00:59:51.040 --> 00:59:52.600
+But even without the names
+
+00:59:52.600 --> 00:59:54.880
+and even if you accumulate movements
+
+00:59:55.440 --> 00:59:57.880
+This can easily be used
+for different purposes
+
+00:59:57.880 --> 01:00:02.360
+for example, the police or intelligence
+agencies can be very interested
+
+01:00:02.360 --> 01:00:06.080
+in where a large number of
+people have assembled
+
+01:00:06.520 --> 01:00:08.000
+at a given time
+
+01:00:08.120 --> 01:00:11.280
+And they can then of course 
+very easily follow up
+
+01:00:11.280 --> 01:00:14.120
+with telecommunication providers 
+and ask for the names
+
+01:00:14.400 --> 01:00:16.960
+And ask, you know, who has it been that
+
+01:00:17.600 --> 01:00:21.280
+Those 50 or 100 people that have met
+in this place 
+
+01:00:21.440 --> 01:00:23.840
+And maybe it was
+a political coordination
+
+01:00:23.840 --> 01:00:26.200
+maybe somebody planning a protest
+
+01:00:26.200 --> 01:00:28.680
+and didn’t want the police
+and the government to know 
+
+01:00:28.800 --> 01:00:33.840
+And that’s why it's very tricky to get
+the anonymization truly right
+
+01:00:33.840 --> 01:00:36.280
+and even with anonymization
+it doesn't mean 
+
+01:00:36.440 --> 01:00:39.560
+That you cannot reverse it
+
+01:00:39.560 --> 01:00:42.480
+and that’s why
+I'm a strong defender for
+
+01:00:42.920 --> 01:00:45.000
+for the approach to use samples
+
+01:00:45.440 --> 01:00:47.760
+And to use volunteer data
+
+01:00:47.760 --> 01:00:52.160
+and to keep people in control
+of what happens to
+
+01:00:52.160 --> 01:00:55.320
+ their information 
+about their private life,
+
+01:00:55.320 --> 01:00:57.640
+ about their medical conditions,
+ etcetera pp
+
+01:00:58.840 --> 01:01:00.800
+Thank you very much Mr. Breyer
+
+01:01:00.800 --> 01:01:04.640
+I’m very sorry but our time is 
+already over
+
+01:01:04.640 --> 01:01:06.160
+Because
+
+01:01:06.320 --> 01:01:08.440
+Yeah, the discussion was great
+
+01:01:08.440 --> 01:01:12.240
+Thank you very much
+ for all your contributions
+
+01:01:13.680 --> 01:01:15.920
+Thank you for all the participants
+
+01:01:15.920 --> 01:01:19.160
+ who were watching us for the whole time
+
+01:01:19.160 --> 01:01:21.320
+and also commenting through the chat

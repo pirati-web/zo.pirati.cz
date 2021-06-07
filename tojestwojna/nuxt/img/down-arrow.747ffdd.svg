@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   viewBox="0 0 75 75">
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:none;stroke:#ffffff;stroke-miterlimit:10;stroke-width:1.5px;}</style>
+  </defs>
+  <line
+     style="fill:none;stroke:#ffffff;stroke-width:1.5px;stroke-miterlimit:10"
+     id="line6"
+     y2="46.029999"
+     x2="37.5"
+     y1="26.059999"
+     x1="37.5"
+     class="cls-1" />
+  <polyline
+     style="fill:none;stroke:#ffffff;stroke-width:1.5px;stroke-miterlimit:10"
+     transform="rotate(90,37.5,37.499999)"
+     id="polyline8"
+     points="38.27 29.74 46.03 37.5 38.27 45.26"
+     class="cls-1" />
+  <circle
+     style="fill:none;stroke:#ffffff;stroke-width:1.5px;stroke-miterlimit:10"
+     transform="rotate(-120)"
+     id="circle10"
+     r="36.77"
+     cy="13.725953"
+     cx="-51.225952"
+     class="cls-1" />
+</svg>

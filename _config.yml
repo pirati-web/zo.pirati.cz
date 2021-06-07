@@ -5,21 +5,20 @@
 # technické nastavení
 #
 
-title: Czech Pirate Party # To co je napsané na tabu ve kterém je stránka.
-email: zo@pirati.cz
+title: zo.pirati.cz # To co je napsané na tabu ve kterém je stránka.
+email: info@pirati.cz
 description: >-
-   Zahraniční odbor komunikuje s dalšími členy mezinárodního pirátského hnutí, zejména přináší v zahraničí osvědčené nápady do strany, vypracovává společný postup při projednávání mezinárodních problémů.
+ Web Zahraničního odboru - Piráti 
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
-keywords: piráti, česká pirátská strana, czech pirate party, internation pirate party, PPI, PP-EU, Evropští Piráti,
+keywords: piráti, zahraniční odbor, česká pirátská strana, svoboda, demokracie, mezinárodní politika
 
 administrator:
-  email: jitka.novotna@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
+  email: marek.krejpsky@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
 
 organization:
-  name: Czech Pirate Party
-  shortName: ZO 
-  email: zo@pirati.cz
-  phone: +420 770 113 642
+  name: Zahraniční odbor - ČESKÁ PIRÁTSKÁ STRANA
+  shortName: Zahraniční odbor
+  email: veronika.murzynova@pirati.cz
   address: |
     Na Moráni 3,
     120 00 Praha 2
@@ -41,10 +40,7 @@ contactSummaryItems:
     includeMoreLink: true
   - type: organizationDataBox
   - type: piratiRootWebsite
-  - type: custom
-    iconClass: fa fa-envelope
-    label: Vlastní řádek tabulky
-    body: <a href="http://example.com">link</a>
+
 
 calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key
@@ -75,7 +71,7 @@ flicker:
   profilePage: https://www.flickr.com/photos/pirati/
 
 forum:
-  page: https://forum.pirati.cz/
+  page: https://forum.pirati.cz/viewforum.php?f=185
 
 github:
   url: https://github.com/pirati-web/zo.pirati.cz/
@@ -170,7 +166,7 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.5.0/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.7.1/_sass
     - assets/css
     - assets/fonts
     - assets/video

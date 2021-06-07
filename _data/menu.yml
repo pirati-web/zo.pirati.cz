@@ -2,37 +2,79 @@ top:
   - link: "pirati.cz"
     url:  "https://www.pirati.cz"
     icon: "fa fa-home"
-  - link: "Pirátské listy"
-    url:  "http://www.piratskelisty.cz"
+  - link: "Piráti a Starostové - volby do PSP ČR 2021"
+    url:  "http://www.piratiastarostove.cz"
     icon: "fa fa-newspaper-o"
 
 main:
   - link: /aktuality/
-    name: Aktuality
+    name: AKTUALITY
     match: aktuality
   - link: /lide/
-    name: O nás
+    name: O NÁS
     match: lide
-  - link: /tabulka/
-    name: Tabulka
-    match: tabulka
-  - link: /komunalni-volby/
-    name: Komunální volby
-    match: komunalni-volby
+  - link: /projekty/
+    name: PROJEKTY
+    match: projekty
     submenu:
-      - link: /komunalni-volby/mapa-zameru/
-        name: Mapa záměrů
-        match: mapa-zameru
-  - link: /kontakt/
-    name: Kontakt
-    match: kontakt
-
+      - link: /projekty/ppeu/
+        name: PP EU
+        match: ppeu
+      - link: /tojestwojna/
+        name: TO JEST WOJNA
+        match: tojestwojna
+      - link: /tvare/
+        name: Vraťte nám naše tváře
+        match: tvare
+      - link: /projekty/ype/
+        name: YPE
+        match: ype
+      - link: /projekty/volimvzahranici/
+        name: Zahraniční voliči
+        match: volimvzahranici
+      - link: /projekty/digi/
+        name: DIGI konference
+        match: digi
+      - link: /tema/covid/
+        name: Coronaguide
+        match: corona      
+  - link: /tema/
+    name: TÉMATA
+    match: tema
+    submenu:
+      - link: /projekty/lidskaprava/
+        name: Lidská práva
+        match: lidskaprava
+      - link: /projekty/belorusko/
+        name: Bělorusko
+        match: belorusko
+      - link: /projekty/visegrad/
+        name: Visegrad
+        match: visegrad		
+      - link: /projekty/slovensko/
+        name: Slovensko
+        match: slovensko 
+      - link: /tema/gaza/
+        name: Palestina a Israel
+        match: gaza
+      - link: /tema/iniciativy
+        name: Evropseké občanské iniciativy
+        match: iniciativy
 bottom:
   - class: small-12 medium-4
     title: Připoj se
     links:
-      - link: nalodeni.pirati.cz
+      - link: /kontakt/
         name: Dej nám vědět
+  - class: small-12 medium-4
+    title: Makáme
+    links:
+      - link: https://www.piratiastarostove.cz
+        name: www.piratiastarostove.cz
+      - link: /projekty/
+        name: Projekty
+      - link: /tema/
+        name: Témata
   - class: small-12 medium-4
     title: Otevřenost
     links:
@@ -42,9 +84,3 @@ bottom:
         name: Registr smluv
       - link: https://wiki.pirati.cz/fo/otevrene_ucetnictvi
         name: Otevřené účetnictví
-
-contact:
-  - id: david.wagner
-    position: Czech & English
-  - id: jan.mares
-    position: German
