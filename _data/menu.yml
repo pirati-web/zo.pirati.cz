@@ -11,8 +11,11 @@ main:
     name: AKTUALITY
     match: aktuality
   - link: /lide/
-    name: O NÁS
+    name: LIDÉ
     match: lide
+  - link: /priority/
+    name: PRIORITY
+    match: priority
   - link: /projekty/
     name: PROJEKTY
     match: projekty
@@ -75,6 +78,8 @@ bottom:
         name: Projekty
       - link: /tema/
         name: Témata
+      - link: /priority/
+        name: Priority		
   - class: small-12 medium-4
     title: Otevřenost
     links:
