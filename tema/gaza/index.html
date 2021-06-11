@@ -1,0 +1,27 @@
+---
+layout: default
+title: Zahraniční politika Piráti a situace na Blízkém Východě
+description: Zahraniční politika Piráti a situace na Blízkém Východě
+keywords: Zahraniční politika Piráti a situace ve Svaté Zemi a kolem Jeruzaléma v pásmu Gazy - Palestina a Israel
+---
+
+
+<div class="row">
+  <div class="columns">
+    <div class="o-section">
+      <div class="o-section-inner">
+          <header class="c-page-header">
+            <h1 itemprop="headline" class="c-page-title">Palestina a Israel</h1>
+          </header>
+          {% assign tag = 'gaza'   %}
+          <ul>
+          {% for post in site.tags[tag] limit:12 %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>{% endfor %}
+          </ul><hr><hr>
+         {% assign posts=site.tags[tag] %} 
+         {% include articles/list-responsive.html posts=posts %}
+         {% include articles/pagination.html paginator=paginator %}
+      </div>
+    </div>
+  </div>
+</div>

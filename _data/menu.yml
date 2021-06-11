@@ -45,16 +45,16 @@ main:
     name: TÉMATA
     match: tema
     submenu:
-      - link: /projekty/lidskaprava/
+      - link: /tema/lidskaprava/
         name: Lidská práva
         match: lidskaprava
-      - link: /projekty/belorusko/
+      - link: /tema/belorusko/
         name: Bělorusko
         match: belorusko
-      - link: /projekty/visegrad/
+      - link: /tema/visegrad/
         name: Visegrad
         match: visegrad		
-      - link: /projekty/slovensko/
+      - link: /tema/slovensko/
         name: Slovensko
         match: slovensko 
       - link: /tema/gaza/
@@ -63,6 +63,10 @@ main:
       - link: /tema/iniciativy
         name: Evropské občanské iniciativy
         match: iniciativy
+  - link: https://wiki.pirati.cz/zo/docs/start
+    name: DOKUMENTY ZO
+    match: dokumenty
+
 bottom:
   - class: small-12 medium-4
     title: Připoj se

@@ -1,0 +1,27 @@
+---
+layout: default
+title:  Lidská práva
+description: Lidská práva a dohled nad jejich dodržováním v mezinárodní politice
+keywords:  Lidská práva
+---
+
+
+<div class="row">
+  <div class="columns">
+    <div class="o-section">
+      <div class="o-section-inner">
+          <header class="c-page-header">
+            <h1 itemprop="headline" class="c-page-title">Lidská práva a boj za jejich dodržování</h1>
+          </header>
+          {% assign tag = 'lidská-práva'   %}
+          <ul>
+          {% for post in site.tags[tag] limit:12 %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>{% endfor %}
+          </ul><hr><hr>
+         {% assign posts=site.tags[tag] %} 
+         {% include articles/list-responsive.html posts=posts %}
+         {% include articles/pagination.html paginator=paginator %}
+      </div>
+    </div>
+  </div>
+</div>
