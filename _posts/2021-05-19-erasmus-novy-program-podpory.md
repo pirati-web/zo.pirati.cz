@@ -4,7 +4,7 @@ category:     blog
 tags:         vzdělávání evropská-unie
 layout:       post
 title:        "Erasmáci dostanou větší podporu než kdy dříve. Evropský parlament schválil nový program Erasmus+"
-image:        posts/2021/marcel-kolaja01.jpg
+image:        posts/marcel-kolaja01.jpg
 author:       
 ---
 
