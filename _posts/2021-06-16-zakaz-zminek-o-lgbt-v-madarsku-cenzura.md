@@ -4,7 +4,7 @@ category:     blog
 tags:         evropská-unie lidská-práva iniciativy Visegrád
 layout:       post
 title:        "Zákazem zmínek o LGBT Orbán v Maďarsku dále stupňuje cenzuru i útoky na menšiny "
-image:        _posts/frantisek-kopriva02.jpg
+image:        posts/frantisek-kopriva02.jpg
 author:       
 ---
 
