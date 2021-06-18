@@ -4,7 +4,7 @@ category:     blog
 tags:         vláda zahraničí
 layout:       post
 title:        "Piráti a Starostové odmítají velvyslanecké trafiky. Vyzývají ministerstvo, aby ambasadory vybíralo transparentně a podle odbornosti"
-image:        _posts/jan-lipavsky99.jpg
+image:        posts/jan-lipavsky99.jpg
 author:       
 ---
 
