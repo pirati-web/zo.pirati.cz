@@ -4,7 +4,7 @@ category:     blog
 tags:         evropská-unie bezpečnost
 layout:       post
 title:        "EU chystá novou směrnici o kyberbezpečnosti. Zpravodajkou je Pirátka Gregorová"
-image:        _posts/marketa-gregorova00.jpg
+image:        posts/marketa-gregorova00.jpg
 author:       Redakce
 ---
 
