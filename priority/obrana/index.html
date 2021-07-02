@@ -1,0 +1,614 @@
+---
+layout: default
+title:  Priority ZO - Zodpovědný přístup k obraně i spojencům
+description: Priority ZO  - Zodpovědný přístup k obraně i spojencům
+keywords: Priority ZO - Zodpovědný přístup k obraně i spojencům
+---
+
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="https://www.piratiastarostove.cz/static/elections2021/images/favicon-bw-180.png" sizes="180x180">
+  <link rel="icon" type="image/png" href="https://www.piratiastarostove.cz/static/elections2021/images/favicon-bw-120.png" sizes="120x120">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="https://www.piratiastarostove.cz/static/elections2021/css/styleguide.min.css">
+  <link rel="stylesheet" href="https://www.piratiastarostove.cz/static/elections2021/css/styles.css">
+  <style type="text/css">
+    sup {
+      white-space: nowrap;
+    }
+    .head-alt-highlighted {
+      line-height: 1.2 !important;
+    }
+  </style>
+
+
+
+<div class="side-cta-panel--filter" id="side-cta-filter"></div>
+
+<div class="side-cta-panel-bar-wrapper">
+  <div class="side-cta-panel-bar" id="cta-side-bar" onclick="document.body.classList.add('ctaopen');getElementById('side-cta-filter').classList.add('side-cta-panel--filter--ctaopen');getElementById('cta-side').classList.add('side-cta-panel--ctaopen');">
+    <div class="side-cta-panel-bar--toggler"></div>
+    <div class="side-cta-panel-bar-el img-news bg-acidgreen elevation-6 hover:bg-darkacidgreen hover:elevation-1 transition-all cursor-pointer"></div>
+    <div class="side-cta-panel-bar-el img-help bg-lemon elevation-6 hover:bg-opacity-70 hover:elevation-1 transition-all cursor-pointer"></div>
+    <div class="side-cta-panel-bar-el img-support bg-white elevation-6 hover:bg-opacity-70 hover:elevation-1 transition-all cursor-pointer"></div>
+  </div>
+</div>
+
+    
+<div class="container container-default pt-4 pb-20">
+  <div class="w-full lg:w-4/6 relative container-collapsible">
+
+    <div class="floating-nav-wrapper hidden xl:block" id="floatingNavBarWrapper">
+      <div class="floating-nav-panel " id="floatingNavBar">
+        <div class="opener py-6 pb-16 px-11 bg-acidgreen text-white font-alt">
+          RYCHLÁ NAVIGACE
+        </div>
+        <div class="inner float-panel-inner elevation-2">
+          <ul>
+            <li><a href="#takhle-to-dal-nejde">Takhle to dál nejde</a></li>
+            <li><a href="#v-cem-je-problem">V čem je problém</a></li>
+            <li><a href="#nase-vize">Naše vize</a></li>
+            <li><a href="#jak-to-chceme-udelat" class="active">Jak to chceme udělat?</a></li>
+            <li><a href="#kolik-na-to-chceme-casu">Kolik na to chceme času?</a></li>
+            
+              <li><a href="#pro-koho-to-chceme-hlavne">Pro koho to chceme hlavně</a></li>
+            
+            <li><a href="#co-pro-to-uz-delame">Co pro to už děláme</a></li>
+            <li><a href="#na-co-se-nas-casto-ptate">Na co se nás často ptáte</a></li>
+            
+              <li><a href="#souvisejici-body">Související body</a></li>
+            
+            <li><a href="#zdroje">Klidně si to ověřte</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      window.addEventListener("load", onLoadFunction);
+      var anchorsArray = [];
+
+      function placeUponId(id, space) {
+        return document.getElementById(id).getBoundingClientRect().top + window.scrollY - space;
+      }
+
+      function onLoadFunction(e) {
+        var anchorElemsArray;
+        onResizeFunction();
+        for (const entry of anchorsArray) {
+          entry.menuitem.addEventListener("click", clickHandler);
+        }
+
+        function clickHandler(e) {
+          e.preventDefault();
+          var id = this.getAttribute("href").replace("#", "");
+          console.log(placeUponId(id, 20));
+          scroll({
+            top: placeUponId(id, 20),
+            behavior: "smooth"
+          });
+        }
+
+
+        window.addEventListener("resize", onResizeFunction);
+      }
+
+      function onResizeFunction(e) {
+        var itemsProcessed = 0;
+        var anchorElemsArray = document.getElementsByClassName("float-panel-inner")[0].querySelectorAll("li a");
+        anchorsArray = [];
+        anchorElemsArray.forEach(function(entry) {
+          var id = entry.getAttribute("href").replace("#", "");
+          anchorsArray.push({
+            id: id,
+            top: placeUponId(id, 200),
+            menuitem: entry
+          });
+          itemsProcessed++;
+          if (itemsProcessed === anchorElemsArray.length) {
+            anchorsArray.reverse();
+          }
+        });
+        console.log(anchorsArray);
+      }
+      window.onscroll = function() {
+        var top = window.pageYOffset || document.documentElement.scrollTop;
+        var activereached = false;
+        anchorsArray.forEach(function(entry) {
+          entry.menuitem.classList.remove("active");
+          entry.menuitem.classList.remove("passed");
+          if (top >= placeUponId(entry.id, 200)) {
+            if (activereached) entry.menuitem.classList.add("passed");
+            else entry.menuitem.classList.add("active");
+            activereached = true;
+          }
+        });
+      };
+    </script>
+
+    <header class="w-full md:w-5/6">
+      <div class="mt-10 md:mt-12">
+        <h1 class="head-alt-md md:head-alt-lg head-alt-highlighted">Zodpovědný přístup k obraně i spojencům</h1>
+        <h2 class="head-alt-sm md:head-alt-md mb-20 mt-9">
+          <div class="leading-tight"><p data-block-key="tepik">Obrana země stojí na její kondici i na členství v NATO a EU. Navýšené výdaje do obrany projdou i českou vědou, výzkumem nebo průmyslem.</p></div>
+        </h2>
+      </div>
+    </header>
+
+    <div class="problem-pack">
+      <section id="takhle-to-dal-nejde" class="program-detail-problem-solution mb-20">
+
+        <div class="problem-cross"><i class="ico--thincross text-xs sm:text-xl text-white"></i></div>
+        <div class="problem-inner content-block">
+
+          <h2 class="head-alt-sm md:head-alt-md mb-9">Takhle to dál nejde</h2>
+          <p class="text-base mb-8 para">
+            <p data-block-key="gss5x">Naše svoboda a způsob života nejsou samozřejmostí. Musíme je bránit. Naštěstí na to nejsme sami. Členství v EU a NATO znamená, že jsme součástí Západu – ekonomicky, politicky a vojensky nejmocnějšího uskupení. Pokud nebudeme přispívat rovným dílem<a href="#zdroje"><sup>[15]</sup></a>, můžeme o toto postavení přijít.</p>
+          </p>
+
+          <div id="v-cem-je-problem">
+            <div class="accordeon-row accordeon-row--fadeout h-full">
+              <div class="accordeon-row-head" v-on:click="toggleElement" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+                <h3 class="accordeon-row-heading head-alt-xs mb-0">V čem je problém</h3>
+                <i class="ico--chevron-down"></i>
+              </div>
+              <div class="accordeon-row-body accordeon-row-body--fadeout" style="height: 220px; max-height: 560px;">
+                <div>
+                  <p data-block-key="v75lv">Bezpečnostní situace ve světě se za poslední dekádu znatelně zhoršila.<a href="#zdroje"><sup>[1]</sup></a> Kromě obrany před aktéry, kteří k nám mají otevřeně nepřátelské postoje, jako jsou Rusko<a href="#zdroje"><sup>[2]</sup></a> a Čína<a href="#zdroje"><sup>[3]</sup></a>, musí Česko ve spolupráci s dalšími zeměmi a institucemi EU racionálně řešit problém migrace.<a href="#zdroje"><sup>[4]</sup></a> To kromě jiného vyžaduje, abychom se angažovali politicky, diplomaticky, ekonomicky a vojensky i za hranicemi Evropy, například v Africe a na Blízkém východě. Terorismus i nadále představuje hrozbu<a href="#zdroje"><sup>[5, 6, 7]</sup></a> a k jeho potlačení je spolupráce v EU a NATO nezbytná. </p><p data-block-key="e845g">Naše svoboda, bezpečnost a způsob života nejsou samozřejmostí. Za ochranu těchto hodnot nese zodpovědnost nejen stát, ale i jeho občané. Naštěstí na to nejsme sami. Členství v EU a NATO znamená, že jsme součástí Západu – ekonomicky<a href="#zdroje"><sup>[8]</sup></a>, politicky<a href="#zdroje"><sup>[9] </sup></a>a vojensky<a href="#zdroje"><sup>[10]</sup></a> nejmocnějšího uskupení na světě. </p><p data-block-key="zl5jy">Přínosy z členství v těchto organizacích nejsou automatické a musíme se o ně přičinit. Zejména při pohledu do naší minulosti je členství v EU a NATO to nejlepší, čeho naše země mohla v bezpečnostní oblasti dosáhnout. </p><p data-block-key="k70u2">EU a NATO nám nabízejí velké příležitosti. Evropa sice vynakládá velké prostředky na obranu, ale kvůli nekoordinovanosti a roztříštěnosti je část z nich vynaložena zbytečně.<a href="#zdroje"><sup>[11, 14, 15, 16]</sup></a> Proto bychom měli usilovat o intenzivnější obrannou spolupráci v EU.</p><p data-block-key="otsfu">Kromě tradičních hrozeb se musíme umět vypořádat i s těmi novými. Musíme posílit ochranu své kritické infrastruktury před kybernetickými útoky a stranou našeho zájmu nesmějí zůstat ani tzv. hybridní hrozby. Třeba vliv v mediálním prostoru a přístup k informacím hrají čím dál větší roli i ve sféře obrany.<a href="#zdroje"><sup>[6]</sup></a> Obranné kapacity by se měly dát dobře využít i při přírodních pohromách nebo krizích typu pandemie covid-19.<a href="#zdroje"><sup>[18]</sup></a> Naše obranné složky musí umět pomáhat i přímo obyvatelům Česka.</p>
+                </div>
+              </div>
+              <button class="btn btn--icon absolute bottom-8 left-8" onclick="this.parentElement.classList.add('accordeon-row--open');">
+                <div class="btn__body-wrap">
+                  <div class="btn__body bg-acidgreen -bottom-20 text-black py-4">Zobrazit více</div>
+                  <div class="btn__icon bg-black">
+                    <i class="ico--chevron-right"></i>
+                  </div>
+                </div>
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <div id="nase-vize" class="ideal-check"><i class="ico--check text-xs sm:text-xl text-black"></i></div>
+        <div class="ideal-inner bg-lemon content-block">
+          <h2 class="head-alt-sm md:head-alt-md mb-9">Naše vize</h2>
+          <p class="text-base">
+            <p data-block-key="r23k2">Česko bude mít moderní a akceschopnou armádu, která dokáže reagovat na tradiční i nové hrozby, včetně těch hybridních a kybernetických. Naše společnost bude odolná a schopná podílet se na obraně státu. V EU a NATO budeme sebevědomý partner přispívající k obraně poctivým dílem. </p>
+          </p>
+        </div>
+
+      </section>
+    </div>
+
+    <div id="jak-to-chceme-udelat" class="container-collapsible-content" style="height: 50vh;">
+
+      <h3 class="head-alt-base mb-8">Jak to chceme udělat?</h3>
+      <div class="content-block">
+        <p data-block-key="t3i3u">Rozpočet, plánování, věda a inovace</p><ul class="unordered-list unordered-list-checks"><li class="mb-4" data-block-key="1gm2a">Bez peněz to nejde. Budeme proto pokračovat v postupném navyšování výdajů na obranu s cílem dosáhnout 2 procenta HDP do konce volebního období.<a href="#zdroje"><sup>[12]</sup></a> Zavedeme v souladu s naším obecným přístupem k veřejným financím víceletý rozpočtový rámec, který armádní rozpočet stabilizuje a zefektivní.</li><li class="mb-4" data-block-key="x3zue">Modernizace je příležitostí pro rozvoj české vědy a může posílit ekonomické sektory s vysokou přidanou hodnotou a nastupující technologie (vesmírné technologie, umělá inteligence, biotechnologie). Zasadíme se o naplnění závazku PESCO – dávat 2 procenta obranných výdajů na vědu a výzkum, tj. zhruba o 1 miliardu korun navíc.<a href="#zdroje"><sup>[13]</sup></a> Vyšleme na oběžnou dráhu českou družici.</li><li class="mb-4" data-block-key="63a1i">Budeme klást důraz na zapojení domácího průmyslu, aby se výdaje na obranu vracely zpět do ekonomiky.</li></ul><p data-block-key="u5dit">Na obranu nejsme sami</p><ul class="unordered-list unordered-list-checks"><li class="mb-4" data-block-key="evfvs">Podpoříme prohloubení obranné spolupráce v EU, včetně vytváření společných jednotek a efektivnějšího propojení obranného průmyslu, výzkumu a vývoje. Evropa musí být schopna ubránit své hranice.</li><li class="mb-4" data-block-key="5j68f">NATO nám přináší unikátní bezpečnostní záruky. Ke kolektivní bezpečnosti přispějeme poctivým dílem – vedle závazku k výdajům na obranu se budeme účastnit spojeneckých misí a aktivně se zapojíme do dění v NATO tak, aby byl v Alianci slyšet evropský hlas.</li><li class="mb-4" data-block-key="d41pw">Podpoříme společné vojenské mise demokratických států a vojenskou přítomnost v pobaltských státech. </li></ul><p data-block-key="nrxzc">Společenská odolnost</p><ul class="unordered-list unordered-list-checks"><li class="mb-4" data-block-key="fwtuz">Zasadíme se o posílení společenské odolnosti – včetně Aktivních záloh a spolupráce se školami. </li><li class="mb-4" data-block-key="seprq">Pomoc armády při krizových situacích je nenahraditelná. Podpoříme její zapojení do civilní ochrany. </li><li class="mb-4" data-block-key="42a6y">Zajistíme důslednou občanskou kontrolu bezpečnostních složek, i ve vztahu k soukromí a kybernetické bezpečnosti.</li><li class="mb-4" data-block-key="d5e2h">Ohlídáme, aby firmy z nedemokratických států nezískaly přístup ke klíčové́ infrastruktuře.</li></ul>
+      </div>
+
+      <div id="kolik-na-to-chceme-casu" class="grid grid-cols-1 gap-8 my-20">
+        
+        
+          <div class="card shadow-none bg-grey-125">
+            <div class="card__body content-block">
+              <h3 class="card-headline mb-8">Kolik na to chceme času?</h3>
+              <p class="card-body-text para"><p data-block-key="xopih">4 roky na splnění 2 procentního podílu HDP na financování obrany.</p></p>
+            </div>
+          </div>
+        
+      </div>
+
+      
+        <h3 id="pro-koho-to-chceme-hlavne" class="head-alt-base mb-8 mt-20">Pro koho to chceme hlavně</h3>
+      
+
+      
+        <div class="program-detail-benefity my-8 grid grid-cols-1 sm:grid-cols-2 gap-4 lg:gap-8">
+          
+            
+<div class="benefit">
+  <img src="/https://www.piratiastarostove.cz/static/elections2021/images/benefits/1.b701cb996af2.jpg">
+  <div class="benefit-detail bg-acidgreen">
+    <p class="head-heavy-sm w-full">Pro mladé</p>
+    <div class="text-sm"><p data-block-key="onazv">Díky dobrovolné spolupráci armády se školami získají mladí lidé praktické dovedností, které přispějí k posílení společenské odolnosti.</p></div>
+  </div>
+</div>
+
+          
+            
+<div class="benefit">
+  <img src="/https://www.piratiastarostove.cz/static/elections2021/images/benefits/8.191fffeb5c56.jpg">
+  <div class="benefit-detail bg-acidgreen">
+    <p class="head-heavy-sm w-full">Pro nás pro všechny</p>
+    <div class="text-sm"><p data-block-key="qause">Pomoc armády při krizových situacích je nenahraditelná. Podpoříme její zapojení do civilní ochrany. Připravíme veřejnost na krizové situace.</p></div>
+  </div>
+</div>
+
+          
+        </div>
+      
+
+      
+
+      
+
+      <h3 id="co-pro-to-uz-delame" class="head-alt-base mt-20 mb-10">Co pro to už děláme</h3>
+      <div class="content-block">
+        <p data-block-key="l00q5"></p><ul class="unordered-list unordered-list-checks"><li class="mb-4" data-block-key="kqhbh">Podpořili jsme mandát pro zahraniční mise v letech 2018–2020. Všechny navrhované zahraniční mise jsou mírového charakteru a nejsou bojové. Více <a href="https://www.pirati.cz/tiskove-zpravy/pirati-podpori-zahranicni-mise.html">zde</a>. </li><li class="mb-4" data-block-key="j7yv8">Podařilo se nám prosadit, aby Vojenské zpravodajství nemohlo sledovat online komunikaci. Více <a href="https://www.pirati.cz/tiskove-zpravy/online-komunikace-smirovani-vojenske-zpravodajstvi.html">zde</a>.</li><li class="mb-4" data-block-key="qzvjm">V Poslanecké sněmovně od roku 2020 zasedá Komise pro hybridní hrozby, jejímž úkolem je vyhodnocovat systémová rizika a slabá místa v obranyschopnosti České republiky. Členem komise je i poslanec Jan Lipavský, místopředseda výboru pro obranu, který zároveň vznik této komise inicioval. Více <a href="https://www.pirati.cz/tiskove-zpravy/Boj-Pirat%C5%AF-proti-hybridnim-hrozbam-jsou-soucasti-specialni-komise.html">zde</a>.</li><li class="mb-4" data-block-key="06c1k">Sněmovna minulý rok podpořila 13 pirátských návrhů na státní vyznamenání, mezi nominovanými byli například generálmajor Josef Balabán, legionář a československý voják, ale i generálmajor in memoriam Josef Vladimír Mašín st., legionář, československý voják, příslušník protinacistické odbojové organizace Obrana národa a jejího zpravodajsko-sabotážní skupiny známé jako Tři králové. Více <a href="https://www.pirati.cz/tiskove-zpravy/navrhy-na-vyznamenani.html">zde</a>.</li><li class="mb-4" data-block-key="lxgdy">Uspořádali jsme výstavu <a href="https://www.psp.cz/sqw/cms.sqw?z=11940">„In memoriam“</a>, která připomíná osudy padlých příslušníků Armády České republiky, kteří působili na zahraničních misích. </li><li class="mb-4" data-block-key="vx6cn">Kritizovali jsme vládní návrh zákona, který požadoval, aby v případě neakceschopnosti parlamentu přešlo krizové rozhodování zcela na vládu. V případě nefunkčnosti vlády by měl potom rozhodovat premiér. Důsledkem navrhovaného kroku by bylo vyhlašování stavu ohrožení státu nebo válečného stavu samotnou vládou nebo premiérem, aniž by tento vyžadoval potvrzení parlamentem v pevném časovém limitu. Více <a href="https://www.pirati.cz/tiskove-zpravy/vojtech-pikal-neni-duvod-k-posilovani-moci-vlady-a-premiera.html">zde</a>.</li><li class="mb-4" data-block-key="ehp75">V Karlovarském kraji jsme rozšířili ve spolupráci s Armádou ČR provozní dobu testovacího místa na přítomnost covid-19 v areálu Nemocnice Cheb. Obdobně mohl díky pomoci Armády ČR pokračovat provoz mobilního testovacího zařízení pro přeshraniční pracovníky na hranicích s Německem v obci Pomezí. Více <a href="https://zivechebsko.cz/2021/02/03/diky-spolupraci-s-armadou-bude-mit-chebske-odberove-misto-delsi-provozni-dobu/">zde</a> a <a href="https://chebsky.denik.cz/zpravy_region/kraj-chce-odberove-misto-v-pomezi-ponechat-vola-na-pomoc-armadu-20210125.html">zde</a>.</li></ul>
+      </div>
+
+      <h3 id="na-co-se-nas-casto-ptate" class="head-alt-base mb-8 mt-20">Na co se nás často ptáte</h3>
+      <div class="space-y-1">
+        
+          
+<div class="accordeon-row">
+  <div class="accordeon-row-head" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+    <h3 class="accordeon-row-heading head-alt-xs">Kolik to bude stát?</h3>
+    <i class="ico--chevron-down"></i>
+  </div>
+  <div class="accordeon-row-body accordeon-row-body--classic">
+    <div>
+      <p><p data-block-key="3c659">Abychom splnili náš spojenecký závazek dosáhnout podílu obranných výdajů na HDP na úrovni 2 procent, musí se obranný rozpočet do roku 2024 navýšit každoročně o přibližně 15 miliard korun. V roce 2024 by měl tedy dosáhnout 133 miliard korun (v roce 2020 činil 76 miliard korun). S tímto také počítá Koncepce výstavby Armády České republiky.<a href="#zdroje"><sup>[12]</sup></a></p></p>
+    </div>
+  </div>
+</div>
+
+        
+          
+<div class="accordeon-row">
+  <div class="accordeon-row-head" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+    <h3 class="accordeon-row-heading head-alt-xs">Na co budou prostředky vynaloženy?</h3>
+    <i class="ico--chevron-down"></i>
+  </div>
+  <div class="accordeon-row-body accordeon-row-body--classic">
+    <div>
+      <p><p data-block-key="ds1xm">Prioritně musí resort obrany zajistit modernizaci vybavení Armády ČR v souladu s modernizačními plány. Dále musí ČR, a potažmo ozbrojené složky, reagovat na nové hrozby v mezinárodním prostředí, a to zejména hybridní hrozby. To s sebou nese investice jak do lidského kapitálu, tak do technického a technologického vybavení.</p><p data-block-key="inmxh">Pokud k výše uvedeným investicím nedojde, ČR nebude schopná dostát svým povinnostem a závazkům vyplývajícím z členství v NATO a hrozí, že se stane černým pasažérem a nespolehlivým partnerem.</p></p>
+    </div>
+  </div>
+</div>
+
+        
+          
+<div class="accordeon-row">
+  <div class="accordeon-row-head" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+    <h3 class="accordeon-row-heading head-alt-xs">Vidíte naopak v resortu prostor pro úspory? Kde?</h3>
+    <i class="ico--chevron-down"></i>
+  </div>
+  <div class="accordeon-row-body accordeon-row-body--classic">
+    <div>
+      <p><p data-block-key="lu24r">Úspory lze hledat každý rok na provozních výdajích. Na obraně se ale nejvíce uspoří, pokud se bude dobře a dlouhodobě plánovat, a velké investice se tak nebudou dít nahodile, nesystematicky a zbytečně.<a href="#zdroje"><sup>[19]</sup></a> Určitě nechceme šetřit na počtu vojáků nebo na investičních výdajích. Stejně tak platí, že každá koruna, kterou se nám podaří na obranu vynaložit v Česku, se bohatě vrátí skrze ekonomiku do státního rozpočtu.<a href="#zdroje"><sup>[20]</sup></a></p></p>
+    </div>
+  </div>
+</div>
+
+        
+          
+<div class="accordeon-row">
+  <div class="accordeon-row-head" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+    <h3 class="accordeon-row-heading head-alt-xs">Jak si představujete užší spolupráci v obraně na úrovni Evropské Unie?</h3>
+    <i class="ico--chevron-down"></i>
+  </div>
+  <div class="accordeon-row-body accordeon-row-body--classic">
+    <div>
+      <p><p data-block-key="srqko">Budeme podporovat zapojení České republiky do aktivit Evropské obranné agentury (EDA), například aktivity hodnotící kvalitu naší obrany (CARD), spolupráci na společném budování vojenských kapacit (PESCO) či projektů zvyšujících vojenskou mobilitu. Podporujeme též mise vysílané Evropskou unií, například EUTM do Mali.</p></p>
+    </div>
+  </div>
+</div>
+
+        
+          
+<div class="accordeon-row">
+  <div class="accordeon-row-head" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+    <h3 class="accordeon-row-heading head-alt-xs">Evropská obranná agentura (EDA) ve své poslední výroční zprávě definuje strategické priority bezpečnostní a obranné politiky EU. Mezi ně patří meziresortní otázky, včetně klimatické bezpečnosti. Navazuje váš program na strategickou koncepci EU a hodláte reflektovat její priority v rámci resortu?</h3>
+    <i class="ico--chevron-down"></i>
+  </div>
+  <div class="accordeon-row-body accordeon-row-body--classic">
+    <div>
+      <p><p data-block-key="p31n8">Spolupráce v rámci EU je pro nás klíčová, stejně jako podpora vědy a výzkumu. V návaznosti na shodu v Radě ohledně průniku problematiky obrany a změny klimatu budeme podporovat záměr navázat obranný výzkum na širší cíle Zelené dohody pro Evropu. </p><p data-block-key="o8dmo">Meziresortní problematikou je taktéž celoevropská mobilita, kde budeme podporovat udržování a výstavbu infrastruktury, která umožní efektivní přesuny ozbrojených sil. </p></p>
+    </div>
+  </div>
+</div>
+
+        
+          
+<div class="accordeon-row">
+  <div class="accordeon-row-head" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+    <h3 class="accordeon-row-heading head-alt-xs">Kybernetická bezpečnost patří také mezi otázky zasahující více resortů. Zároveň se dotýká dlouhodobých východisek pirátského programu. Jak se programové body pro resort obrany dotýkají datové bezpečnosti, ochrany soukromí a identity občanů a případně zpravodajské spolupráce se spojeneckými zeměmi, v nichž se s daty běžně nakládá způsobem, který neodpovídá evropským standardům a normám?</h3>
+    <i class="ico--chevron-down"></i>
+  </div>
+  <div class="accordeon-row-body accordeon-row-body--classic">
+    <div>
+      <p><p data-block-key="nce6d">Nastavíme obranu státu v kyberprostoru tak, aby neomezila právo na soukromí ani svobodné prostředí internetu.</p><p data-block-key="zxs9o">Česko bude v orgánech EU kategoricky vystupovat proti snahám nuceně prolamovat šifrování soukromé komunikace a v případě potřeby tento princip doplníme do ústavního pořádku. Zajistíme uložení osobních dat obyvatel v bezpečných datových centrech na území ČR. Podpoříme rozvoj státního cloudu, nedopustíme uložení citlivých dat v zahraničí.</p><p data-block-key="tj7wu">Zajistíme, že kyberobrana bude prioritou napříč resorty a zohlednění obranných aspektů, především v kyberprostoru, se stane nedílnou součástí chování každého resortu.</p></p>
+    </div>
+  </div>
+</div>
+
+        
+          
+<div class="accordeon-row">
+  <div class="accordeon-row-head" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+    <h3 class="accordeon-row-heading head-alt-xs">Hybridní hrozby z povahy věci přesahují resortní kompetence. Jak si prakticky představujete model meziresortní spolupráce na odstraňování hrozeb tohoto typu?</h3>
+    <i class="ico--chevron-down"></i>
+  </div>
+  <div class="accordeon-row-body accordeon-row-body--classic">
+    <div>
+      <p><p data-block-key="b0htj">Hybridní hrozby by měly být řešeny nadresortně na úřadu vlády a dále jednotlivými ministerstvy, kterých se týkají (obrana, vnitro, finance, školství, průmysl a obchod). Na řešení dezinformací máme vlastní programový bod.</p></p>
+    </div>
+  </div>
+</div>
+
+        
+          
+<div class="accordeon-row">
+  <div class="accordeon-row-head" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+    <h3 class="accordeon-row-heading head-alt-xs">Jakou družici chcete vyslat do vesmíru a proč?</h3>
+    <i class="ico--chevron-down"></i>
+  </div>
+  <div class="accordeon-row-body accordeon-row-body--classic">
+    <div>
+      <p><p data-block-key="aq6tu">Česká družice by měla mít přidanou hodnotu nejen pro naši bezpečnost, ale i celou ekonomiku, rozvoj vědy a průmyslu a zároveň přispívat k bezpečnosti našich partnerů. Největší aktuální hrozbou ve vesmíru je nedostatečné zabezpečení družicových systémů na oběžné dráze, na kterých je nejen závislé fungování našich bezpečnostních složek, ale i celé společnosti, a to zejména kvůli exponenciálnímu růstu množství satelitů, nebezpečné kosmické tříšti a nedostačujícím kapacitám na sledování kosmického provozu. Česká republika v tomto ohledu disponuje špičkovým vědeckým zázemím pro vývoj satelitního systému pro laserové sledování kosmických objektů a ničení kosmické tříště, čímž může přispět významnou kapacitou do aktivit kosmické bezpečnosti NATO a EU, a zároveň vybudovat světově unikátní obrannou kapacitu duálního charakteru.<a href="#zdroje"><sup>[21, 22, 23]</sup></a></p></p>
+    </div>
+  </div>
+</div>
+
+        
+          
+<div class="accordeon-row">
+  <div class="accordeon-row-head" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+    <h3 class="accordeon-row-heading head-alt-xs">Jaký je váš postoj k ratifikaci Smlouvy o zákazu jaderných zbraní, která vstoupila v platnost 22. 1. 2021 a ČR se dosud nepřipojila?</h3>
+    <i class="ico--chevron-down"></i>
+  </div>
+  <div class="accordeon-row-body accordeon-row-body--classic">
+    <div>
+      <p><p data-block-key="fixr2">Řada podporovatelů Smlouvy o zákazu jaderných zbraní (TPNW) je vedena šlechetnými úmysly. Reálně ale tato smlouva k jadernému odzbrojení nijak nepřispěje a nepovede ke snižování stavu arzenálů jaderných států. Smlouva má navíc potenciál oslabit jediný existující mezinárodní režim kontroly jaderného zbrojení, který vychází ze Smlouvy o nešíření jaderných zbraní (NPT), s jejímiž cíli se plně ztotožňujeme. Z těchto důvodů nepodporujeme, aby se k ní ČR připojila. Stejný postoj v tuto chvíli zastávají i všechny ostatní členské země NATO.</p></p>
+    </div>
+  </div>
+</div>
+
+        
+      </div>
+
+      
+        <h3 id="souvisejici-body" class="head-alt-base mb-8 mt-20">Související body:</h3>
+
+        <div class="carousel-card-list __js-root">
+          <ui-app inline-template>
+            <ui-carousel>
+              <!--<carousel :perPage="4" :perPageCustom="[ [200, 1], [768, 3], [1024, 4]]" :navigationEnabled="true" :navigationNextLabel="nextlabel" :navigationPrevLabel="prevlabel" class="article-card-list pt-12 pb-8">-->
+              <carousel :per-page=1 :navigation-enabled="true" class="article-card-list pb-8">
+
+                <slide>
+                  <div class="grid grid-cols-1 md:grid-cols-2 gap-2 md:gap-8">
+
+                    
+                      <div class="card shadow-none bg-grey-125 card--hoveractive">
+                        <div class="card__body">
+                          <h1 class="card-headline mb-8"><a href="https://www.piratiastarostove.cz/program/vyznamna-role-v-kosmickem-programu/">Významná role v kosmickém programu</a></h1>
+                          <div class="card-body-text"><a href="https://www.piratiastarostove.cz/program/vyznamna-role-v-kosmickem-programu/"><p data-block-key="s5oqq">Nastupme včas na palubu evropského kosmického výzkumu. Je to jedinečná příležitost pro naši ekonomiku, vědu i průmysl. Kapacity na to máme!</p></a></div>
+                        </div>
+                      </div>
+                      
+                    
+                      <div class="card shadow-none bg-grey-125 card--hoveractive">
+                        <div class="card__body">
+                          <h1 class="card-headline mb-8"><a href="https://www.piratiastarostove.cz/program/chytra-valka-s-dezinformatory/">Chytrá válka s dezinformátory</a></h1>
+                          <div class="card-body-text"><a href="https://www.piratiastarostove.cz/program/chytra-valka-s-dezinformatory/"><p data-block-key="1xw28">Pravda zatím bohužel nevítězí. Dezinformátoři tahají za nos čtvrtinu z nás. Pojďme pravdě pomoci na světlo. Edukativně i právně.</p></a></div>
+                        </div>
+                      </div>
+                      
+                    
+                      <div class="card shadow-none bg-grey-125 card--hoveractive">
+                        <div class="card__body">
+                          <h1 class="card-headline mb-8"><a href="https://www.piratiastarostove.cz/program/dusledna-obrana-v-kyberprostoru/">Důsledná obrana v kyberprostoru</a></h1>
+                          <div class="card-body-text"><a href="https://www.piratiastarostove.cz/program/dusledna-obrana-v-kyberprostoru/"><p data-block-key="rujer">Bojištěm 21. století je internet. Připravme se, že na něm budeme svádět bitvy! Opevněme nemocnice proti kyberútokům, braňme svá osobní data.</p></a></div>
+                        </div>
+                      </div>
+                      
+                    
+                      <div class="card shadow-none bg-grey-125 card--hoveractive">
+                        <div class="card__body">
+                          <h1 class="card-headline mb-8"><a href="https://www.piratiastarostove.cz/program/duslednejsi-ochrana-osobnich-udaju-a-soukromi/">Důslednější ochrana osobních údajů a soukromí</a></h1>
+                          <div class="card-body-text"><a href="https://www.piratiastarostove.cz/program/duslednejsi-ochrana-osobnich-udaju-a-soukromi/"><p data-block-key="qlcj2">Velký bratr do rodiny nepatří! Omezme možnosti státu i firem zneužít osobní údaje ke sledování, marketingu či ovlivňování sociálními sítěmi.</p></a></div>
+                        </div>
+                      </div>
+                      
+                          </div>
+                        </slide>
+                        <slide>
+                          <div class="grid grid-cols-1 md:grid-cols-2 gap-2 md:gap-8">
+                      
+                    
+                      <div class="card shadow-none bg-grey-125 card--hoveractive">
+                        <div class="card__body">
+                          <h1 class="card-headline mb-8"><a href="https://www.piratiastarostove.cz/program/vyzkumem-a-inovacemi-na-svetovou-uroven/">Výzkumem a inovacemi na světovou úroveň</a></h1>
+                          <div class="card-body-text"><a href="https://www.piratiastarostove.cz/program/vyzkumem-a-inovacemi-na-svetovou-uroven/"><p data-block-key="modmz">Český výzkum může patřit ke světové elitě. Stačí mu vytvořit podmínky. Dejme mu průhlednou a stabilní podporu s důrazem na hodnocení kvality.</p></a></div>
+                        </div>
+                      </div>
+                      
+                    
+                      <div class="card shadow-none bg-grey-125 card--hoveractive">
+                        <div class="card__body">
+                          <h1 class="card-headline mb-8"><a href="https://www.piratiastarostove.cz/program/zahranicni-politika-stojici-na-hodnotach/">Zahraniční politika stojící na hodnotách</a></h1>
+                          <div class="card-body-text"><a href="https://www.piratiastarostove.cz/program/zahranicni-politika-stojici-na-hodnotach/"><p data-block-key="8dt9h">Ukažme světu, že máme páteř. Aktivní zahraniční politikou znovu prokazujme smysl pro demokracii, lidská práva nebo klimatickou odpovědnost.</p></a></div>
+                        </div>
+                      </div>
+                      
+                    
+
+                  </div>
+                </slide>
+
+              </carousel>
+            </ui-carousel>
+          </ui-app>
+        </div>
+      
+
+      <h3 id="zdroje" class="head-alt-base mb-8 mt-20">Klidně si to ověřte</h3>
+      <div class="content-block">
+        
+                    <div id="zdroj1" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[1]</div>
+                      <div class="inline-block align-top max-w-2xl">Global Peace Index 2020. Červen 2020 [cit. 2. 4. 2021]. Dostupné <a class="text-fxactivecolor underline" href="https://www.visionofhumanity.org/wp-content/uploads/2020/10/GPI_2020_web.pdf">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj2" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[2]</div>
+                      <div class="inline-block align-top max-w-2xl">ZWACK, Peter B. a PIERRE, Marie-Charlotte. Russian Challenges from Now into the Next Generation: A Geostrategic Primer. Strategic Perspectives 29. 25. 3. 2019 [cit. 2. 4. 2021]. Dostupné <a class="text-fxactivecolor underline" href="https://ndupress.ndu.edu/Media/News/News-Article-View/Article/1795022/russian-challenges-from-now-into-the-next-generation-a-geostrategic-primer/">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj3" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[3]</div>
+                      <div class="inline-block align-top max-w-2xl">BLAIR, Tony. Resetting the West's Relationship With China. 25. 6. 2020 [cit. 2. 4. 2021]. Dostupné<a class="text-fxactivecolor underline" href="https://institute.global/policy/resetting-wests-relationship-china"> zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj4" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[4]</div>
+                      <div class="inline-block align-top max-w-2xl">Migratory Map FRONTEX 2021 [cit. 2. 4. 2021]. Dostupné <a class="text-fxactivecolor underline" href="https://frontex.europa.eu/we-know/migratory-map/">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj5" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[5]</div>
+                      <div class="inline-block align-top max-w-2xl">SANTAMATO, Stefano a BEUMLER, Marie-Theres. The New NATO Policy Guidelines on Counterterrorism: Analysis, Assessments, and Actions. Strategic Perspectives 13. Únor 2013 [cit. 2. 4. 2021]. Dostupné <a class="text-fxactivecolor underline" href="https://inss.ndu.edu/Portals/68/Documents/stratperspective/inss/Strategic-Perspectives-13.pdf">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj6" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[6]</div>
+                      <div class="inline-block align-top max-w-2xl">EU's response to the terrorist threat European Council – Council of the European Union. 18. 3. 2021 [cit. 2. 4. 2021]. Dostupné <a class="text-fxactivecolor underline" href="https://www.consilium.europa.eu/en/policies/fight-against-terrorism/">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj7" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[7]</div>
+                      <div class="inline-block align-top max-w-2xl">La lutte contre le terrorisme. Dossiers de l’OTAN. NATO-OTAN. March 25. 3. 2021 [cit. 2. 4. 2021]. Dostupné <a class="text-fxactivecolor underline" href="https://www.nato.int/cps/fr/natohq/topics_77646.htm?selectedLocale=fr">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj8" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[8]</div>
+                      <div class="inline-block align-top max-w-2xl">GDP (Current US$). The World Bank Group 2021 [cit. 2. 4. 2021]. Dostupné <a class="text-fxactivecolor underline" href="https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?most_recent_value_desc=true">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj9" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[9]</div>
+                      <div class="inline-block align-top max-w-2xl">Overall Ranking 2019. The Soft Power 30. Portland Communications, USC Center on Public Diplomacy [cit. 2. 4. 2021]. Dostupné <a class="text-fxactivecolor underline" href="https://softpower30.com/">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj10" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[10]</div>
+                      <div class="inline-block align-top max-w-2xl">Trends in World Military Expenditure. 2019. SIPRI Factsheet April 2020. Stockholm International Peace Research Institute 2020 [cit. 2. 4. 2021]. Dostupné <a class="text-fxactivecolor underline" href="https://www.sipri.org/sites/default/files/2020-04/fs_2020_04_milex_0.pdf">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj11" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[11]</div>
+                      <div class="inline-block align-top max-w-2xl">WITNEY, Nick. Re-energising Europe’s Security and Defence Policy. European Council on Foreign Relations. 29. 7. 2008 [cit. 2. 4. 2021]. Dostupné <a class="text-fxactivecolor underline" href="https://ecfr.eu/publication/re_energising_europes_security_and_defence_policy/">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj12" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[12]</div>
+                      <div class="inline-block align-top max-w-2xl">Koncepce výstavby Armády České republiky 2030. MOČR – VÚH Praha. 2019 [cit. 12. 4. 2021]. Dostupné <a class="text-fxactivecolor underline" href="https://www.acr.army.cz/images/id_40001_50000/46088/koncepce__2030.pdf">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj13" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[13]</div>
+                      <div class="inline-block align-top max-w-2xl">Binding Commitments. PESCO [cit. 12. 4. 2021]. Dostupné <a class="text-fxactivecolor underline" href="https://pesco.europa.eu/binding-commitments/">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj14" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[14]</div>
+                      <div class="inline-block align-top max-w-2xl">LIBERTI, Fabio. Defence spending in Europe: Can we do better without spending more? Notre Europe, 6/2011 [cit. 2. 4. 2021]. Dostupné <a class="text-fxactivecolor underline" href="http://institutdelors.eu/wp-content/uploads/2018/01/policy46_fliberti_en.pdf">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj15" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[15]</div>
+                      <div class="inline-block align-top max-w-2xl">Defence Expenditure of NATO Countries (2013–2020). COMMUNIQUEPR/CP(2021)030 NATO-OTAN, 16. 3. 2021 [cit. 2. 4. 2021]. Dostupné <a class="text-fxactivecolor underline" href="https://www.nato.int/nato_static_fl2014/assets/pdf/2021/3/pdf/210316-pr-2020-30-en.pdf">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj16" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[16]</div>
+                      <div class="inline-block align-top max-w-2xl">Eurostat. Government expenditure on defence. 2/2021 [cit. 2. 4. 2021]. Dostupné <a class="text-fxactivecolor underline" href="https://ec.europa.eu/eurostat/statistics-explained/index.php/Government_expenditure_on_defence#Expenditure_on_.27defence.27_by_type_of_transaction">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj17" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[17]</div>
+                      <div class="inline-block align-top max-w-2xl">Statement on the implementation of the Joint Declaration signed by the President of the European Council, the President of the European Commission, and the Secretary General of the North Atlantic Treaty Organization. NATO-OTAN. 6. 12. 2016 [cit. 2. 4. 2021]. Dostupné <a class="text-fxactivecolor underline" href="https://www.nato.int/cps/en/natohq/official_texts_138829.htm">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj18" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[18]</div>
+                      <div class="inline-block align-top max-w-2xl">European Defence Agency Annual Report 2020. EDA 2021 [cit. 2. 4. 2021]. Dostupné <a class="text-fxactivecolor underline" href="https://eda.europa.eu/docs/default-source/eda-annual-reports/eda-annual-report-2020.pdf">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj19" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[19]</div>
+                      <div class="inline-block align-top max-w-2xl">YOUNG, Thomas-Durell. What are Governments in Central and Eastern Europe not Buying with their Defence Budgets? The Readiness Clue, The RUSI Journal, 164:2. 30. 5. 2019. str. 36–55. Dostupné <a class="text-fxactivecolor underline" href="https://rusi.org/publication/rusi-journal/what-are-governments-central-and-eastern-europe-not-buying-their-defence">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj20" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[20]</div>
+                      <div class="inline-block align-top max-w-2xl">KOPEČNÝ, Tomáš. Analýza dopadů obranných akvizic na národní ekonomiku. SPSP MO ČR, 5. 5. 2020 [cit. 12. 4. 2021]. Dostupné <a class="text-fxactivecolor underline" href="https://www.spsp.army.cz/files/dokumenty/nesmazatelna-stranka/analyza_dopadu_obrannych_akvizic_na_narodni_ekonomiku.pdf">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj21" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[21]</div>
+                      <div class="inline-block align-top max-w-2xl">V laserovém centru HiLASE a v Toskánském paláci na Hradčanském náměstí v Praze proběhly workshopy aplikací výkonových laserů, více <a class="text-fxactivecolor underline" href="https://www.hilase.cz/wp-content/uploads/Popularizace-%C4%8Cs.%C4%8Das.fyz_.pdf">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj22" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[22]</div>
+                      <div class="inline-block align-top max-w-2xl">Více o HiLase <a class="text-fxactivecolor underline" href="https://www.hilase.cz/">zde</a>.</div>
+                    </div>
+                    
+        <div id="zdroj23" class="source leading-loose text-sm">
+          <div class="inline-block align-top w-9 text-fxactivecolor">[23]</div>
+          <div class="inline-block align-top max-w-2xl">Více o ELI Beamlines <a class="text-fxactivecolor underline" href="https://www.eli-beams.eu/cs/">zde</a>.</div>
+        </div>
+        
+      </div>
+
+    </div>
+
+    <div class="container-collapsible-button-container w-full">
+      <button class="container-collapsible-button btn btn--icon text-lg block mx-auto" onclick="this.parentElement.parentElement.classList.add('container-collapsible-open');">
+        <div class="btn__body-wrap">
+          <div class="btn__body py-8 leading-4">Zobrazit více</div>
+          <div class="btn__icon px-8 bg-grey-800 border-grey-500">
+            <i class="ico--chevron-right"></i>
+          </div>
+        </div>
+      </button>
+    </div>
+
+  </div>
+</div>
+
+<script>
+  /*should run once on any page accordeon rows with fadeouts are present*/
+  document.addEventListener("DOMContentLoaded", setMaxHeightsFadeouts);
+  window.addEventListener('resize', setMaxHeightsFadeouts);
+
+  function setMaxHeightsFadeouts() {
+    // set height for css transition
+    var accordeonRowBodies = document.getElementsByClassName('accordeon-row-body--fadeout');
+
+    if (accordeonRowBodies !== null) {
+      for (var i = 0; i < accordeonRowBodies.length; i++) {
+        accordeonRowBodies[i].style.maxHeight = (parseInt(accordeonRowBodies[i].scrollHeight) + 32) + "px";
+      }; /*plus padding*/
+    }
+  }
+
+  document.addEventListener("DOMContentLoaded", setMaxHeights);
+  window.addEventListener('resize', setMaxHeights);
+
+  function setMaxHeights() {
+    // set height for css transition
+    var accordeonRowBodies = document.getElementsByClassName('accordeon-row-body--classic');
+
+    if (accordeonRowBodies !== null) {
+      for (var i = 0; i < accordeonRowBodies.length; i++) {
+        accordeonRowBodies[i].style.maxHeight = accordeonRowBodies[i].scrollHeight + "px";
+      };
+    }
+  }
+</script>

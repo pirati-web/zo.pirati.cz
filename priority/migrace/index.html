@@ -1,0 +1,453 @@
+---
+layout: default
+title:  Priority ZO - Migrace
+description: Priority ZO Migrace
+keywords: Priority ZO -Migrace
+---
+
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="https://www.piratiastarostove.cz/static/elections2021/images/favicon-bw-180.png" sizes="180x180">
+  <link rel="icon" type="image/png" href="https://www.piratiastarostove.cz/static/elections2021/images/favicon-bw-120.png" sizes="120x120">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="https://www.piratiastarostove.cz/static/elections2021/css/styleguide.min.css">
+  <link rel="stylesheet" href="https://www.piratiastarostove.cz/static/elections2021/css/styles.css">
+  <style type="text/css">
+    sup {
+      white-space: nowrap;
+    }
+    .head-alt-highlighted {
+      line-height: 1.2 !important;
+    }
+  </style>
+
+
+
+<div class="side-cta-panel--filter" id="side-cta-filter"></div>
+
+<div class="side-cta-panel-bar-wrapper">
+  <div class="side-cta-panel-bar" id="cta-side-bar" onclick="document.body.classList.add('ctaopen');getElementById('side-cta-filter').classList.add('side-cta-panel--filter--ctaopen');getElementById('cta-side').classList.add('side-cta-panel--ctaopen');">
+    <div class="side-cta-panel-bar--toggler"></div>
+    <div class="side-cta-panel-bar-el img-news bg-acidgreen elevation-6 hover:bg-darkacidgreen hover:elevation-1 transition-all cursor-pointer"></div>
+    <div class="side-cta-panel-bar-el img-help bg-lemon elevation-6 hover:bg-opacity-70 hover:elevation-1 transition-all cursor-pointer"></div>
+    <div class="side-cta-panel-bar-el img-support bg-white elevation-6 hover:bg-opacity-70 hover:elevation-1 transition-all cursor-pointer"></div>
+  </div>
+</div>
+
+    
+<div class="container container-default pt-4 pb-20">
+  <div class="w-full lg:w-4/6 relative container-collapsible">
+
+    <div class="floating-nav-wrapper hidden xl:block" id="floatingNavBarWrapper">
+      <div class="floating-nav-panel " id="floatingNavBar">
+        <div class="opener py-6 pb-16 px-11 bg-acidgreen text-white font-alt">
+          RYCHLÁ NAVIGACE
+        </div>
+        <div class="inner float-panel-inner elevation-2">
+          <ul>
+            <li><a href="#takhle-to-dal-nejde">Takhle to dál nejde</a></li>
+            <li><a href="#v-cem-je-problem">V čem je problém</a></li>
+            <li><a href="#nase-vize">Naše vize</a></li>
+            <li><a href="#jak-to-chceme-udelat" class="active">Jak to chceme udělat?</a></li>
+            <li><a href="#kolik-na-to-chceme-casu">Kolik na to chceme času?</a></li>
+            
+              <li><a href="#pro-koho-to-chceme-hlavne">Pro koho to chceme hlavně</a></li>
+            
+            <li><a href="#co-pro-to-uz-delame">Co pro to už děláme</a></li>
+            <li><a href="#na-co-se-nas-casto-ptate">Na co se nás často ptáte</a></li>
+            
+              <li><a href="#souvisejici-body">Související body</a></li>
+            
+            <li><a href="#zdroje">Klidně si to ověřte</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      window.addEventListener("load", onLoadFunction);
+      var anchorsArray = [];
+
+      function placeUponId(id, space) {
+        return document.getElementById(id).getBoundingClientRect().top + window.scrollY - space;
+      }
+
+      function onLoadFunction(e) {
+        var anchorElemsArray;
+        onResizeFunction();
+        for (const entry of anchorsArray) {
+          entry.menuitem.addEventListener("click", clickHandler);
+        }
+
+        function clickHandler(e) {
+          e.preventDefault();
+          var id = this.getAttribute("href").replace("#", "");
+          console.log(placeUponId(id, 20));
+          scroll({
+            top: placeUponId(id, 20),
+            behavior: "smooth"
+          });
+        }
+
+
+        window.addEventListener("resize", onResizeFunction);
+      }
+
+      function onResizeFunction(e) {
+        var itemsProcessed = 0;
+        var anchorElemsArray = document.getElementsByClassName("float-panel-inner")[0].querySelectorAll("li a");
+        anchorsArray = [];
+        anchorElemsArray.forEach(function(entry) {
+          var id = entry.getAttribute("href").replace("#", "");
+          anchorsArray.push({
+            id: id,
+            top: placeUponId(id, 200),
+            menuitem: entry
+          });
+          itemsProcessed++;
+          if (itemsProcessed === anchorElemsArray.length) {
+            anchorsArray.reverse();
+          }
+        });
+        console.log(anchorsArray);
+      }
+      window.onscroll = function() {
+        var top = window.pageYOffset || document.documentElement.scrollTop;
+        var activereached = false;
+        anchorsArray.forEach(function(entry) {
+          entry.menuitem.classList.remove("active");
+          entry.menuitem.classList.remove("passed");
+          if (top >= placeUponId(entry.id, 200)) {
+            if (activereached) entry.menuitem.classList.add("passed");
+            else entry.menuitem.classList.add("active");
+            activereached = true;
+          }
+        });
+      };
+    </script>
+
+    <header class="w-full md:w-5/6">
+      <div class="mt-10 md:mt-12">
+        <h1 class="head-alt-md md:head-alt-lg head-alt-highlighted">Migrace</h1>
+        <h2 class="head-alt-sm md:head-alt-md mb-20 mt-9">
+          <div class="leading-tight"><p data-block-key="8uph2">V EU prosazujeme ochranu vnějších hranic a prevenci nelegální migrace, ne kvóty. Pro cizince s legálním pobytem chceme férový přístup.</p></div>
+        </h2>
+      </div>
+    </header>
+
+    <div class="problem-pack">
+      <section id="takhle-to-dal-nejde" class="program-detail-problem-solution mb-20">
+
+        <div class="problem-cross"><i class="ico--thincross text-xs sm:text-xl text-white"></i></div>
+        <div class="problem-inner content-block">
+
+          <h2 class="head-alt-sm md:head-alt-md mb-9">Takhle to dál nejde</h2>
+          <p class="text-base mb-8 para">
+            <p data-block-key="14w2r">Počet cizinců v Česku dlouhodobě roste, přesáhl již 600 tisíc.<a href="#zdroje"><sup>[1]</sup></a> Bez zvládnuté integrace může ve společnosti docházet k pnutí. Téma migrace zneužívají extremisté a populistický přístup komplikuje postavení Česka v EU. Cizinecké řízení je zatíženo zbytečnou byrokracií.</p>
+          </p>
+
+          <div id="v-cem-je-problem">
+            <div class="accordeon-row accordeon-row--fadeout h-full">
+              <div class="accordeon-row-head" v-on:click="toggleElement" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+                <h3 class="accordeon-row-heading head-alt-xs mb-0">V čem je problém</h3>
+                <i class="ico--chevron-down"></i>
+              </div>
+              <div class="accordeon-row-body accordeon-row-body--fadeout" style="height: 220px; max-height: 560px;">
+                <div>
+                  <p data-block-key="j65ck">Česko je pro cizince atraktivní zemí, mimo jiné kvůli stabilní bezpečnostní situaci, dlouhodobě rostoucí ekonomice, ze které plyne zájem o zahraniční pracovníky, a kvalitnímu vysokému školství, které láká zahraniční studenty. Pracovní migrace představuje nedílnou součást české ekonomiky a v případě oborů s vysokou přidanou hodnotou také přináší zahraniční zkušenosti do Česka. Česko je na 5. místě v rámci zemí EU co do rychlosti růstu počtu cizinců na počet obyvatel.<a href="#zdroje"><sup>[2]</sup></a> Legálně jich zde pobývá přes 600 tisíc a jejich počet nadále stoupá. Stát stojí před výzvou, jak dát možnost cizincům se kvalitně integrovat, jak po stránce ekonomické, tak společenské.</p><p data-block-key="ljw6k">Nelegální migrace cizinců přes území ČR také představuje významné bezpečnostní riziko, které vyžaduje náležitou pozornost v úzké spolupráci s našimi sousedy.<a href="#zdroje"><sup>[1]</sup></a> </p><p data-block-key="akrbk">Migrační krize z let 2015-2016 ukázala neudržitelnost<a href="#zdroje"><sup>[3]</sup></a> stávajícího evropského přístupu. Uprchlické kvóty, tedy povinné přerozdělování žadatelů o azyl mezi členské státy EU, selhaly. V roce 2020 Evropská komise předložila "Nový pakt o migraci a azylu"<a href="#zdroje"><sup>[4]</sup></a> jako plán reformy v oblasti migrační a azylové politiky na evropské úrovni. Diskuze nad ním se stane předmětem odborných debat i politických stanovisek.</p><p data-block-key="xux1c">Na poli mezinárodní ochrany se situace od roku 2015 výrazně uklidnila.<a href="#zdroje"><sup>[5]</sup></a> Do budoucna je však kvůli nestabilní mezinárodní situaci a zhoršující se klimatické krizi nutno počítat s dalším možným nárůstem počtu příchozích.<a href="#zdroje"><sup>[6]</sup></a></p><p data-block-key="ci7rn">Migrační krize na jednu stranu vyvolala mezi lidmi přirozené obavy a nejistotu, na druhou stranu vytvořila hlubokou dělící linii ve společnosti. Někteří politici ji navíc zneužili k šíření protievropských a nacionalistických nálad.</p>
+                </div>
+              </div>
+              <button class="btn btn--icon absolute bottom-8 left-8" onclick="this.parentElement.classList.add('accordeon-row--open');">
+                <div class="btn__body-wrap">
+                  <div class="btn__body bg-acidgreen -bottom-20 text-black py-4">Zobrazit více</div>
+                  <div class="btn__icon bg-black">
+                    <i class="ico--chevron-right"></i>
+                  </div>
+                </div>
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <div id="nase-vize" class="ideal-check"><i class="ico--check text-xs sm:text-xl text-black"></i></div>
+        <div class="ideal-inner bg-lemon content-block">
+          <h2 class="head-alt-sm md:head-alt-md mb-9">Naše vize</h2>
+          <p class="text-base">
+            <p data-block-key="244c9">Česko v EU prosadí odpovědný přístup k migraci zahrnující řešení bez kvót, prevenci nelegální migrace a ochranu vnějších hranic. Na domácí půdě zbavíme cizinecké řízení zbytečné byrokracie a integrační programy umožní cizincům stát se plnohodnotnou součástí společnosti.</p>
+          </p>
+        </div>
+
+      </section>
+    </div>
+
+    <div id="jak-to-chceme-udelat" class="container-collapsible-content" style="height: 50vh;">
+
+      <h3 class="head-alt-base mb-8">Jak to chceme udělat?</h3>
+      <div class="content-block">
+        <h4 class="pl-11 font-bold text-xl mb-4" data-block-key="s63yl">Evropa</h4><ul class="unordered-list unordered-list-checks"><li class="mb-4" data-block-key="fluh3">V přístupu k migraci prosazujeme odpovědná, bezpečná a humánní řešení bez povinného přerozdělování tzv. kvót. Solidarita má být dobrovolná.</li><li class="mb-4" data-block-key="78cpb">Podpoříme spolupráci EU se zeměmi, které jsou zdrojem migrace nebo přes ně vedou migrační trasy. Chceme předcházet nelegální migraci již mimo území EU.</li><li class="mb-4" data-block-key="4inrk">Podpoříme posílení ochrany vnějších hranic EU včetně zavedení tzv. pre-screeningu a hraničního řízení o azylových žádostech.</li><li class="mb-4" data-block-key="jqi31">Podpoříme spolupráci mezi státy EU v oblasti azylu a návratové politiky, včetně reformy agentury FRONTEX.</li><li class="mb-4" data-block-key="j7l32">Podpoříme politiku sponzorovaných návratů.</li><li class="mb-4" data-block-key="hw8l9">Posílíme sdílení informací v rámci EU s důrazem na ochranu osobních údajů.</li></ul><h4 class="pl-11 font-bold text-xl mb-4" data-block-key="dcwjy">Česko</h4><ul class="unordered-list unordered-list-checks"><li class="mb-4" data-block-key="16e74">Nastavíme férová pravidla pro vstup cizinců na pracovní trh, zohledníme zájmy zaměstnavatelů i obcí. Pracovní agentury, zaměstnavatelé a univerzity musí nést za své pracovníky a studenty z ciziny svůj díl odpovědnosti a zajistit jim odpovídající podmínky k pobytu.</li><li class="mb-4" data-block-key="m0ff2">Podpoříme digitalizaci cizineckého řízení. Systém pro vyřizování pobytu má být přívětivý a důstojný. Cizinec, který respektuje zákony, by měl mít proces prodloužení pobytu zjednodušený.</li><li class="mb-4" data-block-key="94ge2">Podporujeme integraci cizinců, zejména z řad studentů a pracovníků s vysokou přidanou hodnotou.<a href="#zdroje"><sup>[7]</sup></a></li><li class="mb-4" data-block-key="a8cnb">Podpoříme integraci podle místních potřeb. Vedle potřeb cizinců a zaměstnavatelů budeme řešit i podporu rozvoje návazné infrastruktury, jako je lékařská péče, školy, školky, terénní a sociální služby a ubytování. Posílíme zapojení dotčených orgánů státní správy a místní samosprávy.</li><li class="mb-4" data-block-key="uz116">Chceme proces integrace na principu postupného nabývání práv až k zisku občanství.</li><li class="mb-4" data-block-key="y8sbp">Podporujeme řešení příčin migrace v místech jejího vzniku, boj proti převaděčství a organizovanému zločinu.</li><li class="mb-4" data-block-key="0tem1">V případě katastrof a konfliktů zvážíme možnosti, kterými může ČR konkrétně pomoci zranitelným osobám žádajícím o ochranu.</li></ul>
+      </div>
+
+      <div id="kolik-na-to-chceme-casu" class="grid grid-cols-1 gap-8 my-20">
+        
+        
+          <div class="card shadow-none bg-grey-125">
+            <div class="card__body content-block">
+              <h3 class="card-headline mb-8">Kolik na to chceme času?</h3>
+              <p class="card-body-text para"><p data-block-key="23wdy">Bude to kontinuální proces během celého volebního období se snahou o dlouhodobý a udržitelný efekt.</p></p>
+            </div>
+          </div>
+        
+      </div>
+
+      
+        <h3 id="pro-koho-to-chceme-hlavne" class="head-alt-base mb-8 mt-20">Pro koho to chceme hlavně</h3>
+      
+
+      
+        <div class="program-detail-benefity my-8 grid grid-cols-1 sm:grid-cols-2 gap-4 lg:gap-8">
+          
+            
+<div class="benefit">
+  <img src="https://www.piratiastarostove.cz/static/elections2021/images/benefits/8.191fffeb5c56.jpg">
+  <div class="benefit-detail bg-acidgreen">
+    <p class="head-heavy-sm w-full">Pro nás pro všechny</p>
+    <div class="text-sm"><p data-block-key="tysvl">Odpovědným přístupem k migraci snížíme její negativní dopady. Kvalitní integrací obohatíme ekonomiku i společnost.</p></div>
+  </div>
+</div>
+
+          
+        </div>
+      
+
+      
+
+      
+
+      <h3 id="co-pro-to-uz-delame" class="head-alt-base mt-20 mb-10">Co pro to už děláme</h3>
+      <div class="content-block">
+        <p data-block-key="1ruaw"></p><ul class="unordered-list unordered-list-checks"><li class="mb-4" data-block-key="aba62">Poslanci František Kopřiva a Jan Farský interpelovali ministra vnitra, jak Česko pomůže Řecku s přetíženými uprchlickými tábory. Dostupné <a href="https://www.psp.cz/eknih/2017ps/stenprot/058schuz/s058120.htm">zde</a> a <a href="https://www.psp.cz/eknih/2017ps/stenprot/027schuz/s027260.htm">zde</a>.</li><li class="mb-4" data-block-key="8jexo">Piráti se vymezili vůči <a href="https://plus.rozhlas.cz/migrace-potrebuje-pravidla-odmitnutim-paktu-osn-jsme-problem-odlozili-veri-7672173">nekonstruktivnímu přístupu české vlády</a> ve věci odmítnutí Globálního paktu OSN o migraci.</li><li class="mb-4" data-block-key="va2jk">Prosadili jsme skrze senátní úpravu zjednodušení byrokracie pro studenty ze zahraničí. Původní pozměňovací návrh pod číslem 1990 je <a href="https://www.psp.cz/sqw/historie.sqw?t=203&amp;o=8">zde</a>.</li></ul>
+      </div>
+
+      <h3 id="na-co-se-nas-casto-ptate" class="head-alt-base mb-8 mt-20">Na co se nás často ptáte</h3>
+      <div class="space-y-1">
+        
+          
+<div class="accordeon-row">
+  <div class="accordeon-row-head" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+    <h3 class="accordeon-row-heading head-alt-xs">Jak Česko v historii humanitárně pomáhalo při katastrofách a konfliktech?</h3>
+    <i class="ico--chevron-down"></i>
+  </div>
+  <div class="accordeon-row-body accordeon-row-body--classic">
+    <div>
+      <p><p data-block-key="aqqdl">Počátkem 90. let přišlo do ČR 6 tisíc válečných uprchlíků z bývalé Jugoslávie. Koncem 90. let pak tehdejší vláda Miloše Zemana poskytla v tuzemsku útočiště pro zhruba tisíc osob prchajících z válkou zasaženého Kosova. Je potřeba si uvědomit, že migrace není jenom strašák, ale že cizinci pracují v obchodech, průmyslu, stavebnictví, zemědělství či jako řemeslníci, a pokud se tak děje kontrolovaně a legálně, jsou tito lidé na trhu práce potřeba a zvyšuje se díky nim životní úroveň celé společnosti.</p></p>
+    </div>
+  </div>
+</div>
+
+        
+          
+<div class="accordeon-row">
+  <div class="accordeon-row-head" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+    <h3 class="accordeon-row-heading head-alt-xs">Co je myšleno pre-screeningem na vnějších hranicích EU?</h3>
+    <i class="ico--chevron-down"></i>
+  </div>
+  <div class="accordeon-row-body accordeon-row-body--classic">
+    <div>
+      <p><p data-block-key="5zmwh">Zavedením pre-screeningu se myslí společný postup v rámci hraničních kontrol na vnějších hranicích EU, včetně možnosti zajištění, přičemž obdobná opatření by platila i pro nelegální migranty zachycené na území EU.</p></p>
+    </div>
+  </div>
+</div>
+
+        
+          
+<div class="accordeon-row">
+  <div class="accordeon-row-head" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+    <h3 class="accordeon-row-heading head-alt-xs">Co všechno téma migrace zahrnuje?</h3>
+    <i class="ico--chevron-down"></i>
+  </div>
+  <div class="accordeon-row-body accordeon-row-body--classic">
+    <div>
+      <p><p data-block-key="2k88y">Problematika migrace zahrnuje migraci legální, např. zaměstnávání cizinců nebo studium cizinců na vysokých školách. Důraz klademe na migraci s vysokou přidanou hodnotou pro vědu a výzkum. Dalším typem je migrace nelegální, např. pobyt na území bez pobytového oprávnění či nelegální překročení státních hranic. Specifický fenomén přestavuje uprchlictví, přičemž každý cizinec může v Česku podle mezinárodních smluv žádat o mezinárodní ochranu. Řešením otázek souvisejících s migrací se zabývá migrační a azylová politika, jejíž dimenze je národní a evropská.</p></p>
+    </div>
+  </div>
+</div>
+
+        
+          
+<div class="accordeon-row">
+  <div class="accordeon-row-head" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+    <h3 class="accordeon-row-heading head-alt-xs">Co uděláte pro lidi, kteří chtějí do Česka přijít jako vědci, studenti a pracovníci s vysokou přidanou hodnotou?</h3>
+    <i class="ico--chevron-down"></i>
+  </div>
+  <div class="accordeon-row-body accordeon-row-body--classic">
+    <div>
+      <p><p data-block-key="der99">Studenti, kteří do Česka přicházejí studovat buď na základě výběru, nebo z důvodu nutnosti opustit svou zemi, nebo zaměstnanci či vědci s vysokou přidanou hodnotou pro vědu, výzkum a společnost jsou pro Česko potenciál a přínos. Daná univerzita či zaměstnavatel jsou morálně povinni nabídnout těmto lidem pomoc s integrací a jsou morálně zodpovědni za jejich pobytová oprávnění. Zasadíme se o přísun financí do vědy, výzkumu a vzdělávání za účelem podpory integrace vědců, studentů a pracovníků s vysokou přidanou hodnotou.</p></p>
+    </div>
+  </div>
+</div>
+
+        
+          
+<div class="accordeon-row">
+  <div class="accordeon-row-head" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+    <h3 class="accordeon-row-heading head-alt-xs">V jakých krajích je dnes problém s integrací?</h3>
+    <i class="ico--chevron-down"></i>
+  </div>
+  <div class="accordeon-row-body accordeon-row-body--classic">
+    <div>
+      <p><p data-block-key="lkg0c">Česko se potýká s problémy s integrací zejména v oblastech s výskytem zahraničních pracovníků na agenturní práci. Jedná se zejména o Plzeňský, Středočeský a Královéhradecký kraj. Tyto oblasti se potýkají s problémem segregace zahraničních zaměstnanců na ubytovnách v okolí pracoviště, čímž nedochází k jejich integraci ve společnosti.</p></p>
+    </div>
+  </div>
+</div>
+
+        
+          
+<div class="accordeon-row">
+  <div class="accordeon-row-head" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+    <h3 class="accordeon-row-heading head-alt-xs">Co vlastně znamená integrace? Co je tím myšleno?</h3>
+    <i class="ico--chevron-down"></i>
+  </div>
+  <div class="accordeon-row-body accordeon-row-body--classic">
+    <div>
+      <p><p data-block-key="jflle">Integrací se rozumí proces začleňování člověka do společnosti. V ideálním případě probíhá oboustranně. Každý cizinec, který chce pobývat v Česku, má nárok na žádost o pobyt za určitých podmínek. Naším cílem není mu podmínky ztěžovat, ale nabídnout mu k využití široký prostor pro jeho začlenění se do kultury života v místě, kde o pobyt žádá. S tímto úzce souvisí znalost českého jazyka.</p></p>
+    </div>
+  </div>
+</div>
+
+        
+      </div>
+
+      
+        <h3 id="souvisejici-body" class="head-alt-base mb-8 mt-20">Související body:</h3>
+
+        <div class="carousel-card-list __js-root">
+          <ui-app inline-template>
+            <ui-carousel>
+              <!--<carousel :perPage="4" :perPageCustom="[ [200, 1], [768, 3], [1024, 4]]" :navigationEnabled="true" :navigationNextLabel="nextlabel" :navigationPrevLabel="prevlabel" class="article-card-list pt-12 pb-8">-->
+              <carousel :per-page=1 :navigation-enabled="true" class="article-card-list pb-8">
+
+                <slide>
+                  <div class="grid grid-cols-1 md:grid-cols-2 gap-2 md:gap-8">
+
+                    
+                      <div class="card shadow-none bg-grey-125 card--hoveractive">
+                        <div class="card__body">
+                          <h1 class="card-headline mb-8"><a href="https://www.piratiastarostove.cz/program/silnejsi-hlas-v-evrope/">Silnější hlas v Evropě</a></h1>
+                          <div class="card-body-text"><a href="https://www.piratiastarostove.cz/program/silnejsi-hlas-v-evrope/"><p data-block-key="3ftzn">Buď můžeme brblat něco o diktátu Bruselu, anebo rozhodování EU aktivně ovlivňovat. Pojďme se více podílet na Evropě. Konstruktivně a nahlas!</p></a></div>
+                        </div>
+                      </div>
+                      
+                    
+                      <div class="card shadow-none bg-grey-125 card--hoveractive">
+                        <div class="card__body">
+                          <h1 class="card-headline mb-8"><a href="https://www.piratiastarostove.cz/program/zodpovedny-pristup-k-obrane-i-spojencum/">Zodpovědný přístup k obraně i spojencům</a></h1>
+                          <div class="card-body-text"><a href="https://www.piratiastarostove.cz/program/zodpovedny-pristup-k-obrane-i-spojencum/"><p data-block-key="tepik">Obrana země stojí na její kondici i na členství v NATO a EU. Navýšené výdaje do obrany projdou i českou vědou, výzkumem nebo průmyslem.</p></a></div>
+                        </div>
+                      </div>
+                      
+                    
+                      <div class="card shadow-none bg-grey-125 card--hoveractive">
+                        <div class="card__body">
+                          <h1 class="card-headline mb-8"><a href="https://www.piratiastarostove.cz/program/zahranicni-politika-stojici-na-hodnotach/">Zahraniční politika stojící na hodnotách</a></h1>
+                          <div class="card-body-text"><a href="https://www.piratiastarostove.cz/program/zahranicni-politika-stojici-na-hodnotach/"><p data-block-key="8dt9h">Ukažme světu, že máme páteř. Aktivní zahraniční politikou znovu prokazujme smysl pro demokracii, lidská práva nebo klimatickou odpovědnost.</p></a></div>
+                        </div>
+                      </div>
+                      
+                    
+
+                  </div>
+                </slide>
+
+              </carousel>
+            </ui-carousel>
+          </ui-app>
+        </div>
+      
+
+      <h3 id="zdroje" class="head-alt-base mb-8 mt-20">Klidně si to ověřte</h3>
+      <div class="content-block">
+        
+                    <div id="zdroj1" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[1]</div>
+                      <div class="inline-block align-top max-w-2xl">Ministerstvo vnitra. Čtvrtletní zpráva o migraci IV. 2020 [cit. 18. 4. 2021]. Dostupné <a class="text-fxactivecolor underline" href="https://www.mvcr.cz/migrace/soubor/ctvrtletni-zprava-o-migraci-iv-2020.aspx">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj2" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[2]</div>
+                      <div class="inline-block align-top max-w-2xl">Eurostat. Statistiky migrace a populace: Migration and Population Statistics. April 6, 2021 [cit. 18. 4. 2021]. Dostupné <a class="text-fxactivecolor underline" href="https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Migration_and_migrant_population_statistics/cs&amp;oldid=494217">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj3" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[3]</div>
+                      <div class="inline-block align-top max-w-2xl">Reuters, Aktuálně.cz. Uprchlickému táboru na ostrově Lesbos hrozí uzavření. Kvůli nelidským podmínkám. 2018. [cit. 18. 4. 2021]. Dostupné <a class="text-fxactivecolor underline" href="https://video.aktualne.cz/ze-sveta/kvuli-nelidskym-podminkam-hrozi-uprchlickemu-taboru-na-ostro/r~28db74bac0cc11e8b5b20cc47ab5f122/">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj4" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[4]</div>
+                      <div class="inline-block align-top max-w-2xl">Evropská komise. Nový směr v oblasti migrace: budování důvěry a obnovení rovnováhy mezi odpovědností a solidaritou. 23. 9. 2020 [cit. 18. 4. 2021]. Dostupné <a class="text-fxactivecolor underline" href="https://ec.europa.eu/commission/presscorner/detail/cs/ip_20_1706">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj5" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[5]</div>
+                      <div class="inline-block align-top max-w-2xl">Risk Analysis for 2020. FRONTEX. 2020 [cit. 18. 4. 2021]. Dostupné <a class="text-fxactivecolor underline" href="https://frontex.europa.eu/assets/Publications/Risk_Analysis/Risk_Analysis/Annual_Risk_Analysis_2020.pdf">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj6" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[6]</div>
+                      <div class="inline-block align-top max-w-2xl">The Future of Migration in the European Union. European Commission’s Joint Research Centre, European Union. 2018 [cit. 18. 4. 2021]. Dostupné <a class="text-fxactivecolor underline" href="https://publications.jrc.ec.europa.eu/repository/bitstream/JRC111774/kjnd29060enn.pdf">zde</a>.</div>
+                    </div>
+                    
+        <div id="zdroj7" class="source leading-loose text-sm">
+          <div class="inline-block align-top w-9 text-fxactivecolor">[7]</div>
+          <div class="inline-block align-top max-w-2xl">Základní dokumenty Ministerstva vnitra České republiky k integrační politice. Dostupné <a class="text-fxactivecolor underline" href="https://www.mvcr.cz/docDetail.aspx?docid=22101462&amp;doctype=ART">zde</a>.</div>
+        </div>
+        
+      </div>
+
+    </div>
+
+    <div class="container-collapsible-button-container w-full">
+      <button class="container-collapsible-button btn btn--icon text-lg block mx-auto" onclick="this.parentElement.parentElement.classList.add('container-collapsible-open');">
+        <div class="btn__body-wrap">
+          <div class="btn__body py-8 leading-4">Zobrazit více</div>
+          <div class="btn__icon px-8 bg-grey-800 border-grey-500">
+            <i class="ico--chevron-right"></i>
+          </div>
+        </div>
+      </button>
+    </div>
+
+  </div>
+</div>
+
+<script>
+  /*should run once on any page accordeon rows with fadeouts are present*/
+  document.addEventListener("DOMContentLoaded", setMaxHeightsFadeouts);
+  window.addEventListener('resize', setMaxHeightsFadeouts);
+
+  function setMaxHeightsFadeouts() {
+    // set height for css transition
+    var accordeonRowBodies = document.getElementsByClassName('accordeon-row-body--fadeout');
+
+    if (accordeonRowBodies !== null) {
+      for (var i = 0; i < accordeonRowBodies.length; i++) {
+        accordeonRowBodies[i].style.maxHeight = (parseInt(accordeonRowBodies[i].scrollHeight) + 32) + "px";
+      }; /*plus padding*/
+    }
+  }
+
+  document.addEventListener("DOMContentLoaded", setMaxHeights);
+  window.addEventListener('resize', setMaxHeights);
+
+  function setMaxHeights() {
+    // set height for css transition
+    var accordeonRowBodies = document.getElementsByClassName('accordeon-row-body--classic');
+
+    if (accordeonRowBodies !== null) {
+      for (var i = 0; i < accordeonRowBodies.length; i++) {
+        accordeonRowBodies[i].style.maxHeight = accordeonRowBodies[i].scrollHeight + "px";
+      };
+    }
+  }
+</script>

@@ -1,0 +1,572 @@
+---
+layout: default
+title:  Priority ZO - Zahraniční politika stojící na hodnotách 
+description: Priority ZO -Zahraniční politika stojící na hodnotách 
+keywords: Priority ZO -Zahraniční politika stojící na hodnotách 
+---
+
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="https://www.piratiastarostove.cz/static/elections2021/images/favicon-bw-180.png" sizes="180x180">
+  <link rel="icon" type="image/png" href="https://www.piratiastarostove.cz/static/elections2021/images/favicon-bw-120.png" sizes="120x120">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="https://www.piratiastarostove.cz/static/elections2021/css/styleguide.min.css">
+  <link rel="stylesheet" href="https://www.piratiastarostove.cz/static/elections2021/css/styles.css">
+  <style type="text/css">
+    sup {
+      white-space: nowrap;
+    }
+    .head-alt-highlighted {
+      line-height: 1.2 !important;
+    }
+  </style>
+
+
+<div class="side-cta-panel--filter" id="side-cta-filter"></div>
+
+<div class="side-cta-panel-bar-wrapper">
+  <div class="side-cta-panel-bar" id="cta-side-bar" onclick="document.body.classList.add('ctaopen');getElementById('side-cta-filter').classList.add('side-cta-panel--filter--ctaopen');getElementById('cta-side').classList.add('side-cta-panel--ctaopen');">
+    <div class="side-cta-panel-bar--toggler"></div>
+    <div class="side-cta-panel-bar-el img-news bg-acidgreen elevation-6 hover:bg-darkacidgreen hover:elevation-1 transition-all cursor-pointer"></div>
+    <div class="side-cta-panel-bar-el img-help bg-lemon elevation-6 hover:bg-opacity-70 hover:elevation-1 transition-all cursor-pointer"></div>
+    <div class="side-cta-panel-bar-el img-support bg-white elevation-6 hover:bg-opacity-70 hover:elevation-1 transition-all cursor-pointer"></div>
+  </div>
+</div>
+
+    
+<div class="container container-default pt-4 pb-20">
+  <div class="w-full lg:w-4/6 relative container-collapsible">
+
+    <div class="floating-nav-wrapper hidden xl:block" id="floatingNavBarWrapper">
+      <div class="floating-nav-panel " id="floatingNavBar">
+        <div class="opener py-6 pb-16 px-11 bg-acidgreen text-white font-alt">
+          RYCHLÁ NAVIGACE
+        </div>
+        <div class="inner float-panel-inner elevation-2">
+          <ul>
+            <li><a href="#takhle-to-dal-nejde">Takhle to dál nejde</a></li>
+            <li><a href="#v-cem-je-problem">V čem je problém</a></li>
+            <li><a href="#nase-vize">Naše vize</a></li>
+            <li><a href="#jak-to-chceme-udelat" class="active">Jak to chceme udělat?</a></li>
+            <li><a href="#kolik-na-to-chceme-casu">Kolik na to chceme času?</a></li>
+            
+              <li><a href="#pro-koho-to-chceme-hlavne">Pro koho to chceme hlavně</a></li>
+            
+            <li><a href="#co-pro-to-uz-delame">Co pro to už děláme</a></li>
+            <li><a href="#na-co-se-nas-casto-ptate">Na co se nás často ptáte</a></li>
+            
+              <li><a href="#souvisejici-body">Související body</a></li>
+            
+            <li><a href="#zdroje">Klidně si to ověřte</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      window.addEventListener("load", onLoadFunction);
+      var anchorsArray = [];
+
+      function placeUponId(id, space) {
+        return document.getElementById(id).getBoundingClientRect().top + window.scrollY - space;
+      }
+
+      function onLoadFunction(e) {
+        var anchorElemsArray;
+        onResizeFunction();
+        for (const entry of anchorsArray) {
+          entry.menuitem.addEventListener("click", clickHandler);
+        }
+
+        function clickHandler(e) {
+          e.preventDefault();
+          var id = this.getAttribute("href").replace("#", "");
+          console.log(placeUponId(id, 20));
+          scroll({
+            top: placeUponId(id, 20),
+            behavior: "smooth"
+          });
+        }
+
+
+        window.addEventListener("resize", onResizeFunction);
+      }
+
+      function onResizeFunction(e) {
+        var itemsProcessed = 0;
+        var anchorElemsArray = document.getElementsByClassName("float-panel-inner")[0].querySelectorAll("li a");
+        anchorsArray = [];
+        anchorElemsArray.forEach(function(entry) {
+          var id = entry.getAttribute("href").replace("#", "");
+          anchorsArray.push({
+            id: id,
+            top: placeUponId(id, 200),
+            menuitem: entry
+          });
+          itemsProcessed++;
+          if (itemsProcessed === anchorElemsArray.length) {
+            anchorsArray.reverse();
+          }
+        });
+        console.log(anchorsArray);
+      }
+      window.onscroll = function() {
+        var top = window.pageYOffset || document.documentElement.scrollTop;
+        var activereached = false;
+        anchorsArray.forEach(function(entry) {
+          entry.menuitem.classList.remove("active");
+          entry.menuitem.classList.remove("passed");
+          if (top >= placeUponId(entry.id, 200)) {
+            if (activereached) entry.menuitem.classList.add("passed");
+            else entry.menuitem.classList.add("active");
+            activereached = true;
+          }
+        });
+      };
+    </script>
+
+    <header class="w-full md:w-5/6">
+      <div class="mt-10 md:mt-12">
+        <h1 class="head-alt-md md:head-alt-lg head-alt-highlighted">Zahraniční politika stojící na hodnotách</h1>
+        <h2 class="head-alt-sm md:head-alt-md mb-20 mt-9">
+          <div class="leading-tight"><p data-block-key="8dt9h">Ukažme světu, že máme páteř. Aktivní zahraniční politikou znovu prokazujme smysl pro demokracii, lidská práva nebo klimatickou odpovědnost.</p></div>
+        </h2>
+      </div>
+    </header>
+
+    <div class="problem-pack">
+      <section id="takhle-to-dal-nejde" class="program-detail-problem-solution mb-20">
+
+        <div class="problem-cross"><i class="ico--thincross text-xs sm:text-xl text-white"></i></div>
+        <div class="problem-inner content-block">
+
+          <h2 class="head-alt-sm md:head-alt-md mb-9">Takhle to dál nejde</h2>
+          <p class="text-base mb-8 para">
+            <p data-block-key="un1qz">Tradice aktivní, odpovědné a humanistické politiky je upozaděna. Stejně tak důraz na lidská práva. Česká zahraniční politika je roztříštěná mezi několik aktérů. To vše se odehrává v době, kdy Česko čelí nepřátelskému působení nedemokratických režimů z Ruska a Číny.</p>
+          </p>
+
+          <div id="v-cem-je-problem">
+            <div class="accordeon-row accordeon-row--fadeout h-full">
+              <div class="accordeon-row-head" v-on:click="toggleElement" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+                <h3 class="accordeon-row-heading head-alt-xs mb-0">V čem je problém</h3>
+                <i class="ico--chevron-down"></i>
+              </div>
+              <div class="accordeon-row-body accordeon-row-body--fadeout" style="height: 220px; max-height: 560px;">
+                <div>
+                  <p data-block-key="8okcf">Naše zahraničněpolitická orientace vychází ze zakotvení České republiky v euroatlantickém prostoru, v Evropské unii a NATO. Musíme zaujmout sebevědomý a proaktivní přístup k výhodám i závazkům členství a být zodpovědným partnerem.</p><p data-block-key="qp4e4">Pro Česko je nesoulad v zahraniční politice mezi prezidentem, premiérem, ministrem zahraničních věcí i dalšími aktéry škodlivý, protože způsobuje nečitelnost pro naše partnery.<a href="#zdroje"><sup>[1]</sup></a></p><p data-block-key="7mfhq">Česko přitom má v mezinárodní politice co nabídnout, disponuje znalostmi a kvalitními odborníky v diplomatických službách i mimo ně a tradicí boje za lidská práva i historickou solidaritou s partnery.</p><p data-block-key="yjxy3">Nejsme proaktivním tvůrcem zahraniční politiky na úrovni EU a mnozí naši nejvyšší představitelé podporují autoritářské režimy a tolerují porušování lidských práv.<a href="#zdroje"><sup>[2]</sup></a> Obchodujeme s takovými státy bez  odpovídající reflexe situace v jejich zemi. Navíc jim členské země EU včetně Česka dodávají vojenský materiál a technologie, které lze zneužít proti vlastním občanům.<a href="#zdroje"><sup>[3, 4]</sup></a></p><p data-block-key="jowma">Od dosažení velkých politických milníků v podobě vstupu do EU a NATO nemá Česko jasně definované velké a dlouhodobé vize a cíle zahraniční politiky.<a href="#zdroje"><sup>[5]</sup></a></p>
+                </div>
+              </div>
+              <button class="btn btn--icon absolute bottom-8 left-8" onclick="this.parentElement.classList.add('accordeon-row--open');">
+                <div class="btn__body-wrap">
+                  <div class="btn__body bg-acidgreen -bottom-20 text-black py-4">Zobrazit více</div>
+                  <div class="btn__icon bg-black">
+                    <i class="ico--chevron-right"></i>
+                  </div>
+                </div>
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <div id="nase-vize" class="ideal-check"><i class="ico--check text-xs sm:text-xl text-black"></i></div>
+        <div class="ideal-inner bg-lemon content-block">
+          <h2 class="head-alt-sm md:head-alt-md mb-9">Naše vize</h2>
+          <p class="text-base">
+            <p data-block-key="f0fjl">Prosazujeme zahraniční orientaci Česka na evropské a světové demokracie. Budeme přispívat k řešení globálních výzev, stavět se za lidská práva, přistupovat zodpovědně k obchodním dohodám, vývozu sledovacích technologií i zbraní a rozvíjet vztahy s partnery a nejbližšími sousedy.</p>
+          </p>
+        </div>
+
+      </section>
+    </div>
+
+    <div id="jak-to-chceme-udelat" class="container-collapsible-content" style="height: 50vh;">
+
+      <h3 class="head-alt-base mb-8">Jak to chceme udělat?</h3>
+      <div class="content-block">
+        <p data-block-key="gwvju"></p><ul class="unordered-list unordered-list-checks"><li class="mb-4" data-block-key="456m4">Budeme aktivně přispívat do mezinárodních fór, jako jsou OSN, Světová banka či MMF, v zájmu řešení globálních změn a výzev včetně technologických či klimatických.</li><li class="mb-4" data-block-key="xie3j">Podpoříme občanskou společnost, nezávislá média i disent v autoritářských zemích. Budeme dále nabízet útočiště bojovníkům za lidská práva.</li><li class="mb-4" data-block-key="hqq9e">Zasadíme se o pomoc utlačovaným skupinám všude na světě. K tomu využijeme naši i evropskou diplomacii, finanční podporu nevládním organizacím a cílenou pomoc konkrétním lidem.</li><li class="mb-4" data-block-key="xmvc7">Přijmeme českou verzi sankčního zákona trestajícího ta nejhrubší porušení lidských práv.</li><li class="mb-4" data-block-key="ap8zr">Prosadíme zákon omezující obchod s orgány a přidáme do českých zákonů mechanismy, které umožní skutečně uplatňovat sankce.</li><li class="mb-4" data-block-key="iprp1">Nebudeme zásobovat autoritáře zbraněmi či technologiemi, které mohou být zneužity k potlačování lidských práv. Využijeme nová pravidla EU a důsledně dohlédneme za pomoci občanské společnosti na obchodní toky tohoto zboží.</li><li class="mb-4" data-block-key="iceom">Nechceme, aby byla EU útočištěm zahraničních oligarchů a jejich peněz, proto podpoříme příslušná opatření v rámci EU v koordinaci se spojenci (státy G7).</li><li class="mb-4" data-block-key="3jcoj">V obchodních smlouvách EU budeme klást důraz na udržitelnost, transparentnost a spravedlivé pracovní podmínky. Skrze obchodní sílu se zasadíme o přísnější dodržování lidských práv v autoritářských režimech.</li><li class="mb-4" data-block-key="4v7g9">Podpoříme aktualizaci zastaralých úmluv, včetně Úmluvy OSN o omamných látkách.</li><li class="mb-4" data-block-key="kfvmw">Budeme nadále prohlubovat obchodní spolupráci i diplomatické vztahy s Tchaj-wanem a podporovat spolupráci na úrovni českých měst a firem. </li><li class="mb-4" data-block-key="uolxc">Považujeme za důležité rozvíjení vztahů s nejbližšími sousedy EU, tedy státy západního Balkánu a Východního partnerství. Podporujeme perspektivu jejich členství v EU, demokratické reformy a vzájemnou obchodní spolupráci. Budeme rozvíjet dialog s českou občanskou společností v otázkách zahraniční politiky a lidských práv.</li></ul>
+      </div>
+
+      <div id="kolik-na-to-chceme-casu" class="grid grid-cols-1 gap-8 my-20">
+        
+        
+          <div class="card shadow-none bg-grey-125">
+            <div class="card__body content-block">
+              <h3 class="card-headline mb-8">Kolik na to chceme času?</h3>
+              <p class="card-body-text para"><p data-block-key="y9550">Bude to kontinuální proces během celého volebního období se snahou o dlouhodobý a udržitelný efekt.</p></p>
+            </div>
+          </div>
+        
+      </div>
+
+      
+        <h3 id="pro-koho-to-chceme-hlavne" class="head-alt-base mb-8 mt-20">Pro koho to chceme hlavně</h3>
+      
+
+      
+        <div class="program-detail-benefity my-8 grid grid-cols-1 sm:grid-cols-2 gap-4 lg:gap-8">
+          
+            
+<div class="benefit">
+  <img src="https://www.piratiastarostove.cz/static/elections2021/images/benefits/1.b701cb996af2.jpg">
+  <div class="benefit-detail bg-acidgreen">
+    <p class="head-heavy-sm w-full">Pro mladé</p>
+    <div class="text-sm"><p data-block-key="chj42">Blízké vztahy se zahraničními partnery rozšíří možnosti studia a práce za hranicemi, nejen prostřednictvím programu Erasmus+.</p></div>
+  </div>
+</div>
+
+          
+            
+<div class="benefit">
+  <img src="https://www.piratiastarostove.cz/static/elections2021/images/benefits/5.b3723c211aec.jpg">
+  <div class="benefit-detail bg-acidgreen">
+    <p class="head-heavy-sm w-full">Pro zaměstnance</p>
+    <div class="text-sm"><p data-block-key="uuwo9">Díky členství v EU a dobrým vztahům s ostatními zeměmi lépe ochráníme práva a rozšiřujíme pracovní možnosti českých zaměstnanců v cizině.</p></div>
+  </div>
+</div>
+
+          
+            
+<div class="benefit">
+  <img src="https://www.piratiastarostove.cz/static/elections2021/images/benefits/6.531fbb7e7cdf.jpg">
+  <div class="benefit-detail bg-acidgreen">
+    <p class="head-heavy-sm w-full">Pro živnostníky a podnikatele</p>
+    <div class="text-sm"><p data-block-key="eargd">Právní stát bude nejen hodnotové východisko, ale i nutný předpoklad pro ochranu českých investic a českého podnikání v cizině.</p></div>
+  </div>
+</div>
+
+          
+        </div>
+      
+
+      
+        <div class="program-detail-benefity my-8 grid grid-cols-1 sm:grid-cols-2 gap-4 lg:gap-8">
+          
+            
+<div class="card shadow-none bg-acidgreen text-black">
+  <div class="card__body">
+    <h3 class="card-headline mb-8">Pro investory a exportéry</h3>
+    <div class="card-body-text"><p data-block-key="acxgd">Díky hlubší integraci v EU, důležité pro dobré investiční prostředí, budou české firmy profitovat na trzích našich evropských partnerů.</p></div>
+  </div>
+</div>
+
+          
+            
+<div class="card shadow-none bg-acidgreen text-black">
+  <div class="card__body">
+    <h3 class="card-headline mb-8">Pro občanský sektor</h3>
+    <div class="card-body-text"><p data-block-key="ir7s8">Nevládní organizace budou partnerem české zahraniční politiky a jejich hlas bude slyšet.</p></div>
+  </div>
+</div>
+
+          
+        </div>
+      
+
+      
+
+      <h3 id="co-pro-to-uz-delame" class="head-alt-base mt-20 mb-10">Co pro to už děláme</h3>
+      <div class="content-block">
+        <p data-block-key="dtogd"></p><ul class="unordered-list unordered-list-checks"><li class="mb-4" data-block-key="fqi9s">Předložili jsme Poslanecké sněmovně návrh sankčního zákona na ochranu lidských práv.<a href="#zdroje"><sup>[6]</sup></a></li><li class="mb-4" data-block-key="w2den">Prosadili jsme na evropské úrovni aktualizaci regulace  vývozu zboží tzv. dvojího užití (civilní a vojenské), a omezili tak přístup autoritářských režimů k evropskému zboží, kterým by mohly potlačovat práva svých občanů.<a href="#zdroje"><sup>[7]</sup></a></li><li class="mb-4" data-block-key="cg7j8">Přiměli jsme Ministerstvo zdravotnictví přehodnotit svůj výklad stanoviska k interrupcím občanek Evropské unie v Česku  na základě omezení práv polských žen.<a href="#zdroje"><sup>[8]</sup></a></li><li class="mb-4" data-block-key="r42tb">Stavíme se dlouhodobě za lidská práva ve světě a neváháme je hájit nejen proti diktátorům či autoritářským režimům<a href="#zdroje"><sup>[9, 13]</sup></a>, ale i v rámci obchodních dohod.<a href="#zdroje"><sup>[10, 11]</sup></a></li><li class="mb-4" data-block-key="8h9qj">Představili jsme návrh zákona, který omezuje obchod s lidskými orgány.<a href="#zdroje"><sup>[12]</sup></a></li><li class="mb-4" data-block-key="gn1dm">Prosadili jsme usnesení, ve kterém se Poslanecká sněmovna PČR distancovala od slov Vojtěcha Filipa, která poškodila dobré jméno československých legionářů v Rusku.<a href="#zdroje"><sup>[14]</sup></a></li><li class="mb-4" data-block-key="e98rr">Dlouhodobým tlakem jsme pomohli schválit zákon, který umožňuje české vládě prověřit strategické zahraniční investice s bezpečnostním rizikem.<a href="#zdroje"><sup>[15]</sup></a></li></ul>
+      </div>
+
+      <h3 id="na-co-se-nas-casto-ptate" class="head-alt-base mb-8 mt-20">Na co se nás často ptáte</h3>
+      <div class="space-y-1">
+        
+          
+<div class="accordeon-row">
+  <div class="accordeon-row-head" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+    <h3 class="accordeon-row-heading head-alt-xs">Nepoškodí nás orientace na lidská práva ekonomicky?</h3>
+    <i class="ico--chevron-down"></i>
+  </div>
+  <div class="accordeon-row-body accordeon-row-body--classic">
+    <div>
+      <p><p data-block-key="0l749">Česká republika je součástí nejsilnějšího obchodního bloku na světě<a href="#zdroje"><sup>[16]</sup></a> – Evropské unie. A stejně jako EU, stojíme i my na základních hodnotách, jako jsou právě lidská práva. Otázka tedy nezní, zda si vybrat lidská práva, nebo ekonomiku, ale proč nevyužívat silnou ekonomiku Evropské unie k tomu, abychom pomohli lidským právům v zahraničí. Máme v rámci EU dostatečnou vyjednávací sílu na to, abychom prosadili v obchodních dohodách jasné záruky zlepšení stavu lidských práv v zemích, s nimiž obchodujeme. Je to jen na naší vůli.</p></p>
+    </div>
+  </div>
+</div>
+
+        
+          
+<div class="accordeon-row">
+  <div class="accordeon-row-head" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+    <h3 class="accordeon-row-heading head-alt-xs">Proč chcete podporovat neziskovky, když jen berou peníze?</h3>
+    <i class="ico--chevron-down"></i>
+  </div>
+  <div class="accordeon-row-body accordeon-row-body--classic">
+    <div>
+      <p><p data-block-key="9e1vn">Na občanské společnosti stojí mnoho služeb, které by stát nezvládl sám zajišťovat, od sociálních po kontrolní (tzv. watchdog) činnost. Podpora činnosti nevládních, neziskových i dalších podobných organizací je znakem efektivního, sebevědomého a schopného státu.</p></p>
+    </div>
+  </div>
+</div>
+
+        
+          
+<div class="accordeon-row">
+  <div class="accordeon-row-head" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+    <h3 class="accordeon-row-heading head-alt-xs">Chcete tím Tchaj-wanem naštvat Čínu?</h3>
+    <i class="ico--chevron-down"></i>
+  </div>
+  <div class="accordeon-row-body accordeon-row-body--classic">
+    <div>
+      <p><p data-block-key="4uxww">Čína je sledovací diktatura. Násilně aplikuje proti vůli tamních obyvatel svou politiku „jedna země – dva systémy“ na Hong Kong i Tchaj-wan. Vždy budeme podporovat svobodné a informované rozhodnutí obyvatel před útlakem režimů. Tchaj-wan je navíc demokratická, digitálně se rozvíjející země a pro Českou republiku dává smysl z hlediska výměny nejen technologického know-how rozvíjet vzájemné vztahy. Nenecháme si jinou zemí diktovat, s kým takové vztahy můžeme mít.</p></p>
+    </div>
+  </div>
+</div>
+
+        
+          
+<div class="accordeon-row">
+  <div class="accordeon-row-head" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+    <h3 class="accordeon-row-heading head-alt-xs">Chcete připravit české zbrojařské firmy o zakázky a lidi o práci?</h3>
+    <i class="ico--chevron-down"></i>
+  </div>
+  <div class="accordeon-row-body accordeon-row-body--classic">
+    <div>
+      <p><p data-block-key="14kde">Nikoliv. V konvenčních zbraních se zaměřujeme primárně na efektivnější kontrolu již nelegálního vývozu a dovozu, ne na nová omezení. Co se týče nových technologií, jako je biometrický dohled, netvoří takovou součást našeho exportu, aby se to reálně dotklo českých firem. Principiálně zároveň nemáme zájem o to, aby se vývoz takových technologií do autoritářských režimů stal důležitou složkou našeho exportu. Dopad na lidská práva zde dalece převažuje možné zisky. Měli bychom se spíše soustředit na obchod s našimi partnery v EU a NATO.</p></p>
+    </div>
+  </div>
+</div>
+
+        
+          
+<div class="accordeon-row">
+  <div class="accordeon-row-head" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+    <h3 class="accordeon-row-heading head-alt-xs">Jak přesvědčíte prezidenta, aby držel linku?</h3>
+    <i class="ico--chevron-down"></i>
+  </div>
+  <div class="accordeon-row-body accordeon-row-body--classic">
+    <div>
+      <p><p data-block-key="pk8zk">Prezident České republiky má naši zemi v zahraničí diplomaticky reprezentovat, za zahraniční politiku však stále odpovídá vláda (a implementuje ji Ministerstvo zahraničních věcí), což musíme jasně ukotvit v očích našich partnerů i dalších zemí. Kvalitní výkon diplomacie zajistí čitelnost naší zahraniční politiky pro všechny.  </p></p>
+    </div>
+  </div>
+</div>
+
+        
+          
+<div class="accordeon-row">
+  <div class="accordeon-row-head" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+    <h3 class="accordeon-row-heading head-alt-xs">Proč nechcete dobré vztahy s Ruskem?</h3>
+    <i class="ico--chevron-down"></i>
+  </div>
+  <div class="accordeon-row-body accordeon-row-body--classic">
+    <div>
+      <p><p data-block-key="91icz">Máme zájem, abychom jako Česko i EU s Ruskem dobré vztahy měly, k tomu je však třeba dobrá vůle na obou stranách. Bez toho nejsou vzájemně výhodné vztahy možné.</p></p>
+    </div>
+  </div>
+</div>
+
+        
+          
+<div class="accordeon-row">
+  <div class="accordeon-row-head" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+    <h3 class="accordeon-row-heading head-alt-xs">Jaké nástroje podpory utlačovaným skupinám chcete používat?</h3>
+    <i class="ico--chevron-down"></i>
+  </div>
+  <div class="accordeon-row-body accordeon-row-body--classic">
+    <div>
+      <p><p data-block-key="0jt6r">Chceme využívat národní i společné evropské nástroje, konkrétně mimo jiné granty nevládním organizacím, diplomatická gesta (morální podpora, schůzky, demarše), účast diplomatů jako pozorovatelů na soudních procesech s aktivisty, humanitární pobyty, v případě potřeby udělování azylu či dočasné ochrany, zdravotnická pomoc (program Medevac).</p></p>
+    </div>
+  </div>
+</div>
+
+        
+          
+<div class="accordeon-row">
+  <div class="accordeon-row-head" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+    <h3 class="accordeon-row-heading head-alt-xs">Proč chcete řešit klima globálně, když jsme jen malá země a hlavní odpovědnost je na Číně a USA? Proč bych se měl/a zajímat o lidi na druhé straně zeměkoule?</h3>
+    <i class="ico--chevron-down"></i>
+  </div>
+  <div class="accordeon-row-body accordeon-row-body--classic">
+    <div>
+      <p><p data-block-key="mls1b">80 procent světových emisí skleníkových plynů vypustily rozvinuté státy, ale reálné dopady klimatické změny zasahují především rozvojové země. Česká republika patří do první dvacítky největších emitentů skleníkových plynů. Klimatická změna představuje bezpečnostní, ekonomickou a humanitární hrozbu pro celý svět, včetně České republiky — projevy změny klimatu v podobě sucha, požárů, povodní atd. se dotýkají i českých občanů a krajiny. Jen do roku 2050 také přinutí k migraci asi 200 milionů lidí.<a href="#zdroje"><sup>[17, 18]</sup></a></p><p data-block-key="7h4"></p><p data-block-key="0rvz1">Budeme plnit klimatické cíle Pařížské dohody společně s dalšími členskými státy OSN. Žijeme v době globalizace, planeta Země je ve všech směrech propojená. Proto je nutné, abychom jednali koordinovaně a spolupracovali s ostatními státy světa. Změny klimatu jsou globální jev, který se nejvíce dotýká <a href="https://www.carbonbrief.org/new-mega-map-details-all-the-ways-climate-change-will-affect-our-everyday-lives">regionů, které jsou hodně zalidněné a už teď ohrožené nedostatkem vody a potravin</a>. Proto lidé z těchto míst odcházejí. Velké migrační toky mohou ohrozit potravinovou bezpečnost. My, jakožto nejbohatší region, máme o světovou bezpečnost a stabilitu zásadní zájem.</p></p>
+    </div>
+  </div>
+</div>
+
+        
+      </div>
+
+      
+        <h3 id="souvisejici-body" class="head-alt-base mb-8 mt-20">Související body:</h3>
+
+        <div class="carousel-card-list __js-root">
+          <ui-app inline-template>
+            <ui-carousel>
+              <!--<carousel :perPage="4" :perPageCustom="[ [200, 1], [768, 3], [1024, 4]]" :navigationEnabled="true" :navigationNextLabel="nextlabel" :navigationPrevLabel="prevlabel" class="article-card-list pt-12 pb-8">-->
+              <carousel :per-page=1 :navigation-enabled="true" class="article-card-list pb-8">
+
+                <slide>
+                  <div class="grid grid-cols-1 md:grid-cols-2 gap-2 md:gap-8">
+
+                    
+                      <div class="card shadow-none bg-grey-125 card--hoveractive">
+                        <div class="card__body">
+                          <h1 class="card-headline mb-8"><a href="https://www.piratiastarostove.cz/program/otevrene-vladnuti-a-politicka-kultura/">Otevřené vládnutí a politická kultura</a></h1>
+                          <div class="card-body-text"><a href="https://www.piratiastarostove.cz/program/otevrene-vladnuti-a-politicka-kultura/"><p data-block-key="y3cuf">Kde jsou časy, kdy lidé dávali politiky za vzor svým dětem. Vraťme to zpět ve verzi pro 21. století! Slušně, hrdě, otevřeně. Bez oligarchů.</p></a></div>
+                        </div>
+                      </div>
+                      
+                    
+                      <div class="card shadow-none bg-grey-125 card--hoveractive">
+                        <div class="card__body">
+                          <h1 class="card-headline mb-8"><a href="https://www.piratiastarostove.cz/program/silnejsi-hlas-v-evrope/">Silnější hlas v Evropě</a></h1>
+                          <div class="card-body-text"><a href="https://www.piratiastarostove.cz/program/silnejsi-hlas-v-evrope/"><p data-block-key="3ftzn">Buď můžeme brblat něco o diktátu Bruselu, anebo rozhodování EU aktivně ovlivňovat. Pojďme se více podílet na Evropě. Konstruktivně a nahlas!</p></a></div>
+                        </div>
+                      </div>
+                      
+                    
+
+                  </div>
+                </slide>
+
+              </carousel>
+            </ui-carousel>
+          </ui-app>
+        </div>
+      
+
+      <h3 id="zdroje" class="head-alt-base mb-8 mt-20">Klidně si to ověřte</h3>
+      <div class="content-block">
+        
+                    <div id="zdroj1" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[1]</div>
+                      <div class="inline-block align-top max-w-2xl">Asociace pro mezinárodní otázky (AMO). Agenda pro českou zahraniční politiku. 2020. Dostupné <a class="text-fxactivecolor underline" href="https://www.amo.cz/agenda-pro-ceskou-zahranicni-politiku/">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj2" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[2]</div>
+                      <div class="inline-block align-top max-w-2xl">Novinky.cz. Zeman: Autoritářské země mají lepší podmínky pro velké projekty. 2017. Dostupné <a class="text-fxactivecolor underline" href="https://www.novinky.cz/domaci/clanek/zeman-autoritarske-zeme-maji-lepsi-podminky-pro-velke-projekty-10970">zde</a><a class="text-fxactivecolor underline" href="https://www.novinky.cz/domaci/clanek/zeman-autoritarske-zeme-maji-lepsi-podminky-pro-velke-projekty-10970">.</a></div>
+                    </div>
+                    
+                    <div id="zdroj3" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[3]</div>
+                      <div class="inline-block align-top max-w-2xl">Evropský parlament. Usnesení Evropského parlamentu ze dne 13. září 2017 o vývozu zbraní: provádění společného postoje 2008/944/SZBP (2017/2029(INI)). 2017. Dostupné <a class="text-fxactivecolor underline" href="https://www.europarl.europa.eu/doceo/document/TA-8-2017-0344_CS.pdf?redirect">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj4" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[4]</div>
+                      <div class="inline-block align-top max-w-2xl">NESEHNUTÍ. Zpráva NESEHNUTÍ o vývozu českých zbraní a vojenského  materiálu do zahraničí za rok 2014. 2014. Dostupné <a class="text-fxactivecolor underline" href="https://zbrane.nesehnuti.cz/wp-content/uploads/sprava_enaat_CZE_2014_final.pdf">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj5" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[5]</div>
+                      <div class="inline-block align-top max-w-2xl">KOŠTOVAL, Daniel. Krize české zahraniční politiky. Ztratili jsme jednotu a vizi v době, kdy je v sázce mnoho. Info.cz. 2020. Dostupné <a class="text-fxactivecolor underline" href="https://www.info.cz/zpravodajstvi/cesko/krize-ceske-zahranicni-politiky-ztratili-jsme-jednotu-a-vizi-v-dobe-kdy-je-v-sazce-mnoho">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj6" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[6]</div>
+                      <div class="inline-block align-top max-w-2xl">World Economic Forum. The Global Risks Report 2021, 16th Edition. 2021. Dostupné <a class="text-fxactivecolor underline" href="https://www.weforum.org/reports/the-global-risks-report-2021">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj7" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[7]</div>
+                      <div class="inline-block align-top max-w-2xl">Piráti. Piráti hájí lidská práva: Volají po přijetí Magnitského zákona. 2019. Dostupné <a class="text-fxactivecolor underline" href="https://www.pirati.cz/tiskove-zpravy/pirati-volaji-po-prijeti-magnitskeho-zakona.html">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj8" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[8]</div>
+                      <div class="inline-block align-top max-w-2xl">Piráti. Vítězství v oblasti lidských práv: Pirátka Gregorová dotáhla legislativu technologií dvojího použití. 2020. Dostupné <a class="text-fxactivecolor underline" href="https://www.pirati.cz/tiskove-zpravy/piratka-gregorova-prosadila-lepsi-ochranu-lidskych-prav.html">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj9" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[9]</div>
+                      <div class="inline-block align-top max-w-2xl">Piráti. Polský zákaz potratů: Ministerstvo zdravotnictví ustoupilo tlaku veřejnosti i Pirátů a umožní Polkám interrupce v Česku. 2021. Dostupné <a class="text-fxactivecolor underline" href="https://www.pirati.cz/tiskove-zpravy/potraty-v-polsku.html">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj10" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[10]</div>
+                      <div class="inline-block align-top max-w-2xl">Piráti. Den solidarity s Běloruskem: Piráti vyvěšují vlajky a plánují stupňovat tlak. 2021. Dostupné <a class="text-fxactivecolor underline" href="https://www.piratskelisty.cz/clanek-3849-den-solidarity-s-beloruskem-pirati-vyvesuji-vlajky-a-planuji-stupnovat-tlak">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj11" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[11]</div>
+                      <div class="inline-block align-top max-w-2xl">Piráti. Dohoda EU s Vietnamem upevnila tamní diktaturu. Dohoda s Čínou dopadne stejně, ne-li hůř. 2021. Dostupné <a class="text-fxactivecolor underline" href="https://www.piratskelisty.cz/clanek-3797-dohoda-eu-s-vietnamem-upevnila-tamni-diktaturu-dohoda-s-cinou-dopadne-stejne-ne-li-hur">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj12" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[12]</div>
+                      <div class="inline-block align-top max-w-2xl">Piráti. Mikuláš Peksa a Marek Hilšer chtějí bojovat proti obchodu s lidskými orgány. 2019. Dostupné <a class="text-fxactivecolor underline" href="https://www.piratskelisty.cz/clanek-2378-mikulas-peksa-a-marek-hilser-chteji-bojovat-proti-obchodu-s-lidskymi-organy">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj13" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[13]</div>
+                      <div class="inline-block align-top max-w-2xl">Starostové a nezávislí. Rakušan: Sněmovna by měla odvolat soudruha Filipa z vedení a distancovat se od jeho slov. 2020. Dostupné <a class="text-fxactivecolor underline" href="https://www.starostove-nezavisli.cz/info-a-media/tiskove-zpravy/rakusan-snemovna-by-mela-odvolat-soudruha-filipa-z-vedeni-a-distancovat-se-od-jeho-slov">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj14" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[14]</div>
+                      <div class="inline-block align-top max-w-2xl">Poslanecká sněmovna. Usnesení zahraničního výboru ze 43. schůze ze dne 30. dubna 2020 k novým informacím týkajících se výhružného dopisu velvyslanectví Čínské lidové republiky adresovanému Kanceláři prezidenta České republiky ve věci plánované cesty někdejšího předsedy Senátu J. Kubery na Tchaj-wan. 2020. Dostupné <a class="text-fxactivecolor underline" href="https://www.psp.cz/sqw/text/text2.sqw?idd=173274">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj15" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[15]</div>
+                      <div class="inline-block align-top max-w-2xl">Respekt. Zákon o prověřování zahraničních investic nakonec prošel v původní verzi. 2021. Dostupné <a class="text-fxactivecolor underline" href="https://www.respekt.cz/agenda/senatni-verze-ohrozi-zakon-o-proverovani-zahranicnich-investic-rika-nbu">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj16" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[16]</div>
+                      <div class="inline-block align-top max-w-2xl">Evropský parlament. The European Union and its trade partners. 2020. Dostupné <a class="text-fxactivecolor underline" href="https://www.europarl.europa.eu/factsheets/en/sheet/160/the-european-union-and-its-trade-partners">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj17" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[17]</div>
+                      <div class="inline-block align-top max-w-2xl">IPCC. Zpráva Mezivládního panelu pro změny klimatu. Dostupné <a class="text-fxactivecolor underline" href="https://www.ipcc.ch/">zde</a>.</div>
+                    </div>
+                    
+        <div id="zdroj18" class="source leading-loose text-sm">
+          <div class="inline-block align-top w-9 text-fxactivecolor">[18]</div>
+          <div class="inline-block align-top max-w-2xl">Oli Brown: Migration and Climate Change. Publikace Mezinárodní organizace pro migraci (IOM). 2008. Dostupné <a class="text-fxactivecolor underline" href="https://www.researchgate.net/publication/253396962_Migration_and_Climate_Change">zde</a>.</div>
+        </div>
+        
+      </div>
+
+    </div>
+
+    <div class="container-collapsible-button-container w-full">
+      <button class="container-collapsible-button btn btn--icon text-lg block mx-auto" onclick="this.parentElement.parentElement.classList.add('container-collapsible-open');">
+        <div class="btn__body-wrap">
+          <div class="btn__body py-8 leading-4">Zobrazit více</div>
+          <div class="btn__icon px-8 bg-grey-800 border-grey-500">
+            <i class="ico--chevron-right"></i>
+          </div>
+        </div>
+      </button>
+    </div>
+
+  </div>
+</div>
+
+<script>
+  /*should run once on any page accordeon rows with fadeouts are present*/
+  document.addEventListener("DOMContentLoaded", setMaxHeightsFadeouts);
+  window.addEventListener('resize', setMaxHeightsFadeouts);
+
+  function setMaxHeightsFadeouts() {
+    // set height for css transition
+    var accordeonRowBodies = document.getElementsByClassName('accordeon-row-body--fadeout');
+
+    if (accordeonRowBodies !== null) {
+      for (var i = 0; i < accordeonRowBodies.length; i++) {
+        accordeonRowBodies[i].style.maxHeight = (parseInt(accordeonRowBodies[i].scrollHeight) + 32) + "px";
+      }; /*plus padding*/
+    }
+  }
+
+  document.addEventListener("DOMContentLoaded", setMaxHeights);
+  window.addEventListener('resize', setMaxHeights);
+
+  function setMaxHeights() {
+    // set height for css transition
+    var accordeonRowBodies = document.getElementsByClassName('accordeon-row-body--classic');
+
+    if (accordeonRowBodies !== null) {
+      for (var i = 0; i < accordeonRowBodies.length; i++) {
+        accordeonRowBodies[i].style.maxHeight = accordeonRowBodies[i].scrollHeight + "px";
+      };
+    }
+  }
+</script>
+
+
+ 

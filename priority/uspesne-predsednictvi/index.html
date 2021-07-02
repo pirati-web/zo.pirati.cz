@@ -1,0 +1,401 @@
+---
+layout: default
+title:  Priority ZO - Úspěšné předsednictví v Radě EU  
+description: Priority ZO - Úspěšné předsednictví v Radě EU  
+keywords: Priority ZO - Úspěšné předsednictví v Radě EU  
+---
+
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="https://www.piratiastarostove.cz/static/elections2021/images/favicon-bw-180.png" sizes="180x180">
+  <link rel="icon" type="image/png" href="https://www.piratiastarostove.cz/static/elections2021/images/favicon-bw-120.png" sizes="120x120">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="https://www.piratiastarostove.cz/static/elections2021/css/styleguide.min.css">
+  <link rel="stylesheet" href="https://www.piratiastarostove.cz/static/elections2021/css/styles.css">
+  <style type="text/css">
+    sup {
+      white-space: nowrap;
+    }
+    .head-alt-highlighted {
+      line-height: 1.2 !important;
+    }
+  </style>
+
+
+<div class="side-cta-panel--filter" id="side-cta-filter"></div>
+
+<div class="side-cta-panel-bar-wrapper">
+  <div class="side-cta-panel-bar" id="cta-side-bar" onclick="document.body.classList.add('ctaopen');getElementById('side-cta-filter').classList.add('side-cta-panel--filter--ctaopen');getElementById('cta-side').classList.add('side-cta-panel--ctaopen');">
+    <div class="side-cta-panel-bar--toggler"></div>
+    <div class="side-cta-panel-bar-el img-news bg-acidgreen elevation-6 hover:bg-darkacidgreen hover:elevation-1 transition-all cursor-pointer"></div>
+    <div class="side-cta-panel-bar-el img-help bg-lemon elevation-6 hover:bg-opacity-70 hover:elevation-1 transition-all cursor-pointer"></div>
+    <div class="side-cta-panel-bar-el img-support bg-white elevation-6 hover:bg-opacity-70 hover:elevation-1 transition-all cursor-pointer"></div>
+  </div>
+</div>
+
+    
+<div class="container container-default pt-4 pb-20">
+  <div class="w-full lg:w-4/6 relative container-collapsible">
+
+    <div class="floating-nav-wrapper hidden xl:block" id="floatingNavBarWrapper">
+      <div class="floating-nav-panel " id="floatingNavBar">
+        <div class="opener py-6 pb-16 px-11 bg-acidgreen text-white font-alt">
+          RYCHLÁ NAVIGACE
+        </div>
+        <div class="inner float-panel-inner elevation-2">
+          <ul>
+            <li><a href="#takhle-to-dal-nejde">Takhle to dál nejde</a></li>
+            <li><a href="#v-cem-je-problem">V čem je problém</a></li>
+            <li><a href="#nase-vize">Naše vize</a></li>
+            <li><a href="#jak-to-chceme-udelat" class="active">Jak to chceme udělat?</a></li>
+            <li><a href="#kolik-na-to-chceme-casu">Kolik na to chceme času?</a></li>
+            
+              <li><a href="#pro-koho-to-chceme-hlavne">Pro koho to chceme hlavně</a></li>
+            
+            <li><a href="#co-pro-to-uz-delame">Co pro to už děláme</a></li>
+            <li><a href="#na-co-se-nas-casto-ptate">Na co se nás často ptáte</a></li>
+            
+              <li><a href="#souvisejici-body">Související body</a></li>
+            
+            <li><a href="#zdroje">Klidně si to ověřte</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      window.addEventListener("load", onLoadFunction);
+      var anchorsArray = [];
+
+      function placeUponId(id, space) {
+        return document.getElementById(id).getBoundingClientRect().top + window.scrollY - space;
+      }
+
+      function onLoadFunction(e) {
+        var anchorElemsArray;
+        onResizeFunction();
+        for (const entry of anchorsArray) {
+          entry.menuitem.addEventListener("click", clickHandler);
+        }
+
+        function clickHandler(e) {
+          e.preventDefault();
+          var id = this.getAttribute("href").replace("#", "");
+          console.log(placeUponId(id, 20));
+          scroll({
+            top: placeUponId(id, 20),
+            behavior: "smooth"
+          });
+        }
+
+
+        window.addEventListener("resize", onResizeFunction);
+      }
+
+      function onResizeFunction(e) {
+        var itemsProcessed = 0;
+        var anchorElemsArray = document.getElementsByClassName("float-panel-inner")[0].querySelectorAll("li a");
+        anchorsArray = [];
+        anchorElemsArray.forEach(function(entry) {
+          var id = entry.getAttribute("href").replace("#", "");
+          anchorsArray.push({
+            id: id,
+            top: placeUponId(id, 200),
+            menuitem: entry
+          });
+          itemsProcessed++;
+          if (itemsProcessed === anchorElemsArray.length) {
+            anchorsArray.reverse();
+          }
+        });
+        console.log(anchorsArray);
+      }
+      window.onscroll = function() {
+        var top = window.pageYOffset || document.documentElement.scrollTop;
+        var activereached = false;
+        anchorsArray.forEach(function(entry) {
+          entry.menuitem.classList.remove("active");
+          entry.menuitem.classList.remove("passed");
+          if (top >= placeUponId(entry.id, 200)) {
+            if (activereached) entry.menuitem.classList.add("passed");
+            else entry.menuitem.classList.add("active");
+            activereached = true;
+          }
+        });
+      };
+    </script>
+
+    <header class="w-full md:w-5/6">
+      <div class="mt-10 md:mt-12">
+        <h1 class="head-alt-md md:head-alt-lg head-alt-highlighted">Úspěšné předsednictví v Radě EU</h1>
+        <h2 class="head-alt-sm md:head-alt-md mb-20 mt-9">
+          <div class="leading-tight"><p data-block-key="n7eoy">Radě EU předsedáme už příští rok a vláda stále není připravena? Vždyť jde o šanci prosadit témata, která jsou pro nás důležitá! Dožeňme to!</p></div>
+        </h2>
+      </div>
+    </header>
+
+    <div class="problem-pack">
+      <section id="takhle-to-dal-nejde" class="program-detail-problem-solution mb-20">
+
+        <div class="problem-cross"><i class="ico--thincross text-xs sm:text-xl text-white"></i></div>
+        <div class="problem-inner content-block">
+
+          <h2 class="head-alt-sm md:head-alt-md mb-9">Takhle to dál nejde</h2>
+          <p class="text-base mb-8 para">
+            <p data-block-key="ghsy1">Přípravy na předsednictví v Radě EU vláda podcenila organizačně, personálně i finančně<a href="#zdroje"><sup>[1, 2, 4]</sup></a> – hrozí nám ostuda a promarnění příležitosti, která přichází jednou za 14 let.<a href="#zdroje"><sup>[5]</sup></a></p>
+          </p>
+
+          <div id="v-cem-je-problem">
+            <div class="accordeon-row accordeon-row--fadeout h-full">
+              <div class="accordeon-row-head" v-on:click="toggleElement" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+                <h3 class="accordeon-row-heading head-alt-xs mb-0">V čem je problém</h3>
+                <i class="ico--chevron-down"></i>
+              </div>
+              <div class="accordeon-row-body accordeon-row-body--fadeout" style="height: 220px; max-height: 560px;">
+                <div>
+                  <p data-block-key="w3771">Česká republika bude vykonávat své historicky druhé předsednictví v Radě Evropské unie v druhé polovině roku 2022. Stane tedy na 6 měsíců v čele jednoho z hlavních orgánů, který udává směr rozvoje EU a který také pomáhá řídit nepředvídané krize. Ovlivňuje tak životy 450 milionů unijních občanů i celého mezinárodního společenství. </p><p data-block-key="3okso">To s sebou nese velkou zodpovědnost i příležitost. Česká republika bude zemí, která povede veškerá legislativní vyjednávání a bude organizovat a předsedat stovkám pracovních setkání. Budeme reprezentovat Radu Evropské unie vůči ostatním unijním institucím a stejně tak Unii jako celek navenek vůči třetím zemím. Z pozice předsednické země můžeme pomáhat nastolovat a prosazovat důležitá témata a řešení. Je to šance posílit reputaci Česka v Evropě, stejně jako povědomí o Evropské unii u nás.</p><p data-block-key="5xdai">Abychom to úspěšně zvládli, potřebujeme perfektně připravené experty – silný tým pro komunikaci, organizaci, logistiku atd. Současná vláda přípravy podceňuje a může se stát, že Česko bude ve složité výchozí situaci. Piráti a STAN proto předem připraví různé scénáře a jasnou strategii pro to, aby Česká republika předsednictví zastala důstojně a získala z něj co nejvíce.</p>
+                </div>
+              </div>
+              <button class="btn btn--icon absolute bottom-8 left-8" onclick="this.parentElement.classList.add('accordeon-row--open');">
+                <div class="btn__body-wrap">
+                  <div class="btn__body bg-acidgreen -bottom-20 text-black py-4">Zobrazit více</div>
+                  <div class="btn__icon bg-black">
+                    <i class="ico--chevron-right"></i>
+                  </div>
+                </div>
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <div id="nase-vize" class="ideal-check"><i class="ico--check text-xs sm:text-xl text-black"></i></div>
+        <div class="ideal-inner bg-lemon content-block">
+          <h2 class="head-alt-sm md:head-alt-md mb-9">Naše vize</h2>
+          <p class="text-base">
+            <p data-block-key="00vpl">Úspěšně zvládneme předsednictví v Radě EU s důrazem na dokončení obnovy po pandemii, digitalizaci, životní prostředí a další palčivé problémy. Prohloubíme vztahy se státy EU a obnovíme vnímání Česka jako spolehlivého a zodpovědného partnera.</p>
+          </p>
+        </div>
+
+      </section>
+    </div>
+
+    <div id="jak-to-chceme-udelat" class="container-collapsible-content" style="height: 50vh;">
+
+      <h3 class="head-alt-base mb-8">Jak to chceme udělat?</h3>
+      <div class="content-block">
+        <p data-block-key="p7l8g"></p><ul class="unordered-list unordered-list-checks"><li class="mb-4" data-block-key="5ox1k">Budeme klást nejvyšší možný důraz na dokončení popandemické obnovy ekonomiky a podporu a regulaci v oblasti digitalizace. Dále se zaměříme na životní prostředí, politiku rozvoje regionů včetně rozhodování zdola, vnitřní daňové ráje, vysokorychlostní tratě a transparentní nakládání s dotacemi. Bohužel vzhledem k potřebnému času na přípravu bude moci příští vláda priority českého předsednictví upravovat jen částečně.</li><li class="mb-4" data-block-key="ygzut">Přípravu předsednictví přebereme v pokročilé fázi po předchozí vládě. V případě potřeby vyčleníme na zajištění zodpovědného předsednictví odpovídající prostředky. Odmítáme komerční sponzoring předsednictví – priority žádného zákonodárného procesu se nesmí přizpůsobovat zájmům velkých sponzorů. </li><li class="mb-4" data-block-key="uj05n">Prosadíme výrazný regionální rozměr předsednictví prostřednictvím aktivního zapojení měst, obcí, krajů a funkčních území.</li><li class="mb-4" data-block-key="nijmm">Posílíme participativní rozměr předsednictví zapojením významných aktérů z neziskového sektoru, zájmových sdružení i občanské společnosti. Podpoříme zapojení veřejnosti do Konference o budoucnosti Evropy.</li><li class="mb-4" data-block-key="5cs0h">Dohlédneme na posílení transparentnosti Rady EU – registr lobbistů musí fungovat podobně jako u Evropského parlamentu. Rada by měla zveřejňovat zápisy a publikovat dokumenty již v přípravných fázích legislativy.</li><li class="mb-4" data-block-key="37d3i">Zasadíme se, aby nám zůstaly přínosy předsednictví i po jeho skončení. Stát by si měl udržet kvalifikované lidi a know-how. Na pozitivním obrazu Česka v Evropě můžeme dále stavět, stejně jako na tématech, která v čele EU rozpracujeme. Využijeme předsednictví k podpoře českých expertů v institucích EU.</li><li class="mb-4" data-block-key="x3z5z">Předsednictví využijeme jako nový impuls k posílení výuky o základním fungování Evropské unie ve školách i k osvětě veřejnosti. Chceme informované občany, kteří vědí, jak vzniká legislativa, která je ovlivňuje, a jak ji mohou ovlivnit oni. </li></ul>
+      </div>
+
+      <div id="kolik-na-to-chceme-casu" class="grid grid-cols-1 gap-8 my-20">
+        
+        
+          <div class="card shadow-none bg-grey-125">
+            <div class="card__body content-block">
+              <h3 class="card-headline mb-8">Kolik na to chceme času?</h3>
+              <p class="card-body-text para"><p data-block-key="kn7j3">Předsednictví probíhá ve druhé polovině roku 2022 po dobu 6 měsíců. 6 měsíců před tím bude probíhat stínování francouzského předsednictví. Aktivní příprava začne nejpozději od voleb.</p></p>
+            </div>
+          </div>
+        
+      </div>
+
+      
+        <h3 id="pro-koho-to-chceme-hlavne" class="head-alt-base mb-8 mt-20">Pro koho to chceme hlavně</h3>
+      
+
+      
+        <div class="program-detail-benefity my-8 grid grid-cols-1 sm:grid-cols-2 gap-4 lg:gap-8">
+          
+            
+<div class="benefit">
+  <img src="https://www.piratiastarostove.cz/static/elections2021/images/benefits/5.b3723c211aec.jpg">
+  <div class="benefit-detail bg-acidgreen">
+    <p class="head-heavy-sm w-full">Pro zaměstnance</p>
+    <div class="text-sm"><p data-block-key="ofmru">Organizace předsednictví vytvoří a zabezpečí nová pracovní místa.</p></div>
+  </div>
+</div>
+
+          
+            
+<div class="benefit">
+  <img src="https://www.piratiastarostove.cz/static/elections2021/images/benefits/6.531fbb7e7cdf.jpg">
+  <div class="benefit-detail bg-acidgreen">
+    <p class="head-heavy-sm w-full">Pro živnostníky a podnikatele</p>
+    <div class="text-sm"><p data-block-key="j5d6r">Předsednictví bude vyžadovat značné organizační zajištění a jeho velká část bude realizována v ČR.</p></div>
+  </div>
+</div>
+
+          
+            
+<div class="benefit">
+  <img src="https://www.piratiastarostove.cz/static/elections2021/images/benefits/9.754b84f78864.jpg">
+  <div class="benefit-detail bg-acidgreen">
+    <p class="head-heavy-sm w-full">Pro veřejné finance</p>
+    <div class="text-sm"><p data-block-key="3bn40">Rakouské předsednictví Rady v druhé polovině 2018 přispělo 135 miliony eur do hrubého domácího produktu a vytvořilo 2305 pracovních míst.<a href="#zdroje"><sup>[3]</sup></a></p></div>
+  </div>
+</div>
+
+          
+        </div>
+      
+
+      
+
+      
+
+      <h3 id="co-pro-to-uz-delame" class="head-alt-base mt-20 mb-10">Co pro to už děláme</h3>
+      <div class="content-block">
+        <p data-block-key="bq1ms"></p><ul class="unordered-list unordered-list-checks"><li class="mb-4" data-block-key="2t8r1">Interpelovali jsme Andreje Babiše ohledně stavu příprav a priorit českého předsednictví<a href="#zdroje"><sup>[1]</sup></a> a také nedostatečného rozpočtu na předsednictví.<a href="#zdroje"><sup>[2]</sup></a></li></ul>
+      </div>
+
+      <h3 id="na-co-se-nas-casto-ptate" class="head-alt-base mb-8 mt-20">Na co se nás často ptáte</h3>
+      <div class="space-y-1">
+        
+          
+<div class="accordeon-row">
+  <div class="accordeon-row-head" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+    <h3 class="accordeon-row-heading head-alt-xs">Kolik to bude stát?</h3>
+    <i class="ico--chevron-down"></i>
+  </div>
+  <div class="accordeon-row-body accordeon-row-body--classic">
+    <div>
+      <p><p data-block-key="mdvrd">Bez podrobné znalosti stavu přípravy předsednictví nemůžeme konkrétní náklady věrohodně vyčíslit. Odhadujeme, že české předsednictví bude vyžadovat výrazně vyšší náklady, než uvádí vláda<a href="#zdroje"><sup>[2]</sup></a> – kvůli nedostatečné přípravě předsednictví. </p></p>
+    </div>
+  </div>
+</div>
+
+        
+          
+<div class="accordeon-row">
+  <div class="accordeon-row-head" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+    <h3 class="accordeon-row-heading head-alt-xs">Co zajištění předsednictví obnáší v praxi?</h3>
+    <i class="ico--chevron-down"></i>
+  </div>
+  <div class="accordeon-row-body accordeon-row-body--classic">
+    <div>
+      <p><p data-block-key="3b107">Značné počty expertních úředníků na vedení legislativních vyjednávání, organizaci pracovních setkání a zastupování Rady EU vůči Evropskému parlamentu, Evropské komisi a dalším institucím EU.</p><p data-block-key="2eh3s">V době prvního předsednictví v roce 2009 bylo stálé zastoupení posíleno až o dalších 100 zaměstnanců, nyní se počítá s navýšením v řádu poloviny (cca 50 zaměstnanců).</p></p>
+    </div>
+  </div>
+</div>
+
+        
+      </div>
+
+      
+        <h3 id="souvisejici-body" class="head-alt-base mb-8 mt-20">Související body:</h3>
+
+        <div class="carousel-card-list __js-root">
+          <ui-app inline-template>
+            <ui-carousel>
+              <!--<carousel :perPage="4" :perPageCustom="[ [200, 1], [768, 3], [1024, 4]]" :navigationEnabled="true" :navigationNextLabel="nextlabel" :navigationPrevLabel="prevlabel" class="article-card-list pt-12 pb-8">-->
+              <carousel :per-page=1 :navigation-enabled="true" class="article-card-list pb-8">
+
+                <slide>
+                  <div class="grid grid-cols-1 md:grid-cols-2 gap-2 md:gap-8">
+
+                    
+                      <div class="card shadow-none bg-grey-125 card--hoveractive">
+                        <div class="card__body">
+                          <h1 class="card-headline mb-8"><a href="https://www.piratiastarostove.cz/program/silnejsi-hlas-v-evrope/">Silnější hlas v Evropě</a></h1>
+                          <div class="card-body-text"><a href="https://www.piratiastarostove.cz/program/silnejsi-hlas-v-evrope/"><p data-block-key="3ftzn">Buď můžeme brblat něco o diktátu Bruselu, anebo rozhodování EU aktivně ovlivňovat. Pojďme se více podílet na Evropě. Konstruktivně a nahlas!</p></a></div>
+                        </div>
+                      </div>
+                      
+                    
+                      <div class="card shadow-none bg-grey-125 card--hoveractive">
+                        <div class="card__body">
+                          <h1 class="card-headline mb-8"><a href="https://www.piratiastarostove.cz/program/chytra-valka-s-dezinformatory/">Chytrá válka s dezinformátory</a></h1>
+                          <div class="card-body-text"><a href="https://www.piratiastarostove.cz/program/chytra-valka-s-dezinformatory/"><p data-block-key="1xw28">Pravda zatím bohužel nevítězí. Dezinformátoři tahají za nos čtvrtinu z nás. Pojďme pravdě pomoci na světlo. Edukativně i právně.</p></a></div>
+                        </div>
+                      </div>
+                      
+                    
+
+                  </div>
+                </slide>
+
+              </carousel>
+            </ui-carousel>
+          </ui-app>
+        </div>
+      
+
+      <h3 id="zdroje" class="head-alt-base mb-8 mt-20">Klidně si to ověřte</h3>
+      <div class="content-block">
+        
+                    <div id="zdroj1" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[1]</div>
+                      <div class="inline-block align-top max-w-2xl">Poslanecká sněmovna PČR. Stenoprotokol 35. schůze ze dne 17. 10. 2019. 2019. Dostupné <a class="text-fxactivecolor underline" href="https://www.psp.cz/eknih/2017ps/stenprot/035schuz/s035114.htm">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj2" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[2]</div>
+                      <div class="inline-block align-top max-w-2xl">LIPAVSKÝ, Jan. Kdo šetří, má za tři... roky mizerné předsednictví. 5. 9. 2019. Dostupné <a class="text-fxactivecolor underline" href="https://blog.aktualne.cz/blogy/jan-lipavsky.php?itemid=34688">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj3" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[3]</div>
+                      <div class="inline-block align-top max-w-2xl">Spolkové kancléřství Rakouska. Shrnutí rakouského předsednictví. 2018. Dostupné <a class="text-fxactivecolor underline" href="https://www.eu2018.at/latest-news/news/01-04-2019-The-2018-Austrian-Presidency--of-the-Council-of-the-European-Union-at-a-glance-.html">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj4" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[4]</div>
+                      <div class="inline-block align-top max-w-2xl">MAZANCOVÁ, Hana. Šetřeme na chlebíčkách, ne na lidech. Poslanci se obávají vyhoření úředníků i nevyužitých šancí úsporného předsednictví. Deník N. 17. 3. 2021. Dostupné <a class="text-fxactivecolor underline" href="https://denikn.cz/584359/setreme-na-chlebickach-ne-na-lidech-poslanci-se-obavaji-vyhoreni-uredniku-i-nevyuzitych-sanci-usporneho-predsednictvi/">zde</a>.</div>
+                    </div>
+                    
+        <div id="zdroj5" class="source leading-loose text-sm">
+          <div class="inline-block align-top w-9 text-fxactivecolor">[5]</div>
+          <div class="inline-block align-top max-w-2xl">Evropská rada – Rada EU. Předsednictví Rady EU. 2021. Dostupné <a class="text-fxactivecolor underline" href="https://www.consilium.europa.eu/cs/council-eu/presidency-council-eu/">zde</a>.</div>
+        </div>
+        
+      </div>
+
+    </div>
+
+    <div class="container-collapsible-button-container w-full">
+      <button class="container-collapsible-button btn btn--icon text-lg block mx-auto" onclick="this.parentElement.parentElement.classList.add('container-collapsible-open');">
+        <div class="btn__body-wrap">
+          <div class="btn__body py-8 leading-4">Zobrazit více</div>
+          <div class="btn__icon px-8 bg-grey-800 border-grey-500">
+            <i class="ico--chevron-right"></i>
+          </div>
+        </div>
+      </button>
+    </div>
+
+  </div>
+</div>
+
+<script>
+  /*should run once on any page accordeon rows with fadeouts are present*/
+  document.addEventListener("DOMContentLoaded", setMaxHeightsFadeouts);
+  window.addEventListener('resize', setMaxHeightsFadeouts);
+
+  function setMaxHeightsFadeouts() {
+    // set height for css transition
+    var accordeonRowBodies = document.getElementsByClassName('accordeon-row-body--fadeout');
+
+    if (accordeonRowBodies !== null) {
+      for (var i = 0; i < accordeonRowBodies.length; i++) {
+        accordeonRowBodies[i].style.maxHeight = (parseInt(accordeonRowBodies[i].scrollHeight) + 32) + "px";
+      }; /*plus padding*/
+    }
+  }
+
+  document.addEventListener("DOMContentLoaded", setMaxHeights);
+  window.addEventListener('resize', setMaxHeights);
+
+  function setMaxHeights() {
+    // set height for css transition
+    var accordeonRowBodies = document.getElementsByClassName('accordeon-row-body--classic');
+
+    if (accordeonRowBodies !== null) {
+      for (var i = 0; i < accordeonRowBodies.length; i++) {
+        accordeonRowBodies[i].style.maxHeight = accordeonRowBodies[i].scrollHeight + "px";
+      };
+    }
+  }
+</script>
+
+
+ 

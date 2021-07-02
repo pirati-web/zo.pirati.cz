@@ -1,0 +1,554 @@
+---
+layout: default
+title:  Priority ZO - Silnější hlas v Evropě
+description: Priority ZO  - Silnější hlas v Evropě
+keywords: Priority ZO - Silnější hlas v Evropě
+---
+
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="https://www.piratiastarostove.cz/static/elections2021/images/favicon-bw-180.png" sizes="180x180">
+  <link rel="icon" type="image/png" href="https://www.piratiastarostove.cz/static/elections2021/images/favicon-bw-120.png" sizes="120x120">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="https://www.piratiastarostove.cz/static/elections2021/css/styleguide.min.css">
+  <link rel="stylesheet" href="https://www.piratiastarostove.cz/static/elections2021/css/styles.css">
+  <style type="text/css">
+    sup {
+      white-space: nowrap;
+    }
+    .head-alt-highlighted {
+      line-height: 1.2 !important;
+    }
+  </style>
+
+
+
+<div class="side-cta-panel--filter" id="side-cta-filter"></div>
+
+<div class="side-cta-panel-bar-wrapper">
+  <div class="side-cta-panel-bar" id="cta-side-bar" onclick="document.body.classList.add('ctaopen');getElementById('side-cta-filter').classList.add('side-cta-panel--filter--ctaopen');getElementById('cta-side').classList.add('side-cta-panel--ctaopen');">
+    <div class="side-cta-panel-bar--toggler"></div>
+    <div class="side-cta-panel-bar-el img-news bg-acidgreen elevation-6 hover:bg-darkacidgreen hover:elevation-1 transition-all cursor-pointer"></div>
+    <div class="side-cta-panel-bar-el img-help bg-lemon elevation-6 hover:bg-opacity-70 hover:elevation-1 transition-all cursor-pointer"></div>
+    <div class="side-cta-panel-bar-el img-support bg-white elevation-6 hover:bg-opacity-70 hover:elevation-1 transition-all cursor-pointer"></div>
+  </div>
+</div>
+
+    
+<div class="container container-default pt-4 pb-20">
+  <div class="w-full lg:w-4/6 relative container-collapsible">
+
+    <div class="floating-nav-wrapper hidden xl:block" id="floatingNavBarWrapper">
+      <div class="floating-nav-panel " id="floatingNavBar">
+        <div class="opener py-6 pb-16 px-11 bg-acidgreen text-white font-alt">
+          RYCHLÁ NAVIGACE
+        </div>
+        <div class="inner float-panel-inner elevation-2">
+          <ul>
+            <li><a href="#takhle-to-dal-nejde">Takhle to dál nejde</a></li>
+            <li><a href="#v-cem-je-problem">V čem je problém</a></li>
+            <li><a href="#nase-vize">Naše vize</a></li>
+            <li><a href="#jak-to-chceme-udelat" class="active">Jak to chceme udělat?</a></li>
+            <li><a href="#kolik-na-to-chceme-casu">Kolik na to chceme času?</a></li>
+            
+              <li><a href="#pro-koho-to-chceme-hlavne">Pro koho to chceme hlavně</a></li>
+            
+            <li><a href="#co-pro-to-uz-delame">Co pro to už děláme</a></li>
+            <li><a href="#na-co-se-nas-casto-ptate">Na co se nás často ptáte</a></li>
+            
+              <li><a href="#souvisejici-body">Související body</a></li>
+            
+            <li><a href="#zdroje">Klidně si to ověřte</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      window.addEventListener("load", onLoadFunction);
+      var anchorsArray = [];
+
+      function placeUponId(id, space) {
+        return document.getElementById(id).getBoundingClientRect().top + window.scrollY - space;
+      }
+
+      function onLoadFunction(e) {
+        var anchorElemsArray;
+        onResizeFunction();
+        for (const entry of anchorsArray) {
+          entry.menuitem.addEventListener("click", clickHandler);
+        }
+
+        function clickHandler(e) {
+          e.preventDefault();
+          var id = this.getAttribute("href").replace("#", "");
+          console.log(placeUponId(id, 20));
+          scroll({
+            top: placeUponId(id, 20),
+            behavior: "smooth"
+          });
+        }
+
+
+        window.addEventListener("resize", onResizeFunction);
+      }
+
+      function onResizeFunction(e) {
+        var itemsProcessed = 0;
+        var anchorElemsArray = document.getElementsByClassName("float-panel-inner")[0].querySelectorAll("li a");
+        anchorsArray = [];
+        anchorElemsArray.forEach(function(entry) {
+          var id = entry.getAttribute("href").replace("#", "");
+          anchorsArray.push({
+            id: id,
+            top: placeUponId(id, 200),
+            menuitem: entry
+          });
+          itemsProcessed++;
+          if (itemsProcessed === anchorElemsArray.length) {
+            anchorsArray.reverse();
+          }
+        });
+        console.log(anchorsArray);
+      }
+      window.onscroll = function() {
+        var top = window.pageYOffset || document.documentElement.scrollTop;
+        var activereached = false;
+        anchorsArray.forEach(function(entry) {
+          entry.menuitem.classList.remove("active");
+          entry.menuitem.classList.remove("passed");
+          if (top >= placeUponId(entry.id, 200)) {
+            if (activereached) entry.menuitem.classList.add("passed");
+            else entry.menuitem.classList.add("active");
+            activereached = true;
+          }
+        });
+      };
+    </script>
+
+    <header class="w-full md:w-5/6">
+      <div class="mt-10 md:mt-12">
+        <h1 class="head-alt-md md:head-alt-lg head-alt-highlighted">Silnější hlas v Evropě</h1>
+        <h2 class="head-alt-sm md:head-alt-md mb-20 mt-9">
+          <div class="leading-tight"><p data-block-key="3ftzn">Buď můžeme brblat něco o diktátu Bruselu, anebo rozhodování EU aktivně ovlivňovat. Pojďme se více podílet na Evropě. Konstruktivně a nahlas!</p></div>
+        </h2>
+      </div>
+    </header>
+
+    <div class="problem-pack">
+      <section id="takhle-to-dal-nejde" class="program-detail-problem-solution mb-20">
+
+        <div class="problem-cross"><i class="ico--thincross text-xs sm:text-xl text-white"></i></div>
+        <div class="problem-inner content-block">
+
+          <h2 class="head-alt-sm md:head-alt-md mb-9">Takhle to dál nejde</h2>
+          <p class="text-base mb-8 para">
+            <p data-block-key="d70hj">Česká vláda postrádá vizi Česka jako součásti Evropy a rozděluje společnost na „ČR versus EU”. Premiér namísto řešení společných evropských výzev kope za své vlastní zájmy.<a href="#zdroje"><sup>[1]</sup></a></p>
+          </p>
+
+          <div id="v-cem-je-problem">
+            <div class="accordeon-row accordeon-row--fadeout h-full">
+              <div class="accordeon-row-head" v-on:click="toggleElement" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+                <h3 class="accordeon-row-heading head-alt-xs mb-0">V čem je problém</h3>
+                <i class="ico--chevron-down"></i>
+              </div>
+              <div class="accordeon-row-body accordeon-row-body--fadeout" style="height: 220px; max-height: 560px;">
+                <div>
+                  <p data-block-key="r37x1">Česko ze společného rozpočtu EU dostává podstatně více peněz, než do něho dává. Od začátku našeho členství v EU do konce roku 2020 činil čistý příjem přes 896 miliard korun.<a href="#zdroje"><sup>[2, 28]</sup></a> Tato situace se již nebude do budoucna opakovat<a href="#zdroje"><sup>[3]</sup></a> a je třeba ji smysluplně využít.</p><p data-block-key="zuz12">Velký podíl legislativy přijímané v Česku vzniká na půdě EU, 45 procent vládních návrhů v tomto volebním období obsahovalo aspoň větu propsanou z evropské legislativy. Legislativa EU a její přínosy pro Česko jsou buď interpretovány chybně, nebo nejsou interpretovány vůbec. Přínosy se často prezentují jako problémy a diskuse se redukuje na kritiku EU jako celku.</p><p data-block-key="m1r4t">Česko nemá napříč resorty silný, vzdělaný a jazykově vybavený aparát, který by prosazoval zájmy Česka již v počátcích vyjednávání. </p><p data-block-key="bcy33">Problém pramení i v nesystematickém zjišťování potřeb našich občanů a nedostatečné analýze dopadů připravované evropské legislativy, bez čehož nejsme schopni s institucemi EU vykomunikovat přínosy pro občany a zvýšení kvality života v Česku.</p>
+                </div>
+              </div>
+              <button class="btn btn--icon absolute bottom-8 left-8" onclick="this.parentElement.classList.add('accordeon-row--open');">
+                <div class="btn__body-wrap">
+                  <div class="btn__body bg-acidgreen -bottom-20 text-black py-4">Zobrazit více</div>
+                  <div class="btn__icon bg-black">
+                    <i class="ico--chevron-right"></i>
+                  </div>
+                </div>
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <div id="nase-vize" class="ideal-check"><i class="ico--check text-xs sm:text-xl text-black"></i></div>
+        <div class="ideal-inner bg-lemon content-block">
+          <h2 class="head-alt-sm md:head-alt-md mb-9">Naše vize</h2>
+          <p class="text-base">
+            <p data-block-key="qsa9n">Česko se podílí na řešení společných výzev, hájí silnou fungující Evropu, dokáže prosazovat své oprávněné zájmy, aktivně připomínkuje unijní legislativu a věcně mluví o evropských tématech. V případě potřeby iniciuje společný postup v zájmu občanů ČR a ostatních členských zemí. </p>
+          </p>
+        </div>
+
+      </section>
+    </div>
+
+    <div id="jak-to-chceme-udelat" class="container-collapsible-content" style="height: 50vh;">
+
+      <h3 class="head-alt-base mb-8">Jak to chceme udělat?</h3>
+      <div class="content-block">
+        <p data-block-key="mrwfi"></p><ul class="unordered-list unordered-list-checks"><li class="mb-4" data-block-key="uhfpm">Budeme důsledně vyžadovat znalost světových jazyků u ministrů a náměstků. Klademe důraz na vzdělání a kvalifikaci diplomatů a úředníků vyjednávajících ve strukturách EU.</li><li class="mb-4" data-block-key="rzqk2">Ministři si v rámci své práce udělají dost času na vyjednávání a jednání v Radě EU.</li><li class="mb-4" data-block-key="17ldt">Zavedeme systematickou přípravu české pozice k jednotlivým návrhům. Budeme mít kvalitní analýzy očekávaných dopadů na ČR, aby naše argumenty brala EU vážně. Budeme postoj ČR konzultovat s občany a dotčenými aktéry (Sněmovna, Senát, státní správa, samosprávy, byznys a nevládní organizace).</li><li class="mb-4" data-block-key="a5szk">Nastolíme kulturu implementace evropského práva, aby byly části norem požadované EU objektivně označeny, poslanci nesváděli své chyby na EU a zákony odpovídaly principům evropského práva. Výstupy musí být veřejně přístupné. </li><li class="mb-4" data-block-key="rd4b4">Nominace eurokomisaře a zástupců v unijních institucích musí respektovat odbornost a být konzultována s odbornou veřejností. Odmítáme dosazování politických loutek.</li><li class="mb-4" data-block-key="ik0vu">Propojíme jednotlivé úrovně veřejné správy s EU. Posílíme naše zastoupení v EU včetně podpory pro města, regiony, profesní organizace a občanskou společnost při působení směrem k EU. Podpoříme vazby s Čechy napříč evropskými institucemi. </li><li class="mb-4" data-block-key="uelep">O problémech EU budeme informovat věcně a vyváženě. Stejně budeme postupovat i v případě, že schválená úprava podle nás nebude vhodná.</li><li class="mb-4" data-block-key="6e3xw">Posílíme vliv Česka v Evropě tím, že se nebudeme omezovat jen na spolupráci se spojenci z V4. Budeme na jednotlivých tématech aktivně spolupracovat se všemi ideově spřízněnými vládami.  </li><li class="mb-4" data-block-key="n25ss">Budeme podporovat jednotný vnitřní trh včetně plánu kroků pro přiblížení se euru, vytváření nových pracovních příležitostí, financování mobility pro studenty, volného cestování po Evropě a Zelené dohody pro Evropu (zejména jejího využití pro revitalizaci uhelných regionů).</li></ul>
+      </div>
+
+      <div id="kolik-na-to-chceme-casu" class="grid grid-cols-1 gap-8 my-20">
+        
+        
+          <div class="card shadow-none bg-grey-125">
+            <div class="card__body content-block">
+              <h3 class="card-headline mb-8">Kolik na to chceme času?</h3>
+              <p class="card-body-text para"><p data-block-key="srstg">Bude to kontinuální proces, jednotlivá opatření lze realizovat nezávisle na sobě.</p></p>
+            </div>
+          </div>
+        
+      </div>
+
+      
+        <h3 id="pro-koho-to-chceme-hlavne" class="head-alt-base mb-8 mt-20">Pro koho to chceme hlavně</h3>
+      
+
+      
+        <div class="program-detail-benefity my-8 grid grid-cols-1 sm:grid-cols-2 gap-4 lg:gap-8">
+          
+            
+<div class="benefit">
+  <img src="https://www.piratiastarostove.cz/static/elections2021/images/benefits/8.191fffeb5c56.jpg">
+  <div class="benefit-detail bg-acidgreen">
+    <p class="head-heavy-sm w-full">Pro nás pro všechny</p>
+    <div class="text-sm"><p data-block-key="hgthf">Občané budou i nadále profitovat ze svobod a příležitostí, jež nám EU zajišťuje.</p></div>
+  </div>
+</div>
+
+          
+            
+<div class="benefit">
+  <img src="https://www.piratiastarostove.cz/static/elections2021/images/benefits/1.b701cb996af2.jpg">
+  <div class="benefit-detail bg-acidgreen">
+    <p class="head-heavy-sm w-full">Pro mladé</p>
+    <div class="text-sm"><p data-block-key="19vkw">Naším cílem je vzdělanost. Podpoříme studium v rámci programu Erasmus+ a konkurenceschopnost českého pracovního trhu.</p></div>
+  </div>
+</div>
+
+          
+            
+<div class="benefit">
+  <img src="https://www.piratiastarostove.cz/static/elections2021/images/benefits/6.531fbb7e7cdf.jpg">
+  <div class="benefit-detail bg-acidgreen">
+    <p class="head-heavy-sm w-full">Pro živnostníky a podnikatele</p>
+    <div class="text-sm"><p data-block-key="aldc8">Přístup na společný trh pomáhá podnikům růst. Budeme hájit konkurenceschopnost českých podniků nejen při tvorbě legislativy.</p></div>
+  </div>
+</div>
+
+          
+            
+<div class="benefit">
+  <img src="https://www.piratiastarostove.cz/static/elections2021/images/benefits/9.754b84f78864.jpg">
+  <div class="benefit-detail bg-acidgreen">
+    <p class="head-heavy-sm w-full">Pro veřejné finance</p>
+    <div class="text-sm"><p data-block-key="e6e7y">Transparentním hospodařením a férovými pravidly dotací efektivně využijeme fondy EU na investice pro dlouhodobou prosperitu a rozvoj Česka.</p></div>
+  </div>
+</div>
+
+          
+        </div>
+      
+
+      
+
+      
+
+      <h3 id="co-pro-to-uz-delame" class="head-alt-base mt-20 mb-10">Co pro to už děláme</h3>
+      <div class="content-block">
+        <ul class="unordered-list unordered-list-checks"><li class="mb-4" data-block-key="jvyua">Piráti navrhli a prosadili usnesení Sněmovny k Plánu oživení EU. Vyzvali premiéra k jeho podpoře, vládu k efektivnímu zacílení investic a Komisi k důkladnější kontrole čerpání fondů.<a href="#zdroje"><sup>[17]</sup></a></li><li class="mb-4" data-block-key="brv2n">Přispěli jsme k usnesení Evropského parlamentu o „znovuotevření vyšetřování proti předsedovi vlády České republiky ohledně zneužívání fondů EU a možného střetu zájmů“, přijatého v červnu 2020.<a href="#zdroje"><sup>[2]</sup></a></li><li class="mb-4" data-block-key="b04d2">Výbor pro evropské záležitosti zaujal na náš návrh odůvodněné stanovisko (žlutou kartu) vůči návrhu nařízení, které by omezilo svobodu internetu.<a href="#zdroje"><sup>[16]</sup></a></li><li class="mb-4" data-block-key="3vb0c">Podpořili jsme Zelenou dohodu pro Evropu coby jedinečnou příležitost pro českou ekonomiku.<a href="#zdroje"><sup>[18]</sup></a></li><li class="mb-4" data-block-key="9jgic">Evropský parlament schválil návrhy evropských Pirátů týkající se otevřeného softwaru. Nově bude preferovaným řešením a jednotlivé instituce budou v každoročních výkazech hospodaření vykazovat, že takové řešení zvažovaly.<a href="#zdroje"><sup>[19]</sup></a></li><li class="mb-4" data-block-key="9cegm">Hájíme soukromí na internetu a šifrování online komunikací na internetu.<a href="#zdroje"><sup>[20]</sup></a></li><li class="mb-4" data-block-key="4j04q">Prosadili jsme usnesení, aby vláda vybírala české zástupce v Evropském hospodářském a sociálním výboru transparentně a férově.<a href="#zdroje"><sup>[22]</sup></a></li><li class="mb-4" data-block-key="9v0hq">Evropský parlament výraznou většinou schválil naši zprávu Výboru pro životní prostředí, veřejné zdraví a bezpečnost potravin, která upozorňuje na dopady odlesňování jak v EU, tak ve světě, a navrhuje opatření, která jej mají výrazně omezit.<a href="#zdroje"><sup>[23]</sup></a></li><li class="mb-4" data-block-key="fdf0o">Dlouhodobě se také zabýváme tématem plastového odpadu a omezením jeho škodlivého vlivu na životní prostředí.<a href="#zdroje"><sup>[24, 25]</sup></a></li><li class="mb-4" data-block-key="crm87">Hlasitě jsme upozorňovali na riziko, které pro čerpání evropských peněz představuje střet zájmů premiéra Andreje Babiše.<a href="#zdroje"><sup>[26, 27]</sup></a></li><li class="mb-4" data-block-key="6h62">Evropský výbor regionů jednomyslně schválil náš návrh stanoviska požadující posilování tzv. územní dimenze politiky soudržnosti EU s důrazem na využití komunitně vedeného místního rozvoje (CLLD).<a href="#zdroje"><sup>[29, 30]</sup></a></li><li class="mb-4" data-block-key="cgtb">Sněmovna na náš návrh podpořila běloruské občany a odsoudila represe ze strany Lukašenkova režimu.<a href="#zdroje"><sup>[21]</sup></a></li></ul>
+      </div>
+
+      <h3 id="na-co-se-nas-casto-ptate" class="head-alt-base mb-8 mt-20">Na co se nás často ptáte</h3>
+      <div class="space-y-1">
+        
+          
+<div class="accordeon-row">
+  <div class="accordeon-row-head" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+    <h3 class="accordeon-row-heading head-alt-xs">Kolik to bude stát?</h3>
+    <i class="ico--chevron-down"></i>
+  </div>
+  <div class="accordeon-row-body accordeon-row-body--classic">
+    <div>
+      <p><p data-block-key="prcni">Finanční náklady na pečlivější sledování evropské legislativy by se měly pohybovat v desítkách milionů korun ročně.</p></p>
+    </div>
+  </div>
+</div>
+
+        
+          
+<div class="accordeon-row">
+  <div class="accordeon-row-head" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+    <h3 class="accordeon-row-heading head-alt-xs">Jaký je váš názor na přijetí eura?</h3>
+    <i class="ico--chevron-down"></i>
+  </div>
+  <div class="accordeon-row-body accordeon-row-body--classic">
+    <div>
+      <p><p data-block-key="gy7q9">Piráti a Starostové podporují v tomto volebním období stabilizaci kurzu koruny vůči euru s určitou odchylkou formou vstupu do ERM II, což výrazně pomůže našim exportérům a sníží úroky ze státního dluhu. Podrobnější plán na přijetí eura máme <a href="https://www.pirati.cz/program/temata/euro/">zde</a>. Dále se v příštím volebním období budeme soustředit na osvětu, veřejnou diskusi o výhodnosti eura a analýzy výhodnosti.<a href="#zdroje"><sup>[4, 5]</sup></a> O případném přijetí eura se rozhodne až v delším horizontu.</p></p>
+    </div>
+  </div>
+</div>
+
+        
+          
+<div class="accordeon-row">
+  <div class="accordeon-row-head" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+    <h3 class="accordeon-row-heading head-alt-xs">Jaký je váš postoj k evropské armádě?</h3>
+    <i class="ico--chevron-down"></i>
+  </div>
+  <div class="accordeon-row-body accordeon-row-body--classic">
+    <div>
+      <p><p data-block-key="y0oo5">Podporujeme prohloubení evropské spolupráce v oblasti obrany, jako je např. projekt PESCO. Konkrétní podoba je k diskusi. Podrobnější informace k tématu máme zde (viz bod <a href="https://docs.google.com/document/d/1AhkeZ_TzW97jeUmYxgSty37g4BXQm4fSdtjCvhICGms/edit?usp=sharing">Zodpovědná obrana</a>).</p></p>
+    </div>
+  </div>
+</div>
+
+        
+          
+<div class="accordeon-row">
+  <div class="accordeon-row-head" onclick="if(this.parentElement.classList.contains('accordeon-row--open')) this.parentElement.classList.remove('accordeon-row--open'); else this.parentElement.classList.add('accordeon-row--open');">
+    <h3 class="accordeon-row-heading head-alt-xs">Jaký je váš postoj k migraci?</h3>
+    <i class="ico--chevron-down"></i>
+  </div>
+  <div class="accordeon-row-body accordeon-row-body--classic">
+    <div>
+      <p><p data-block-key="mv4x6">Tématem se podrobně zabýváme tady – viz bod Migrace.</p></p>
+    </div>
+  </div>
+</div>
+
+        
+      </div>
+
+      
+        <h3 id="souvisejici-body" class="head-alt-base mb-8 mt-20">Související body:</h3>
+
+        <div class="carousel-card-list __js-root">
+          <ui-app inline-template>
+            <ui-carousel>
+              <!--<carousel :perPage="4" :perPageCustom="[ [200, 1], [768, 3], [1024, 4]]" :navigationEnabled="true" :navigationNextLabel="nextlabel" :navigationPrevLabel="prevlabel" class="article-card-list pt-12 pb-8">-->
+              <carousel :per-page=1 :navigation-enabled="true" class="article-card-list pb-8">
+
+                <slide>
+                  <div class="grid grid-cols-1 md:grid-cols-2 gap-2 md:gap-8">
+
+                    
+                      <div class="card shadow-none bg-grey-125 card--hoveractive">
+                        <div class="card__body">
+                          <h1 class="card-headline mb-8"><a href="/priority/uspesne-predsednictvi/">Úspěšné předsednictví v Radě EU</a></h1>
+                          <div class="card-body-text"><a href="/priority/uspesne-predsednictvi/"><p data-block-key="n7eoy">Radě EU předsedáme už příští rok a vláda stále není připravena? Vždyť jde o šanci prosadit témata, která jsou pro nás důležitá! Dožeňme to!</p></a></div>
+                        </div>
+                      </div>
+                      
+                    
+
+                  </div>
+                </slide>
+
+              </carousel>
+            </ui-carousel>
+          </ui-app>
+        </div>
+      
+
+      <h3 id="zdroje" class="head-alt-base mb-8 mt-20">Klidně si to ověřte</h3>
+      <div class="content-block">
+        
+                    <div id="zdroj1" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[1]</div>
+                      <div class="inline-block align-top max-w-2xl">Evropský parlament. Usnesení Evropského parlamentu ze dne 19. června 2020 o obnovení vyšetřování předsedy vlády České republiky v souvislosti se zneužitím finančních prostředků EU a potenciálními střety zájmů (2019/2987(RSP)). 19. 6. 2020. Dostupné <a class="text-fxactivecolor underline" href="https://www.europarl.europa.eu/doceo/document/TA-9-2020-0164_CS.html">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj2" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[2]</div>
+                      <div class="inline-block align-top max-w-2xl">Evropská komise. Euromýty – Mýtus: Česká republika platí do EU více, než z ní dostává. 2016. Dostupné <a class="text-fxactivecolor underline" href="https://ec.europa.eu/czech-republic/news/euromyty_cs#plat%C3%AD">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj3" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[3]</div>
+                      <div class="inline-block align-top max-w-2xl">Evropská rada – Rada EU. Dlouhodobý rozpočet EU na období 2021–2027 a balíček opatření na podporu oživení. 17. 12. 2020. Dostupné <a class="text-fxactivecolor underline" href="https://www.consilium.europa.eu/cs/policies/the-eu-budget/long-term-eu-budget-2021-2027/">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj4" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[4]</div>
+                      <div class="inline-block align-top max-w-2xl">ŠÍDLOVÁ, Tereza. Babiš na předsednictví šetří, kde se dá. Za PR a průzkumy chce ale utratit 85 milionů. Deník N. 20. 7. 2020. Dostupné <a class="text-fxactivecolor underline" href="https://denikn.cz/399409/babis-na-predsednictvi-setri-kde-se-da-za-pr-a-pruzkumy-chce-ale-utratit-85-milionu/?ref=list">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj5" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[5]</div>
+                      <div class="inline-block align-top max-w-2xl">Ministerstvo financí ČR. Výhody a rizika zavedení eura. Dostupné <a class="text-fxactivecolor underline" href="https://www.zavedenieura.cz/cs/euro-a-ceska-republika/vyhody-a-rizika-eura">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj6" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[6]</div>
+                      <div class="inline-block align-top max-w-2xl">Ministerstvo financí ČR. Vyhodnocení plnění maastrichtských konvergenčních kritérií a stupně ekonomické sladěnosti ČR s eurozónou – 2020. 7. 12. 2020. Dostupné <a class="text-fxactivecolor underline" href="https://www.mfcr.cz/cs/zahranicni-sektor/pristoupeni-cr-k-eurozone/maastrichtska-kriteria-a-sladenost-cr/2020/vyhodnoceni-plneni-maastrichtskych-konve-40143">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj7" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[7]</div>
+                      <div class="inline-block align-top max-w-2xl">TICHÝ, Oldřich. Společným obřím dluhem ke světlým zítřkům a silnější integrované EU. Zpátky ni krok! Reflex. 22. 7. 2020. Dostupné <a class="text-fxactivecolor underline" href="https://www.reflex.cz/clanek/komentare/102132/spolecnym-obrim-dluhem-ke-svetlym-zitrkum-a-silnejsi-integrovane-eu-zpatky-ni-krok.html">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj8" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[8]</div>
+                      <div class="inline-block align-top max-w-2xl">Europeum. Euroskop.cz: Občané v Liberci diskutovali o EU 2 – Co nás čeká? 10. 10. 2019. Dostupné <a class="text-fxactivecolor underline" href="https://www.europeum.org/articles/detail/3005/euroskop-cz-obcane-v-liberci-diskutovali-o-eu-co-nas-ceka">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj9" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[9]</div>
+                      <div class="inline-block align-top max-w-2xl">Česká televize. Studio ČT24. 14. 12. 2020. Dostupné <a class="text-fxactivecolor underline" href="https://www.ceskatelevize.cz/ivysilani/10101491767-studio-ct24/220411058271214">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj10" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[10]</div>
+                      <div class="inline-block align-top max-w-2xl">Česká televize. Události, komentáře. 20. 12. 2018. Dostupné <a class="text-fxactivecolor underline" href="https://www.ceskatelevize.cz/ivysilani/1096898594-udalosti-komentare/218411000371220/titulky">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj11" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[11]</div>
+                      <div class="inline-block align-top max-w-2xl">ČTK, Euractiv. Politici vítají výsledek jednání o rozpočtu, kritizují Babišův přístup. 21. 6. 2020. Dostupné <a class="text-fxactivecolor underline" href="https://euractiv.cz/section/evropske-finance/news/politici-vitaji-vysledek-jednani-o-rozpoctu-kritizuji-babisuv-pristup/">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj12" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[12]</div>
+                      <div class="inline-block align-top max-w-2xl">ČTK, Euractiv. Začínají se rýsovat priority českého předsednictví. Prim bude hrát vnitřní trh. 10. 6. 2020. Dostupné <a class="text-fxactivecolor underline" href="https://euractiv.cz/section/cr-v-evropske-unii/news/zacinaji-se-rysovat-priority-ceskeho-predsednictvi-prim-bude-hrat-vnitrni-trh/">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj13" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[13]</div>
+                      <div class="inline-block align-top max-w-2xl">ČTK, Euractiv. SZIF na základě auditu EK neproplatí dotace Agrofertu a podnikům z okolí ministra Tomana. 6. 6. 2019. Dostupné <a class="text-fxactivecolor underline" href="https://euractiv.cz/section/evropske-finance/news/szif-na-zaklade-auditu-ek-neproplati-dotace-agrofertu-a-podnikum-z-okoli-ministra-tomana/">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj14" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[14]</div>
+                      <div class="inline-block align-top max-w-2xl">ČTK, Euractiv. Poslanci schválili přistoupení Česka k fiskálnímu paktu EU. 1. 11. 2018. Dostupné <a class="text-fxactivecolor underline" href="https://euractiv.cz/section/cr-v-evropske-unii/news/poslanci-schvalili-pristoupeni-ceska-k-fiskalnimu-paktu-eu/">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj15" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[15]</div>
+                      <div class="inline-block align-top max-w-2xl">ZACHOVÁ, Aneta. Stanislav Polčák: Střet zájmů premiéra ČR je v Evropě dosud nevídaný. Musí být co nejdříve vyřešen. Euractiv.cz. 30. 1. 2019. Dostupné <a class="text-fxactivecolor underline" href="https://euractiv.cz/section/politika/interview/stanislav-polcak-stret-zajmu-premiera-cr-je-v-evrope-dosud-nevidany-musi-byt-co-nejdrive-vyresen/">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj16" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[16]</div>
+                      <div class="inline-block align-top max-w-2xl"> Piráti. Piráti odmítli používání hrozby terorismem jako biče na svobodný internet. Dostupné <a class="text-fxactivecolor underline" href="https://www.pirati.cz/pripoj-se/ezo/#16496_pirati-odmitli-bic-na-internet-upleteny-pod-zaminkou-boje-proti-terorismu">zde</a>. Kolaja: Terorismus jako záminka pro ničení svobody. Hrozí mazání nevinného obsahu na Internetu. 2020. Dostupné <a class="text-fxactivecolor underline" href="https://www.pirati.cz/tiskove-zpravy/terorismus-zaminka-k-mazani-obsahu.html">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj17" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[17]</div>
+                      <div class="inline-block align-top max-w-2xl">Piráti. Piráti prosadili, aby premiér Babiš podpořil plán obnovy EU, vládní poslanci však odmítají důslednou kontrolu těchto fondů. 10. 7. 2020. Dostupné <a class="text-fxactivecolor underline" href="https://www.pirati.cz/tiskove-zpravy/plan-obnovy-eu-babis-podpori-odmita-kontrolu.html">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj18" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[18]</div>
+                      <div class="inline-block align-top max-w-2xl">Piráti. Piráti podpořili Zelenou dohodu pro Evropu, považují ji za jedinečnou příležitost pro českou ekonomiku. 29. 4. 2020. Dostupné <a class="text-fxactivecolor underline" href="https://www.pirati.cz/tiskove-zpravy/zelena-dohoda-pro-evropu-je-prilezitost.html">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj19" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[19]</div>
+                      <div class="inline-block align-top max-w-2xl">Piráti. Evropský parlament: software v evropských institucích má být Open Source. 15. 5. 2020. Dostupné <a class="text-fxactivecolor underline" href="https://www.pirati.cz/tiskove-zpravy/ep-sofware-ma-byt-open-source.html">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj20" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[20]</div>
+                      <div class="inline-block align-top max-w-2xl">Piráti. Evropská komise chce prolomit šifrování soukromých konverzací na internetu. Jde o narušení listovního tajemství, namítají Piráti. 5. 11. 2020. Dostupné <a class="text-fxactivecolor underline" href="https://www.pirati.cz/tiskove-zpravy/ek-chce-prolomit-sifrovani-internetove-komunikace.html">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj21" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[21]</div>
+                      <div class="inline-block align-top max-w-2xl">Piráti. Na popud Pirátů dnes podpořila Sněmovna běloruské občany. Žádá propuštění politických vězňů i prošetření brutalit Lukašenkova režimu. 19. 8. 2020. Dostupné <a class="text-fxactivecolor underline" href="https://www.pirati.cz/tiskove-zpravy/volby-v-belorusku-usneseni.html">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj22" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[22]</div>
+                      <div class="inline-block align-top max-w-2xl">Piráti. Komentář Františka Kopřivy: Evropská komise stopla podezřelé vládní kandidáty do výboru EU. Piráti prosadili usnesení, aby nový výběr zástupců probíhal transparentně a férově. 8. 10. 2020. Dostupné <a class="text-fxactivecolor underline" href="https://www.pirati.cz/tiskove-zpravy/vybor-eu-kandidati-transparentne.html">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj23" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[23]</div>
+                      <div class="inline-block align-top max-w-2xl">STAN. Evropský parlament schválil naši zprávu o obnově lesů. 16. 9. 2020. Dostupné <a class="text-fxactivecolor underline" href="https://www.starostove-nezavisli.cz/info-a-media/tiskove-zpravy/evropsky-parlament-schvalil-nasi-zpravu-o-obnove-lesu">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj24" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[24]</div>
+                      <div class="inline-block align-top max-w-2xl">Piráti. Piráti vítají návrh směrnice, která omezí plasty. Nejlepší je odpad, který nevznikne. 12. 7. 2018. Dostupné <a class="text-fxactivecolor underline" href="https://www.pirati.cz/tiskove-zpravy/smernice-omezi-plasty.html">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj25" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[25]</div>
+                      <div class="inline-block align-top max-w-2xl">ELS. Polčák: Problém plastových odpadů je třeba řešit okamžitě. 24. 10. 2018. Dostupné <a class="text-fxactivecolor underline" href="https://www.eppgroup.eu/cs/nase-cinnost/s-clenskymi-staty/ceska-republika/zpravy/polcak-problem-plastovych-odpadu-je-treba-resit-okamzite">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj26" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[26]</div>
+                      <div class="inline-block align-top max-w-2xl">Piráti. Komentář Mikuláše Peksy: Střet zájmů Babiše potvrdila kontrolní mise. Musí se zbavit svého majetku nebo politické moci, jinak Česko může skončit u soudu. 29. 4. 2020. Dostupné <a class="text-fxactivecolor underline" href="https://www.pirati.cz/tiskove-zpravy/babisuv-stret-zajmu-potvrzen.html">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj27" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[27]</div>
+                      <div class="inline-block align-top max-w-2xl">Piráti. Peksa: Další analýza dokazuje Babišův střet zájmů. Žádám o nový audit. 17. 3. 2021. Dostupné <a class="text-fxactivecolor underline" href="https://www.pirati.cz/tiskove-zpravy/peksa-babisuv-stret-zajmu.html">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj28" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[28]</div>
+                      <div class="inline-block align-top max-w-2xl">Ministerstvo financí ČR. Čistá pozice ČR ve vztahu k rozpočtu EU: 2004–2020. Dostupné <a class="text-fxactivecolor underline" href="https://www.mfcr.cz/cs/zahranicni-sektor/hospodareni-eu/pozice-cr-vuci-rozpoctu-eu/2020/cista-pozice-cr-ve-vztahu-k-rozpoctu-eu-39115">zde</a>.</div>
+                    </div>
+                    
+                    <div id="zdroj29" class="source leading-loose text-sm">
+                      <div class="inline-block align-top w-9 text-fxactivecolor">[29]</div>
+                      <div class="inline-block align-top max-w-2xl">European Committee of the Regions. Community-led local development: strengthening territorial cohesion. 10. 10. 2019. Dostupné <a class="text-fxactivecolor underline" href="https://cor.europa.eu/en/news/Pages/Community-led-local-development.aspx">zde</a>.</div>
+                    </div>
+                    
+        <div id="zdroj30" class="source leading-loose text-sm">
+          <div class="inline-block align-top w-9 text-fxactivecolor">[30]</div>
+          <div class="inline-block align-top max-w-2xl">Evropského výbor regionů. Příspěvek VR k obnovené územní agendě se zvláštním důrazem na komunitně vedený místní rozvoj. 8. 10. 2019. Dostupné <a class="text-fxactivecolor underline" href="https://cor.europa.eu/cs/our-work/Pages/OpinionTimeline.aspx?opId=CDR-1897-2019">zde</a>.</div>
+        </div>
+        
+      </div>
+
+    </div>
+
+    <div class="container-collapsible-button-container w-full">
+      <button class="container-collapsible-button btn btn--icon text-lg block mx-auto" onclick="this.parentElement.parentElement.classList.add('container-collapsible-open');">
+        <div class="btn__body-wrap">
+          <div class="btn__body py-8 leading-4">Zobrazit více</div>
+          <div class="btn__icon px-8 bg-grey-800 border-grey-500">
+            <i class="ico--chevron-right"></i>
+          </div>
+        </div>
+      </button>
+    </div>
+
+  </div>
+</div>
+
+<script>
+  /*should run once on any page accordeon rows with fadeouts are present*/
+  document.addEventListener("DOMContentLoaded", setMaxHeightsFadeouts);
+  window.addEventListener('resize', setMaxHeightsFadeouts);
+
+  function setMaxHeightsFadeouts() {
+    // set height for css transition
+    var accordeonRowBodies = document.getElementsByClassName('accordeon-row-body--fadeout');
+
+    if (accordeonRowBodies !== null) {
+      for (var i = 0; i < accordeonRowBodies.length; i++) {
+        accordeonRowBodies[i].style.maxHeight = (parseInt(accordeonRowBodies[i].scrollHeight) + 32) + "px";
+      }; /*plus padding*/
+    }
+  }
+
+  document.addEventListener("DOMContentLoaded", setMaxHeights);
+  window.addEventListener('resize', setMaxHeights);
+
+  function setMaxHeights() {
+    // set height for css transition
+    var accordeonRowBodies = document.getElementsByClassName('accordeon-row-body--classic');
+
+    if (accordeonRowBodies !== null) {
+      for (var i = 0; i < accordeonRowBodies.length; i++) {
+        accordeonRowBodies[i].style.maxHeight = accordeonRowBodies[i].scrollHeight + "px";
+      };
+    }
+  }
+</script>
