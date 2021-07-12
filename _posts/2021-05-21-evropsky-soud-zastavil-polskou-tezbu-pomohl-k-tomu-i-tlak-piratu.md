@@ -1,7 +1,7 @@
 ---
 date:         2021-05-21
 category:     blog
-tags:         zahraničí životní-prostředí Polsko
+tags:         zahraničí životní-prostředí Polsko evropská-unie
 layout:       post
 title:        "Evropský soud zastavil nezákonnou těžbu v polském dole Turów. Došlo k tomu i díky ročnímu tlaku Pirátů na vládu, aby podala žalobu"
 image:        posts/Dana_Turow.jpg

@@ -1,18 +1,26 @@
 ---
 layout: default
-title: Téma - Zahranicní politika Evropské Unie
-description: Zahranicní politika Evropské Unie
-keywords: eu, piráti
+title: Téma - Zahraniční politika ČR v kontextu Evropské unie
+description: Zahraniční politika  ČR v kontextu  Evropské unie
+keywords: eu, piráti, evropská-politika
 ---
-<div class="o-section">
-  <div class="row">
 
-   <a href="https://www.pirati.cz/program/europarlament2019/"><img src="https://jihocesky.pirati.cz/assets/82dbf2-abe6be96249f76ea71511ac7855a53f2d9db5b0954aeb7459bc33becbaf6e538.jpg"></a>
-
+<div class="row">
+  <div class="columns">
+    <div class="o-section">
+      <div class="o-section-inner">
+          <header class="c-page-header">
+            <h1 itemprop="headline" class="c-page-title">Zahraniční politika ČR v kontextu Evropské unie</h1>
+          </header>
+          {% assign tag = 'evropská-unie'   %}
+          <ul>
+          {% for post in site.tags[tag] limit:12 %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>{% endfor %}
+          </ul><hr><hr>
+         {% assign posts=site.tags[tag] %} 
+         {% include articles/list-responsive.html posts=posts %}
+         {% include articles/pagination.html paginator=paginator %}
+      </div>
+    </div>
   </div>
-  <div class="row">
-
-  </div>
-  
-  
 </div>

@@ -1,7 +1,7 @@
 ---
 date:         2021-04-29
 category:     blog
-tags:         cenzura legislativa sněmovna
+tags:         cenzura legislativa sněmovna evropská-unie
 layout:       post
 title:        "Pravidla internetu, která navrhuje Klaus, jsou absurdní. EU je musí řešit systémově, říká europoslanec Kolaja"
 image:        posts/marcel-kolaja02.jpg

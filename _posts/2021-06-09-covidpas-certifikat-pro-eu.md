@@ -1,7 +1,7 @@
 ---
 date:         2021-06-09
 category:     blog
-tags:         koronavirus zahraničí
+tags:         koronavirus zahraničí evropská-unie
 layout:       post
 title:        "Covid pas schválen i s možností karantény. „Bojím se chaosu,“ říká Kolaja"
 image:        posts/marcel-kolaja01.jpg

@@ -1,7 +1,7 @@
 ---
 date:         2021-06-17
 category:     blog
-tags:         bezpečnost finance Slovensko
+tags:         bezpečnost finance Slovensko evropská-unie
 layout:       post
 title:        "Ivan Bartoš a Vít Rakušan jednali na bezpečnostní konferenci se slovenským premiérem Hegerem o postcovidové obnově ekonomiky, při vystoupení v panelu Bartoš varoval před sílícím extremismem"
 image:        posts/bartos-rakusan-globesec.jpg

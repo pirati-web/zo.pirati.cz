@@ -1,7 +1,7 @@
 ---
 date:         2021-06-02
 category:     blog
-tags:         evropská-unie
+tags:         evropská-unie iniciativy
 layout:       post
 title:        "Pirátští europoslanci: Konference o budoucnosti Evropy je jedinečná šance na změnu. Zapojte se i vy"
 image:        posts/kolaja-gregorova-peksa.jpg

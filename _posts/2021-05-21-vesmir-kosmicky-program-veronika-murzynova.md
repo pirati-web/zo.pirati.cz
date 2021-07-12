@@ -1,6 +1,6 @@
 ---
 layout: post
-category: esa
+category: esa 
 title: 'Vesmír není tak daleko, jak se zdá,“ říká autorka kosmického programu Veronika Murzynová'
 date: 2021-05-21
 author: Jana Ožanová
@@ -10,7 +10,7 @@ tags:
   - Kosmický-program		
   - Doprava
   - Veronika-Murzynová			
-
+  - evropská-unie
 ---
 
 Ostrava, 21. května 2021 – **Možná taky patříte k těm, kteří si pod pojmem Vesmír představí vzdálené galaxie, astronauty nebo cestování na Mars. Vesmír a kosmické aktivity se nás ale dotýkají mnohem víc, než se zdá, jsou běžnou součástí našich životů, třeba když vezmeme do ruky mobil a zapneme navigaci. Bez schopnosti pozorovat Zemi z oběžné dráhy bychom nikdy neměli přesné a aktuální mapy, nerozuměli bychom klimatickým změnám ani vhodným způsobům jejich řešení. Pozorování Země nám nabízí možnost studovat vodu v krajině, stav úrody nebo zefektivnit práci zemědělců. Věda, výzkum a kosmický průmysl jsou příležitostí pro rozvoj a udržitelnost české ekonomiky, ale i pro sjednocující inspiraci celé společnosti. O tom je přesvědčena ostravská zastupitelka Veronika Murzynová, rodačka z Orlové, která vystudovala astrofyziku a u Pirátů má na starosti kosmický program. Nedávno se také účastnila Evropské meziparlamentární vesmírné konference, kde již třetím rokem prezentovala stav českého kosmického sektoru.**

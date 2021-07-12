@@ -1,7 +1,7 @@
 ---
 date:         2021-05-03
 category:     blog
-tags:         životní-prostředí vláda
+tags:         životní-prostředí vláda evropská-unie
 layout:       post
 title:        "Dohoda mezi ČR a Německem otevře dveře stavbám na Labi"
 image:        posts/dana-balcarova03.jpg
