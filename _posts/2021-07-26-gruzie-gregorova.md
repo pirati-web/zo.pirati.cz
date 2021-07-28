@@ -4,7 +4,7 @@ category:     blog
 tags:         vzdělání vláda lidská-práva
 layout:       post
 title:        "Kam kráčíš, Gruzie? Debata hledala východiska dlouhodobé krize v zemi"
-image:        posts/Gregorova_3jpg
+image:        posts/Gregorova_3.jpg
 author:       
 ---
 
