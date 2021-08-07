@@ -191,7 +191,49 @@ Debata se zaměří na běloruský odboj a co pro něj může dělat a dělá Č
    </div>
   </div> 
 </section>
+<section class="invert">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm">
+	      <div class="program-element-header">
+          <h3>BĚLORUSKO V MÉDIÍCH</h3></div>
+      </div>
+    </div>
+  </div>
+</section>
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm">
+       <div class="program-element-header">
+         <ul>
+         <li>6. 8. 2021 - <a  class="font-weight-normal" href="https://www.idnes.cz/zpravy/zahranicni/belorusko-lukasenko-alexandr-vezensky-tabor.A210806_061152_zahranicni_bakl">Lukašenko bude na protesty připravený. Nechal zřídit tábor pro rebely</a></li>
+         <li>4. 8. 2021 - <a  class="font-weight-normal" href="https://www.novinky.cz/zahranicni/clanek/ukrajinsky-prezident-po-smrti-sysova-naridil-chranit-belorusy-40368148#utm_content=obsahovky&utm_medium=result&utm_source=search.seznam.cz&utm_term=belorusko">Ukrajinský prezident po smrti Šyšova nařídil chránit Bělorusy</a></li>
+         <li>3. 8. 2021 - <a  class="font-weight-normal" href="https://ct24.ceskatelevize.cz/svet/3349546-pohresovany-belorusky-aktivista-byl-nalezen-mrtvy-v-kyjeve">Pohřešovaného běloruského aktivistu našli oběšeného v Kyjevě</a></li>
+         <li>3. 8. 2021 - <a  class="font-weight-normal" href="https://www.irozhlas.cz/zpravy-svet/belorusko-olympiada-tokio-lukasenko-unos-bezkyne-sprinterka-polsko-cesko_2108030641_eku">Z Tokia ji chtěli odvléct domů, běloruská atletka se ale nedala. Příběh běžkyně, která se vzepřela režimu </a></li>
+         <li>17.7. 2021 - <a  class="font-weight-normal" href="https://denikn.cz/667238/lukasenko-spustil-uprchlickou-krizi-v-litve-pochytejte-si-je-vzkazuje-evrope/">Lukašenko spustil uprchlickou krizi v Litvě. Pochytejte si je, vzkazuje Evropě</a></li>
+         <li>28.7. 2021 - <a  class="font-weight-normal" href="https://www.irozhlas.cz/zpravy-svet/beloruskou-urady-soud-belsat-zablokovani-extremismus_2107280634_tzr">Tažení proti médiím v Bělorusku pokračuje. Úřady zablokovaly kanál Belsat, označily ho za extremistický</a></li>
+         <li>18.7. 2021 - <a  class="font-weight-normal" href="https://www.irozhlas.cz/komentare/summit-putin-lukasenko-stvrdil-zavislost-komentar_2107180629_btk">Summit Putin–Lukašenko jen stvrdil závislost Běloruska na Rusku</a></li>
+         <li>9. 7. 2021 - <a  class="font-weight-normal" href="https://www.irozhlas.cz/komentare/viktar-babaryka-belorusko-14-let-vezeni-lukasenka-komentar_2107090629_jgr"> Proč dostal v Bělorusku Babaryka tak vysoký trest? </a></li>
+         <li>9. 6. 2021 - <a  class="font-weight-normal" href="https://www.irozhlas.cz/zpravy-domov/jakub-kulhanek-svjatlana-cichanouska-belorusko-opozice-sankce-lukasenko_2106091805_tzr">Kulhánek podpoří uvalení sankcí na běloruský režim. Lukašenkovy metody podle něj nepatří do 21. století</a></li>
+         <li>7. 6. 2021 - <a  class="font-weight-normal" href="https://www.irozhlas.cz/zpravy-domov/svjatlana-cichanouska-v-praze-cesko-belorusko-senat-milos-vystrcil_2106071141_ako">Lukašenkův režim je teroristický, řekla Cichanouská. Šéf Senátu Vystrčil ji označil za prezidentku Běloruska</a></li>
+         <li>26.5. 2021 - <a  class="font-weight-normal" href="https://www.novinky.cz/zahranicni/clanek/beloruska-opozice-planuje-novou-vlnu-protestu-40361445#utm_content=obsahovky&utm_medium=result&utm_source=search.seznam.cz&utm_term=belorusko">Běloruská opozice plánuje novou vlnu protestů</a></li>
+         <li>23.5. 2021 - <a  class="font-weight-normal" href="https://www.irozhlas.cz/zpravy-svet/belorusko-letadlo-bomba-nouzove-pristani-lukasenko-cichanouska_2105231547_onz">Bělorusko přinutilo přistát letadlo společnosti Ryanair. Na palubě zadrželo Lukašenkova odpůrce </a></li>
+         <li>17.5. 2021 - <a  class="font-weight-normal" href="https://www.novinky.cz/zahranicni/evropa/clanek/cesta-beloruska-k-demokracii-bude-delsi-a-slozitejsi-nez-jsme-mysleli-rika-obhajkyne-lidskych-prav-40360500#utm_content=obsahovky&utm_medium=result&utm_source=search.seznam.cz&utm_term=belorusko">Cesta Běloruska k demokracii bude delší a složitější, než jsme mysleli, říká obhájkyně lidských práv </a></li>
+         <li>29.5. 2021 - <a  class="font-weight-normal" href="https://www.irozhlas.cz/ekonomika/americke-sankce-proti-belorusku-ryanair-putin-pratasevic-minsk_2105291036_ban">Spojené státy opět zavedou sankce proti běloruským firmám. Požadují prošetření přistání v Minsku</a></li>
+         <li>24.5. 2021 - <a  class="font-weight-normal" href="https://www.irozhlas.cz/zpravy-svet/belorusko-summit-evropska-unie-raman-pratasevic-ryanair-lukasenko-von-der-layenv_2105242245_jgr">Summit Evropské unie vyzval k potrestání Běloruska. Lídři států chtějí znemožnit přelety i letecké spojení</a></li>
+         <li>15.4. 2021 - <a  class="font-weight-normal" href="https://www.irozhlas.cz/zpravy-domov/belorusko-technicka-univerzita-v-liberci-liberec_2104151747_ako">Pronásledovaní studenti z Běloruska našli útočiště v Liberci. Univerzita používala šifrovanou komunikaci </a></li>
+         <li>21.9. 2020 - <a  class="font-weight-normal" href="https://www.irozhlas.cz/zpravy-svet/belorusko-sankce-eu-ministri-tomas-petricek-lukasenko-cichanouska-kypr-turecko_2009211821_gak">Unijní ministři se na běloruských sankcích neshodli. Jednání zablokoval Kypr kvůli sporům s Tureckem</a></li>
+         <li>17.9. 2020 - <a  class="font-weight-normal" href="https://ria.ru/20200917/granitsa-1577412073.html">Lukašenko: Bělorusko uzavře hranice s Litvou, Polskem a Ukrajinou. </a></li>
 
+</ul>
+        </div>
+        <div class="program-element-header">
+</div>
+    </div>
+   </div>
+  </div> 
+</section>
 <section class="invert">
     <div class="container">
       <div class="row">
