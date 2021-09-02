@@ -11,9 +11,7 @@ description: 'Cílem zahraniční a bezpečnostní politiky Německa by měla b�
 author: Alex Kohler
 image: posts/pipeline.jpg
 ---
-
-*Alex Kohler, Německá pirátská strana* - překlad ČPS
-
+*Alex Kohler - Německá pirátská strana -*
 Cílem zahraniční a bezpečnostní politiky Německa by měla být v první řade podpora spolupráce v Evropě a prosazování společných evropských bezpečnostních zájmů. Součástí těchto cílů by měl být ohled na Německé partnery v EU. SPD /němečtí Sociální demokraté, pozn. překl./ a jimi vedené ministerstvo zahraničí navenek sice plně podporují takovouto společnou evropskou zahraniční politiku, ve skutečnosti se však chovají zcela opačně. V zahraniční a bezpečností police, podobně jako je tomu i v dalších oblastech vyžadujících odolnost <a href="https://aussenpolitik.piratenpartei.de/2020/07/08/resilienz-in-deutschland-und-europa/"><sup>[1]</sup></a>, například při zvládání přírodních katastrof nebo připravenosti na pandemii, se od státu očekává, že včas rozpozná hrozící nebezpečí, jedná prozíravě a koordinuje svá protiopatření se svými partnery.
 
 
