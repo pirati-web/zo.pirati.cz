@@ -4,7 +4,7 @@ category:     blog
 tags:         chaireu program evropská-unie erasmus
 layout:       post
 title:        "Koordinovanější Evropa a víc studentů na Erasmu. Koalice Pirátů a Starostů představuje svůj evropský program"
-image:        /assets/img/articles/2021/kolaja-vlajky.jpg
+image:        posts/kolaja-vlajky.jpg
 author:       
 ---
 
