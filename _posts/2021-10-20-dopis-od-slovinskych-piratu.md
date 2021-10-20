@@ -31,6 +31,9 @@ Generalní tajemník Pirátské strany Slovinska
 
 
 
+<img src="/assets/img/posts/logo_slovinsko.jpg">
+
+
 > Dear Czech Pirates.
 >
 >
