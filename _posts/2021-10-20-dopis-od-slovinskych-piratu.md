@@ -10,24 +10,23 @@ author:
 
 Drazí čeští Piráti, 
 
-	Jménem celé Pirátské strany Slovinska bych rád vyjádřil vděčnost za přijetí návštěvy naší delegace během vaší předvolební kampaně. 
+Jménem celé Pirátské strany Slovinska bych rád vyjádřil vděčnost za přijetí návštěvy naší delegace během vaší předvolební kampaně. 
 
-	Zvláště bychom chtěli poděkovat všem  Pirátům, kteří se rozhodli věnovat nám svůj čas uprostřed kampaně. 
+Zvláště bychom chtěli poděkovat všem  Pirátům, kteří se rozhodli věnovat nám svůj čas uprostřed kampaně. 
 
-	Byli jsme s vámi velmi rádi, energie kterou nesou lidé ve vaší straně je unikátní a jinde neopakovatelná. Návštěva nám poskytla velmi užitečný vhled, studovalí jsme váš merch, váš program, pirátské noviny, organizaci kontaktní kampaně a celkové poselství.
-	Máte velmi osobitý styl kampaňování, který se značně liší od standartních volebních kampaní.  Zkušenosti získané běhěm návštěvy zcela jistě použijeme v naší vlastní kampani.  
+Byli jsme s vámi velmi rádi, energie kterou nesou lidé ve vaší straně je unikátní a jinde neopakovatelná. Návštěva nám poskytla velmi užitečný vhled, studovalí jsme váš merch, váš program, pirátské noviny, organizaci kontaktní kampaně a celkové poselství. Máte velmi osobitý styl kampaňování, který se značně liší od standartních volebních kampaní.  Zkušenosti získané běhěm návštěvy zcela jistě použijeme v naší vlastní kampani.  
 
-	Parlamentní volby ve Slovinsku jsou plánovany nejpozději v červnu 2022 .  Byli bychom velmi potěšení kdybychom mohli oplatit pohostinnost a přijmout návštěvu vaší delegace během posledního týdne naší kampaně. 
+Parlamentní volby ve Slovinsku jsou plánovany nejpozději v červnu 2022 .  Byli bychom velmi potěšení kdybychom mohli oplatit pohostinnost a přijmout návštěvu vaší delegace během posledního týdne naší kampaně. 
 
-	Rádi bychom vyjádřili naši soustrast s tím jak  nakonec pro vás volby dopadli, hodně usilí jste věnovali celé kampani a obětovali jste svou politickou pozici k poražení Babiše a obraně demokracie. 
+Rádi bychom vyjádřili naši soustrast s tím jak  nakonec pro vás volby dopadli, hodně usilí jste věnovali celé kampani a obětovali jste svou politickou pozici k poražení Babiše a obraně demokracie. Navzdory tomu pevně věříme že budete schopni se obnovit a nastavit nový kurz. 
 
-	Navzdory tomu pevně věříme že budete schopni se obnovit a nastavit nový kurz. 
-
-	Česká Pirátská strana je a zůstane hlavní vzor pro celosvětové pirátské hnutí jako strana hodná respektu a obdivu. 
+Česká Pirátská strana je a zůstane hlavní vzor pro celosvětové pirátské hnutí jako strana hodná respektu a obdivu. 
 
 
-	Přejeme vám do budoucna vše nejlepší
+**Přejeme vám do budoucna vše nejlepší
   
+*Jasmin Feratović
+Generalní tajemník Pirátské strany Slovinska
   
 
 
