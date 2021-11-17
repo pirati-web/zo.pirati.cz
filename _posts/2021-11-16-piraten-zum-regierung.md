@@ -1,5 +1,5 @@
 ---
-date:         2021-11-16
+date:         2021-11-15
 category:     blog
 tags:         chaireu program evropská-unie 
 layout:       post
@@ -8,7 +8,7 @@ image:        posts/CRvlajka.jpg
 author:       
 ---
 
-Praha, 15. listopadu 2021 - Prag, 15. November 2021 - Die Mitglieder:Innen der Tschechischen Piratenpartei haben den Wortlaut des Koalitionsvertrags, und damit den faktischen Eintritt der Partei in die Regierung gebilligt. 82,1 Prozent der Abstimmenden sprachen sich für den Vorschlag aus (888 von 1082 Stimmen). Dabei handelte es sich um eine rekordmässige Wahlbeteiligung von 1082 aus 1193 Mitglieder:Innen. Dies entspricht 90,7 Prozent der Mitglieder:Innen.
+Prag, 15. November 2021 - Die Mitglieder:Innen der Tschechischen Piratenpartei haben den Wortlaut des Koalitionsvertrags, und damit den faktischen Eintritt der Partei in die Regierung gebilligt. 82,1 Prozent der Abstimmenden sprachen sich für den Vorschlag aus (888 von 1082 Stimmen). Dabei handelte es sich um eine rekordmässige Wahlbeteiligung von 1082 aus 1193 Mitglieder:Innen. Dies entspricht 90,7 Prozent der Mitglieder:Innen.
 
 > "Danke an alle Piraten und Piratenfrauen, die sich an dieser demokratischen Abstimmung beteiligt haben, die entscheiden sollte, in welcher Form unsere Partei die Zukunft dieses Landes mitgestalten wird. Ich sehe die gemeinsame Entscheidung, der Regierung beizutreten, als eine große Verpflichtung, die bestmögliche Arbeit zu leisten. Und es ist auch eine Verpflichtung für die Mitglieder:Innen der Piratenpartei gegenüber den Wähler:innen, die uns bei der Wahl ihr Vertrauen geschenkt hatten. Wir werden selbstverständlich nicht nur ihre Interessen, sondern die Interessen aller Bürger:Innen des Landes vertreten ", sagte dazu der Vorsitzende der Piratenpartei Ivan Bartos und fügte hinzu, dass die Wahlkoalition der PIRATEN und STAN (die Bewegung „Bürgermeister und Unabhängige“) das Vertrauen von 840 000 Wähler:innen gewonnen habe.
 
