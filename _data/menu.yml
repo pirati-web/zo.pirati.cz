@@ -20,7 +20,10 @@ main:
     name: PROJEKTY
     match: projekty
     submenu:
-      - link: /projekty/ppeu/
+      - link: https://pp-international.net/
+        name: PPI
+        match: ppi
+      - link: https://european-pirateparty.eu/
         name: PP EU
         match: ppeu
       - link: /tojestwojna/
@@ -29,16 +32,16 @@ main:
       - link: /tvare/
         name: Vraťte nám naše tváře
         match: tvare
-      - link: /projekty/ype/
+      - link: https://young-pirates.eu/
         name: YPE
         match: ype
-      - link: /projekty/volimvzahranici/
+      - link: https://volimvzahranici.pirati.cz/
         name: Zahraniční voliči
         match: volimvzahranici
-      - link: /projekty/digi/
+      - link: /digi
         name: DIGI konference
         match: digi
-      - link: /tema/covid/
+      - link: /tema/covid
         name: Coronaguide
         match: corona      
   - link: /tema/
