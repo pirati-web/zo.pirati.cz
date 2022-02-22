@@ -14,7 +14,7 @@ Pro evropské Piráty je údajný cíl boje proti praní špinavých peněz a te
 
 **Patrick Breyer**, německý pirátský europoslanec a člen výboru LIBE, komentuje:
 
-> “Úplný zákaz anonymních plateb v kryptoměnách by neměl žádný významný vliv na trestnou činnost, ale připravil by občany dodržující zákon o jejich finanční svobodu. Například představitelé opozice, jako je Alexej Navalnyj, čím dál víc závisí na anonymních darech ve virtuálních měnách. Banky také v minulosti přerušily dary pro Wikileaks. S plíživým rušením reálné i virtuální hotovosti hrozí záporné úrokové sazby a zastavení přesunu peněz. Musíme najít způsob, jak převzít nejlepší vlastnosti hotovosti do naší digitální budoucnosti. Měli bychom mít právo na to, abychom mohli platit a přispívat online, aniž by naše finanční transakce byly personalizovaně zaznamenávány. My Piráti se proti těmto plánům postavíme.”
+> “Úplný zákaz anonymních plateb v kryptoměnách by neměl žádný významný vliv na trestnou činnost, ale připravil by občany dodržující zákon o jejich finanční svobodu. Například představitelé opozice, jako je Alexej Navalnyj, čím dál víc závisí na anonymních darech ve virtuálních měnách. Banky také v minulosti přerušily dary pro Wikileaks. S plíživým rušením reálné i virtuální hotovosti hrozí záporné úrokové sazby a zastavení přesunu peněz. Musíme najít způsob, jak převzít nejlepší vlastnosti hotovosti do naší digitální budoucnosti. Měli bychom mít právo na placení a přispívání online, aniž by naše finanční transakce byly personalizovaně zaznamenávány. My Piráti se proti těmto plánům postavíme.”
 
 **Mikuláš Peksa**, europoslanec za českou Pirátskou stranu a člen výboru ECON, komentuje:
 
