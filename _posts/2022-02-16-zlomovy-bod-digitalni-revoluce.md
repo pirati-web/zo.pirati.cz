@@ -1,0 +1,27 @@
+---
+date:         2022-02-16
+category:     blog
+tags:         evropská-unie
+layout:       post
+title:        "Bude rok 2022 zlomovým bodem digitální revoluce?"
+image:        posts/data.png
+author:       Mikuláš Peksa
+---
+
+Loňský rok jsme v Evropském parlamentu vedli dlouhé debaty o tom, jakou podobu by měl mít dnešní online svět. Dominuje mu hrstka technologických gigantů, jako jsou Apple a Facebook, jejichž monopolní postavení nezdravě vychyluje rovnováhu digitálního ekosystému v jejich prospěch. Digitální prostor má globální rozsah, daleko za hranice členských států EU. Jsem tedy rád, že debata o nezbytné regulaci velkých digitálních platforem začíná pomalu nabývat transatlantického rozměru. Spojené státy, zejména americký Kongres, vedou s Evropskou unií dialog o tom, jak řešit dominanci monopolistických firem v digitálním prostředí. **Rok 2022 by měl být v tomto ohledu přelomový, ambiciózní debaty se konečně promítnou do konkrétních legislativních balíčků.**
+
+## Co se při digitálním přechodu pokazilo
+
+Dnešní digitální prostředí více než cokoli jiného připomíná anarchii, kde platí jen málo pravidel a vše je povoleno. Poslednímu evropskému zákonu, který ho upravuje, je dvacet let. Během těchto dvou desetiletí se platformy staly nedílnou součástí našich životů a dnes si lze jen těžko představit, že bychom se na Internetu obešli bez Googlu nebo Facebooku. Ačkoli pozitivní přínosy posledních let jsou zřejmé, dominantní postavení, které některé platformy získaly, jim kromě značných výhod oproti jejich konkurentům přineslo i nepřiměřený dopad na naši demokracii, společnost a ekonomiku.
+
+**Cílem plánovaných nařízení není zpomalit rozvoj digitálního světa nebo házet klacky pod nohy velkým platformám, ale chránit naše občany a jejich základní práva.** Dosud měly platformy výsadu stanovovat si vlastní pravidla. To však vedlo k situaci, kdy my jako jednotlivci a jednotlivé státy nemáme žádnou kontrolu nad tím, jaké informace o nás platformy uchovávají a jaký obsah nám na základě našich osobních údajů vnucují. Informace, které nám v listopadu v Evropském parlamentu osobně poskytla whistleblowerka Frances Haugenová, například ukázaly, že Facebook a Instagram kvůli zisku záměrně manipulují se zobrazovaným obsahem na úkor duševního zdraví nezletilých a demokratických hodnot. Kromě toho v posledních letech mnohokrát unikly citlivé osobní údaje uživatelů, jako jsou čísla domů nebo údaje o poloze. V roce 2021 byla například na hackerském fóru zveřejněna soukromá telefonní čísla 533 milionů uživatelů Facebooku. Mějme na paměti, že Facebook tato čísla shromažďoval zcela zbytečně, prostě proto, že mohl.
+
+## Nové evropská zákony - akt o digitálních službách amonopolů akt o digitálních trzích
+
+Dva nové evropské legislativní balíčky - akt o digitálních službách (DSA) a akt o digitálních trzích (DMA) - by měly tuto nerovnováhu mezi uživateli a platformami v roce 2022 ukončit. Schválení těchto zákonů je jednou z hlavních ambicí francouzského předsednictví v Radě EU, které právě začalo. Pokud se to nepodaří Francouzům, my Češi to stihneme v druhé polovině roku. **DSA a DMA by se měly stát důležitou součástí formování digitální revoluce v Evropě a precedentem pro další vznikající regulace jinde ve světě.** Jejich cílem je nastavit nová pravidla pro masivní platformy, jako je zmíněný Google, Apple, Facebook nebo Amazon. Důraz je kladen na bezpečnost a ochranu osobních údajů uživatelů. Nařízení umožní lidem větší kontrolu nad tím, co vidí online: uživatelé se budou moci rozhodnout, zda chtějí povolit cílenou reklamu, či nikoli, a budou mít jasné informace o tom, proč je jim doporučován konkrétní obsah. DSA a DMA jsou odhodlány chránit svobodný internet jako jedno z našich občanských práv. To znamená, že pokud například platformy odstraní náš online obsah bez dobrého důvodu, budeme moci jejich rozhodnutí napadnout a odvolat se.
+
+## Debata v USA
+
+Prakticky všechny velké platformy, na které bude mít evropská regulace hlavní dopad, sídlí v USA. Kdo by však očekával, že to vyvolá nový spor mezi Evropskou unií a Spojenými státy, mýlil by se. Ve Spojených státech probíhá debata o nových regulacích pomaleji než v Evropě, ale i tam se pravděpodobně ještě letos dočkáme výsledků práce kongresmanů bojujících za změnu antimonopolních zákonů. Hlavním problémem digitálního světa je právě existence neměnných monopolů, jejichž moc každým rokem roste. V červenci loňského roku prohlásil americký prezident Joe Biden, že ‘kapitalismus bez konkurence není kapitalismus’. Na potřebě rozbít velké technologické monopoly panuje v USA překvapivá shoda napříč politickým spektrem. V dubnu 2021 dokonce konzervativní republikánský senátor Ted Cruz vyjádřil názor, že ‘Big Tech dnes představuje největší kumulaci moci - tržní a monopolní - nad informacemi, jakou kdy svět viděl’. Americké regulace by měly fungovat podle stejného vzoru jako ty evropské, přičemž na prvním místě by měl být občan - uživatel, a teprve poté tržní zájmy platforem. Diskutuje se také o netransparentních a diskriminačních algoritmech, které technologické společnosti používají ke sběru dat a zobrazování reklamy.
+
+V roce 2022 proto můžeme očekávat zásadní posun ve směru globální digitální transformace. **Jak evropské akty o digitálních službách a trzích, tak vznikající legislativa v USA vytvoří precedens pro další rozvoj digitálního prostředí po celém světě.** Věřím, že tento obrat bude znamenat změnu k lepšímu ve prospěch uživatelů a v ochraně našich svobod a soukromí.
