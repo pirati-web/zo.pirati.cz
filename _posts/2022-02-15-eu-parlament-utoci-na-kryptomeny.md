@@ -4,7 +4,7 @@ category:     blog
 tags:         evropská-unie kryptoměny
 layout:       post
 title:        "Digitální hotovost: Parlament EU útočí na anonymní platby v kryptoměnách"
-image:        posts/bitcoin-patrick-breyer.png
+image:        posts/bitcoin.jpg
 author:       Patrick Breyer
 ---
 
