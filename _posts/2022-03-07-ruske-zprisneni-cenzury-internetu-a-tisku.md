@@ -3,7 +3,7 @@ date:         2022-03-07
 category:     blog
 tags:         evropská-unie lidská-práva rusko
 layout:       post
-title:        "Rusko zpřísňuje cenzuru internetu a tisku"
+title:        "Rusko zpřísňuje cenzuru Internetu a tisku"
 image:        posts/cenzura.jpg
 author:       Patrick Breyer, přeloženo
 ---
