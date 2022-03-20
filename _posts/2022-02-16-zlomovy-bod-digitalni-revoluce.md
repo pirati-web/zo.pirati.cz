@@ -5,7 +5,7 @@ tags:         evropská-unie
 layout:       post
 title:        "Bude rok 2022 zlomovým bodem digitální revoluce?"
 image:        posts/data.png
-author:       Mikuláš Peksa
+author:       Mikuláš Peksa, přeloženo
 ---
 
 Loňský rok jsme v Evropském parlamentu vedli dlouhé debaty o tom, jakou podobu by měl mít dnešní online svět. Dominuje mu hrstka technologických gigantů, jako jsou Apple a Facebook, jejichž monopolní postavení nezdravě vychyluje rovnováhu digitálního ekosystému v jejich prospěch. Digitální prostor má globální rozsah, daleko za hranice členských států EU. Jsem tedy rád, že debata o nezbytné regulaci velkých digitálních platforem začíná pomalu nabývat transatlantického rozměru. Spojené státy, zejména americký Kongres, vedou s Evropskou unií dialog o tom, jak řešit dominanci monopolistických firem v digitálním prostředí. **Rok 2022 by měl být v tomto ohledu přelomový, ambiciózní debaty se konečně promítnou do konkrétních legislativních balíčků.**
