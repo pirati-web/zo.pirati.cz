@@ -5,7 +5,7 @@ tags:         rusko ukrajina evropská-unie
 layout:       post
 title:        "Piráti podporují rezoluci o Ukrajině, varují před cenzurou"
 image:        posts/ukraine-solidarity.jpg
-author:       PPEU
+author:       PPEU, přeloženo
 ---
 
 Evropský parlament dnes přijal [usnesení](https://www.europarl.europa.eu/doceo/document/B-9-2022-0123_CS.pdf), v němž důrazně odsuzuje ruskou invazi na Ukrajinu a vyzývá k dalším sankcím proti režimu Vladimira Putina. Toto usnesení rovněž vyzývá Komisi EU, aby poskytla rozsáhlou podporu všem občanům Ukrajiny, kteří v současné době hledají útočiště. Pirátští europoslanci tento postoj podporují, ale zároveň varují před negativními dopady digitální cenzury na Evropu.
