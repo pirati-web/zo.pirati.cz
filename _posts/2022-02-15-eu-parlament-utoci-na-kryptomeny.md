@@ -5,7 +5,7 @@ tags:         evropská-unie kryptoměny
 layout:       post
 title:        "Digitální hotovost: Parlament EU útočí na anonymní platby v kryptoměnách"
 image:        posts/bitcoin.jpg
-author:       PPEU
+author:       PPEU, přeloženo
 ---
 
 Dnes zveřejněný [návrh zprávy](https://www.europarl.europa.eu/doceo/document/CJ12-PR-704888_EN.pdf) Evropského parlamentu by zakázal anonymní platby a dary v kryptoměnách. Limit 1000 eur pro anonymní transakce navržený Evropskou komisí by byl zrušen. Bez identifikace by zůstaly možné pouze peer-to-peer platby mezi místními peněženkami bez zapojení poskytovatelů služeb.
