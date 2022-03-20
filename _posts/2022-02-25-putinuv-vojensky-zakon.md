@@ -5,7 +5,7 @@ tags:         legislativa rusko ukrajina
 layout:       post
 title:       	"Putinův vojenský zákon"
 image:        posts/kremlin.jpeg
-author:       Markéta Gregorová
+author:       Markéta Gregorová, přeloženo
 ---
 
 Putinova invaze Ukrajiny je dalším pokračováním jeho způsobu řešení problémů. Jeho intervence mají jedno společné: minimální zájem o civilisty a bezprecedentní brutalitu. Co jeho vojenské zákroky způsobily?
