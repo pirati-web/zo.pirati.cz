@@ -8,7 +8,7 @@ image:        posts/cenzura.jpg
 author:       Patrick Breyer, přeloženo
 ---
 
-Brusel / Štrasburk, 7. 3. 2022 - Ruský režim zpřísňuje cenzuru Internetu a tisku v zemi. V pátek byl přijat zákon o zákazu šíření "falešných zpráv". Novinářům, bloggerům a tvůrcům médií, kteří podle ruské vlády zveřejňují nepravdivé informace o válce a ruských ozbrojených silách, hrozí vysoké pokuty a až 15 let vězení. Termíny jako "invaze", "útok", "válka" nebo "vyhlášení války" se již nesmí volně používat (Moskva válku označuje za vojenskou "speciální operaci"). Kromě toho ruský mediální regulátor blokuje stále více internetových stránek mezinárodních médií, jako Deutsche Welle a BBC, Facebook i Twitter. V návaznosti na toto masivní omezování svobody tisku a informací přestává stále více západních médií, včetně ARD a ZDF, informovat o dění v Moskvě.
+Brusel / Štrasburk, 7. 3. 2022 - Ruský režim zpřísňuje cenzuru Internetu a tisku v zemi. V pátek byl přijat zákon o zákazu šíření "falešných zpráv". Novinářům, bloggerům a tvůrcům médií, kteří podle ruské vlády zveřejňují nepravdivé informace o válce a ruských ozbrojených silách, hrozí vysoké pokuty a až 15 let vězení. Termíny jako "invaze", "útok", "válka" nebo "vyhlášení války" se již nesmí volně používat (Moskva válku označuje za vojenskou "speciální operaci"). Kromě toho ruský mediální regulátor blokuje stále více internetových stránek mezinárodních médií, jako Deutsche Welle a BBC, také Facebook i Twitter. V návaznosti na toto masivní omezování svobody tisku a informací přestává stále více západních médií, včetně ARD a ZDF, informovat o dění v Moskvě.
 
 Pirátský europoslanec Patrick Breyer komentuje:
 
