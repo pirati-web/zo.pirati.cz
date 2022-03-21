@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Ftojestwojna\u002Fnuxt\u002Fstatic\u002F1647898380",layout:"default",error:a,serverRendered:true,routePath:"\u002F",config:{_app:{basePath:"\u002Ftojestwojna\u002F",assetsPath:"\u002Ftojestwojna\u002Fnuxt\u002F",cdnURL:a},content:{dbHash:"295e4932"}}}}(null));
