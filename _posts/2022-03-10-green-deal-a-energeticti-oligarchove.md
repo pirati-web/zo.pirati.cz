@@ -4,7 +4,7 @@ category:     blog
 tags:         legislativa evropská-unie
 layout:       post
 title:        "Mikuláš Peksa: Green Deal je dnes aktuálnější než kdy jindy, zlatá doba energetických oligarchů je u konce"
-image:        posts/holomcik-radek.jpg
+image:        posts/komin.jpg
 author:       Mikuláš Peksa, přeloženo
 ---
 
