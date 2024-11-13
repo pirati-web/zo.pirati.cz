@@ -3,8 +3,8 @@ data-version: 2
 uid: marketa.gregorova
 name:     Markéta Gregorová                      # běžně používáné jméno
 fullname: Markéta Gregorová                  # jméno s tituly etc.
-category:                                 # kategorie: rp, praha, vary, hradec, jmk, senat
-- euro
+category: euro,garant        # kategorie: rp, praha, vary, hradec, jmk, senat
+
 img: people/marketa-gregorova.jpg           # 165 x 220
 description: Europoslankyně, předsedkyně Evropské pirátské strany
 mail:
