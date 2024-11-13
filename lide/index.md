@@ -22,22 +22,7 @@ keywords: zahraniční odbor, piráti, pirátky, příznivci
                                         {% include people/list-2col.html param=team %}
                                     </div>
 
-   									<br><br><hr><hr>
-                                    <a href="#euparlament" ><h3>EVROPSKÝ PARLAMENT</h3></a>
-                                    <div id="euparlament">
-                                        {% assign team = site.people | where_exp:"item","item.categories contains 'euro'" | sort:"ordeuro" %}
-                                        {% include people/list-2col.html param=team %}
-                                    </div>
  
-   									<br><br><hr><hr>
-                                    <a href="#zoexpert"><h3>EXPERTI A PORADCI RESORTU </h3></a>
-                                    
-                                      <div id="zoexpert">
-                                        <div>
-                                            {% assign team = site.people | where_exp:"item","item.categories contains 'zoexpert'" %}
-                                            {% include people/list-2col.html param=team %}
-                                        </div>
-                                      </div>
 
 
          
